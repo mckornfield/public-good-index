@@ -3,424 +3,424 @@
     "state":"UT",
     "state_name":"Utah",
     "rank":1,
-    "tax_score":50.097289485,
+    "tax_score":51.4771357537,
     "investment_score":95.4341349774,
     "effectiveness_score":65.3821782473,
-    "public_good_index":70.3045342366
+    "public_good_index":70.7644829928
   },
   {
     "state":"WY",
     "state_name":"Wyoming",
     "rank":2,
-    "tax_score":57.3268662016,
+    "tax_score":58.4099112447,
     "investment_score":66.1086318526,
     "effectiveness_score":55.5365282519,
-    "public_good_index":59.6573421021
+    "public_good_index":60.0183571164
   },
   {
     "state":"NE",
     "state_name":"Nebraska",
     "rank":3,
-    "tax_score":54.1727578107,
+    "tax_score":55.3852908269,
     "investment_score":60.1545399194,
     "effectiveness_score":58.8967252944,
-    "public_good_index":57.7413410081
+    "public_good_index":58.1455186802
   },
   {
     "state":"NH",
     "state_name":"New Hampshire",
     "rank":4,
-    "tax_score":83.3472131064,
+    "tax_score":83.3620253674,
     "investment_score":9.5222338182,
     "effectiveness_score":79.4600556379,
-    "public_good_index":57.4431675209
+    "public_good_index":57.4481049412
   },
   {
-    "state":"CO",
-    "state_name":"Colorado",
+    "state":"VA",
+    "state_name":"Virginia",
     "rank":5,
-    "tax_score":75.3470230192,
-    "investment_score":39.9180250042,
-    "effectiveness_score":56.3510088045,
-    "public_good_index":57.205352276
+    "tax_score":53.8666269182,
+    "investment_score":56.7393534222,
+    "effectiveness_score":60.5993479884,
+    "public_good_index":57.0684427763
   },
   {
     "state":"MA",
     "state_name":"Massachusetts",
     "rank":6,
-    "tax_score":41.4723330197,
+    "tax_score":39.6143570865,
     "investment_score":49.7906887143,
     "effectiveness_score":79.4818792981,
-    "public_good_index":56.9149670107
+    "public_good_index":56.2956416997
   },
   {
-    "state":"WA",
-    "state_name":"Washington",
+    "state":"CO",
+    "state_name":"Colorado",
     "rank":7,
-    "tax_score":52.2789888255,
-    "investment_score":56.8830580127,
-    "effectiveness_score":60.8533107303,
-    "public_good_index":56.6717858562
-  },
-  {
-    "state":"VA",
-    "state_name":"Virginia",
-    "rank":8,
-    "tax_score":52.5890779051,
-    "investment_score":56.7393534222,
-    "effectiveness_score":60.5993479884,
-    "public_good_index":56.6425931052
+    "tax_score":70.6073829835,
+    "investment_score":39.9180250042,
+    "effectiveness_score":56.3510088045,
+    "public_good_index":55.6254722641
   },
   {
     "state":"ID",
     "state_name":"Idaho",
-    "rank":9,
-    "tax_score":37.2133438211,
+    "rank":8,
+    "tax_score":39.1221243569,
     "investment_score":66.1699568751,
     "effectiveness_score":61.3944297319,
-    "public_good_index":54.9259101427
+    "public_good_index":55.5621703213
+  },
+  {
+    "state":"WA",
+    "state_name":"Washington",
+    "rank":9,
+    "tax_score":47.0179875974,
+    "investment_score":56.8830580127,
+    "effectiveness_score":60.8533107303,
+    "public_good_index":54.9181187801
   },
   {
     "state":"TX",
     "state_name":"Texas",
     "rank":10,
-    "tax_score":71.7453202264,
+    "tax_score":72.2364336818,
     "investment_score":46.4074846232,
     "effectiveness_score":42.6150893091,
-    "public_good_index":53.5892980529
+    "public_good_index":53.7530025381
   },
   {
-    "state":"NJ",
-    "state_name":"New Jersey",
+    "state":"ND",
+    "state_name":"North Dakota",
     "rank":11,
-    "tax_score":41.5109245344,
-    "investment_score":39.0546278699,
-    "effectiveness_score":77.698051034,
-    "public_good_index":52.7545344794
+    "tax_score":2.7226180223,
+    "investment_score":100.0,
+    "effectiveness_score":56.6089051938,
+    "public_good_index":53.1105077387
   },
   {
     "state":"IA",
     "state_name":"Iowa",
     "rank":12,
-    "tax_score":46.9261645948,
+    "tax_score":48.4361974277,
     "investment_score":48.517308791,
     "effectiveness_score":62.2001269348,
-    "public_good_index":52.5478667735
-  },
-  {
-    "state":"ND",
-    "state_name":"North Dakota",
-    "rank":13,
-    "tax_score":0.0,
-    "investment_score":100.0,
-    "effectiveness_score":56.6089051938,
-    "public_good_index":52.2029683979
-  },
-  {
-    "state":"MN",
-    "state_name":"Minnesota",
-    "rank":14,
-    "tax_score":20.7996892561,
-    "investment_score":67.8595436267,
-    "effectiveness_score":67.4674963356,
-    "public_good_index":52.0422430728
+    "public_good_index":53.0512110511
   },
   {
     "state":"MT",
     "state_name":"Montana",
-    "rank":15,
-    "tax_score":47.0013066495,
+    "rank":13,
+    "tax_score":48.5082546193,
     "investment_score":53.5168285907,
     "effectiveness_score":52.438322903,
-    "public_good_index":50.9854860477
+    "public_good_index":51.4878020377
+  },
+  {
+    "state":"NJ",
+    "state_name":"New Jersey",
+    "rank":14,
+    "tax_score":36.4660864851,
+    "investment_score":39.0546278699,
+    "effectiveness_score":77.698051034,
+    "public_good_index":51.0729217963
+  },
+  {
+    "state":"MN",
+    "state_name":"Minnesota",
+    "rank":15,
+    "tax_score":17.7346561857,
+    "investment_score":67.8595436267,
+    "effectiveness_score":67.4674963356,
+    "public_good_index":51.0205653826
   },
   {
     "state":"SD",
     "state_name":"South Dakota",
     "rank":16,
-    "tax_score":75.0149894742,
+    "tax_score":75.37187075,
     "investment_score":32.507844801,
     "effectiveness_score":44.196146133,
-    "public_good_index":50.5729934694
+    "public_good_index":50.6919538947
   },
   {
     "state":"KS",
     "state_name":"Kansas",
     "rank":17,
-    "tax_score":39.1979848017,
+    "tax_score":41.0252883855,
     "investment_score":59.7599187499,
     "effectiveness_score":48.4184046958,
-    "public_good_index":49.1254360824
+    "public_good_index":49.734537277
   },
   {
     "state":"WI",
     "state_name":"Wisconsin",
     "rank":18,
-    "tax_score":43.2518618824,
+    "tax_score":44.9127386153,
     "investment_score":43.8142532237,
     "effectiveness_score":55.4398036346,
-    "public_good_index":47.5019729135
-  },
-  {
-    "state":"CT",
-    "state_name":"Connecticut",
-    "rank":19,
-    "tax_score":38.1257099337,
-    "investment_score":34.6947584893,
-    "effectiveness_score":69.6285236647,
-    "public_good_index":47.4829973626
+    "public_good_index":48.0555984912
   },
   {
     "state":"VT",
     "state_name":"Vermont",
-    "rank":20,
-    "tax_score":0.0,
+    "rank":19,
+    "tax_score":0.7496770087,
     "investment_score":70.5219470967,
     "effectiveness_score":71.6355460041,
-    "public_good_index":47.3858310336
-  },
-  {
-    "state":"OR",
-    "state_name":"Oregon",
-    "rank":21,
-    "tax_score":50.5773236441,
-    "investment_score":31.4637489792,
-    "effectiveness_score":59.9263709708,
-    "public_good_index":47.322481198
+    "public_good_index":47.6357233699
   },
   {
     "state":"ME",
     "state_name":"Maine",
-    "rank":22,
-    "tax_score":37.6086606871,
+    "rank":20,
+    "tax_score":39.5012119836,
     "investment_score":37.3476847443,
     "effectiveness_score":65.0125770492,
-    "public_good_index":46.6563074935
+    "public_good_index":47.2871579257
   },
   {
-    "state":"CA",
-    "state_name":"California",
-    "rank":23,
-    "tax_score":23.0063677683,
-    "investment_score":64.5370555157,
-    "effectiveness_score":49.2491048081,
-    "public_good_index":45.5975093641
+    "state":"CT",
+    "state_name":"Connecticut",
+    "rank":21,
+    "tax_score":34.349378765,
+    "investment_score":34.6947584893,
+    "effectiveness_score":69.6285236647,
+    "public_good_index":46.2242203063
   },
   {
     "state":"FL",
     "state_name":"Florida",
-    "rank":24,
-    "tax_score":75.034960772,
+    "rank":22,
+    "tax_score":75.3910221512,
     "investment_score":18.1606683429,
     "effectiveness_score":43.2748643595,
-    "public_good_index":45.4901644915
+    "public_good_index":45.6088516179
   },
   {
     "state":"GA",
     "state_name":"Georgia",
-    "rank":25,
-    "tax_score":61.6422704083,
+    "rank":23,
+    "tax_score":62.5481519317,
     "investment_score":42.3456538333,
     "effectiveness_score":31.7401169509,
-    "public_good_index":45.2426803975
+    "public_good_index":45.5446409053
+  },
+  {
+    "state":"OR",
+    "state_name":"Oregon",
+    "rank":24,
+    "tax_score":45.1602759245,
+    "investment_score":31.4637489792,
+    "effectiveness_score":59.9263709708,
+    "public_good_index":45.5167986248
   },
   {
     "state":"NC",
     "state_name":"North Carolina",
-    "rank":26,
-    "tax_score":53.2680299116,
+    "rank":25,
+    "tax_score":54.5177053996,
     "investment_score":46.63900516,
     "effectiveness_score":34.8170913811,
-    "public_good_index":44.9080421509
+    "public_good_index":45.3246006469
   },
   {
     "state":"IN",
     "state_name":"Indiana",
-    "rank":27,
-    "tax_score":48.4612511392,
+    "rank":26,
+    "tax_score":49.9082629149,
     "investment_score":43.7446962741,
     "effectiveness_score":40.771501936,
-    "public_good_index":44.3258164498
+    "public_good_index":44.8081537083
+  },
+  {
+    "state":"NV",
+    "state_name":"Nevada",
+    "rank":27,
+    "tax_score":40.5612166577,
+    "investment_score":55.6083943103,
+    "effectiveness_score":36.006022834,
+    "public_good_index":44.0585446006
   },
   {
     "state":"MD",
     "state_name":"Maryland",
     "rank":28,
-    "tax_score":43.7154073943,
+    "tax_score":42.5334260186,
     "investment_score":51.4162766396,
     "effectiveness_score":36.5417532775,
-    "public_good_index":43.8911457705
+    "public_good_index":43.4971519786
   },
   {
-    "state":"NV",
-    "state_name":"Nevada",
+    "state":"CA",
+    "state_name":"California",
     "rank":29,
-    "tax_score":38.7140455536,
-    "investment_score":55.6083943103,
-    "effectiveness_score":36.006022834,
-    "public_good_index":43.4428208993
+    "tax_score":15.3326177485,
+    "investment_score":64.5370555157,
+    "effectiveness_score":49.2491048081,
+    "public_good_index":43.0395926908
   },
   {
     "state":"AZ",
     "state_name":"Arizona",
     "rank":30,
-    "tax_score":62.3282592962,
+    "tax_score":63.2059784042,
     "investment_score":27.1540576857,
     "effectiveness_score":38.6544991263,
-    "public_good_index":42.7122720361
-  },
-  {
-    "state":"NY",
-    "state_name":"New York",
-    "rank":31,
-    "tax_score":34.091166474,
-    "investment_score":39.4156550047,
-    "effectiveness_score":52.4956571608,
-    "public_good_index":42.0008262132
+    "public_good_index":43.0048450721
   },
   {
     "state":"OH",
     "state_name":"Ohio",
-    "rank":32,
-    "tax_score":60.877666788,
+    "rank":31,
+    "tax_score":61.8149381563,
     "investment_score":20.3500234581,
     "effectiveness_score":43.1073879746,
-    "public_good_index":41.4450260736
+    "public_good_index":41.757449863
   },
   {
     "state":"PA",
     "state_name":"Pennsylvania",
-    "rank":33,
-    "tax_score":47.9304393591,
+    "rank":32,
+    "tax_score":49.3992429482,
     "investment_score":23.4820801471,
     "effectiveness_score":51.8293080697,
-    "public_good_index":41.080609192
+    "public_good_index":41.5702103883
   },
   {
     "state":"KY",
     "state_name":"Kentucky",
-    "rank":34,
-    "tax_score":41.2367332909,
+    "rank":33,
+    "tax_score":42.9803386066,
     "investment_score":34.7068140637,
     "effectiveness_score":46.4754523118,
-    "public_good_index":40.8063332221
+    "public_good_index":41.387534994
+  },
+  {
+    "state":"NY",
+    "state_name":"New York",
+    "rank":34,
+    "tax_score":30.9887574474,
+    "investment_score":39.4156550047,
+    "effectiveness_score":52.4956571608,
+    "public_good_index":40.966689871
   },
   {
     "state":"MO",
     "state_name":"Missouri",
     "rank":35,
-    "tax_score":67.2752458898,
+    "tax_score":67.9498726535,
     "investment_score":17.1024046407,
     "effectiveness_score":34.3404734196,
-    "public_good_index":39.5727079833
-  },
-  {
-    "state":"RI",
-    "state_name":"Rhode Island",
-    "rank":36,
-    "tax_score":38.1650635167,
-    "investment_score":32.3793634988,
-    "effectiveness_score":47.3622473137,
-    "public_good_index":39.3022247764
+    "public_good_index":39.7975835713
   },
   {
     "state":"OK",
     "state_name":"Oklahoma",
-    "rank":37,
-    "tax_score":59.2797245869,
+    "rank":36,
+    "tax_score":60.2825974727,
     "investment_score":32.0497061989,
     "effectiveness_score":22.1322640232,
-    "public_good_index":37.8205649363
+    "public_good_index":38.1548558983
   },
   {
     "state":"IL",
     "state_name":"Illinois",
-    "rank":38,
-    "tax_score":34.4185221795,
+    "rank":37,
+    "tax_score":36.4420406206,
     "investment_score":37.5016938372,
     "effectiveness_score":39.6726132884,
-    "public_good_index":37.1976097684
+    "public_good_index":37.8721159154
   },
   {
     "state":"TN",
     "state_name":"Tennessee",
-    "rank":39,
-    "tax_score":58.6138290076,
+    "rank":38,
+    "tax_score":59.6440394032,
     "investment_score":37.2322606381,
     "effectiveness_score":14.5209796323,
-    "public_good_index":36.7890230927
+    "public_good_index":37.1324265578
   },
   {
     "state":"SC",
     "state_name":"South Carolina",
-    "rank":40,
-    "tax_score":53.1002046416,
+    "rank":39,
+    "tax_score":54.3567699861,
     "investment_score":29.7517735354,
     "effectiveness_score":24.0292520068,
-    "public_good_index":35.6270767279
+    "public_good_index":36.0459318428
+  },
+  {
+    "state":"RI",
+    "state_name":"Rhode Island",
+    "rank":40,
+    "tax_score":27.6099299493,
+    "investment_score":32.3793634988,
+    "effectiveness_score":47.3622473137,
+    "public_good_index":35.7838469206
   },
   {
     "state":"MI",
     "state_name":"Michigan",
     "rank":41,
-    "tax_score":49.610212093,
+    "tax_score":51.0100547145,
     "investment_score":24.6397171218,
     "effectiveness_score":28.3078210014,
-    "public_good_index":34.1859167388
+    "public_good_index":34.6525309459
   },
   {
     "state":"DE",
     "state_name":"Delaware",
     "rank":42,
-    "tax_score":6.296532236,
+    "tax_score":3.8269081289,
     "investment_score":63.0446390997,
     "effectiveness_score":32.5540586476,
-    "public_good_index":33.9650766611
+    "public_good_index":33.1418686254
   },
   {
     "state":"AR",
     "state_name":"Arkansas",
     "rank":43,
-    "tax_score":35.2930294963,
+    "tax_score":37.2806461337,
     "investment_score":45.4432803946,
     "effectiveness_score":10.7324461087,
-    "public_good_index":30.4895853332
+    "public_good_index":31.1521242124
   },
   {
     "state":"AL",
     "state_name":"Alabama",
     "rank":44,
-    "tax_score":50.1126300713,
+    "tax_score":51.4918465514,
     "investment_score":29.0653787618,
     "effectiveness_score":12.1793817222,
-    "public_good_index":30.4524635184
+    "public_good_index":30.9122023451
   },
   {
     "state":"LA",
     "state_name":"Louisiana",
     "rank":45,
-    "tax_score":51.8903748973,
+    "tax_score":53.1966082881,
     "investment_score":29.2527850029,
     "effectiveness_score":4.166380327,
-    "public_good_index":28.4365134091
+    "public_good_index":28.8719245393
   },
   {
     "state":"MS",
     "state_name":"Mississippi",
     "rank":46,
-    "tax_score":35.8606182232,
+    "tax_score":37.8249332157,
     "investment_score":37.6599647257,
     "effectiveness_score":8.9887626022,
-    "public_good_index":27.5031151837
+    "public_good_index":28.1578868479
   },
   {
     "state":"WV",
     "state_name":"West Virginia",
     "rank":47,
-    "tax_score":33.5857480166,
+    "tax_score":35.6434549588,
     "investment_score":22.2108309269,
     "effectiveness_score":23.6384737754,
-    "public_good_index":26.4783509063
+    "public_good_index":27.1642532204
   },
   {
     "state":"NM",

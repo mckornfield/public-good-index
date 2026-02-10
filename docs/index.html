@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Public Good Index</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background: #1a1a2e;
+            color: #e0e0e0;
+            padding: 2rem;
+        }
+        h1 {
+            font-size: 2rem;
+            margin-bottom: 0.5rem;
+            color: #e94560;
+        }
+        .subtitle {
+            color: #888;
+            margin-bottom: 2rem;
+        }
+        .chart-container {
+            background: #16213e;
+            border-radius: 8px;
+            padding: 1.5rem;
+            margin-bottom: 2rem;
+        }
+        .chart-container h2 {
+            font-size: 1.2rem;
+            margin-bottom: 1rem;
+            color: #e0e0e0;
+        }
+        #charts-placeholder {
+            text-align: center;
+            padding: 4rem;
+            color: #666;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <h1>Public Good Index</h1>
+    <p class="subtitle">How effectively does your state convert tax dollars into public good?</p>
+
+    <div class="chart-container">
+        <h2>Tax Burden by State</h2>
+        <div id="tax-burden-chart"></div>
+    </div>
+
+    <div class="chart-container">
+        <h2>Investment vs. Cost Spending</h2>
+        <div id="investment-cost-chart"></div>
+    </div>
+
+    <div class="chart-container">
+        <h2>Public Good Score</h2>
+        <div id="public-good-chart"></div>
+    </div>
+
+    <div id="charts-placeholder">
+        Charts will be populated as data is processed.
+    </div>
+
+    <script src="charts/main.js"></script>
+</body>
+</html>

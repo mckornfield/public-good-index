@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:en.wikipedia.org)",
+      "WebSearch",
+      "WebFetch(domain:api.census.gov)",
+      "WebFetch(domain:www.census.gov)",
+      "WebFetch(domain:www2.census.gov)",
+      "WebFetch(domain:apps.bea.gov)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:www.businessinitiative.org)",
+      "WebFetch(domain:ua-libraries-research-data-services.github.io)",
+      "WebFetch(domain:taxfoundation.org)",
+      "Bash(uv:*)",
+      "WebFetch(domain:nces.ed.gov)",
+      "WebFetch(domain:crime-data-explorer.fr.cloud.gov)",
+      "WebFetch(domain:www.ssa.gov)"
+    ]
+  }
+}

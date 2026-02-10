@@ -15,4 +15,5 @@ dependencies = [
     "papermill>=2.6.0",
     "plotly>=5.24.0",
     "nbconvert>=7.17.0",
+    "scipy>=1.13.1",
 ]

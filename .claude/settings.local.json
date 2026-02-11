@@ -20,7 +20,8 @@
       "Bash(ls:*)",
       "Bash(jupyter nbconvert:*)",
       "Bash(python3 -m jupyter:*)",
-      "Bash(.venv/bin/python:*)"
+      "Bash(.venv/bin/python:*)",
+      "Bash(../.venv/bin/python:*)"
     ]
   }
 }

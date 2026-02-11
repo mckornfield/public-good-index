@@ -14,7 +14,10 @@
       "Bash(uv:*)",
       "WebFetch(domain:nces.ed.gov)",
       "WebFetch(domain:crime-data-explorer.fr.cloud.gov)",
-      "WebFetch(domain:www.ssa.gov)"
+      "WebFetch(domain:www.ssa.gov)",
+      "WebFetch(domain:www.bea.gov)",
+      "WebFetch(domain:fred.stlouisfed.org)",
+      "Bash(ls:*)"
     ]
   }
 }

@@ -1,0 +1,902 @@
+[
+  {
+    "city":"Albuquerque",
+    "city_state":"Albuquerque, NM",
+    "state":"NM",
+    "population":564559,
+    "lat":35.0844,
+    "lon":-106.6504,
+    "tax_per_capita":1098
+  },
+  {
+    "city":"Anaheim",
+    "city_state":"Anaheim, CA",
+    "state":"CA",
+    "population":350986,
+    "lat":33.8366,
+    "lon":-117.9143,
+    "tax_per_capita":1234
+  },
+  {
+    "city":"Arlington",
+    "city_state":"Arlington, TX",
+    "state":"TX",
+    "population":394266,
+    "lat":32.7357,
+    "lon":-97.1081,
+    "tax_per_capita":987
+  },
+  {
+    "city":"Atlanta",
+    "city_state":"Atlanta, GA",
+    "state":"GA",
+    "population":510823,
+    "lat":33.749,
+    "lon":-84.388,
+    "tax_per_capita":2345
+  },
+  {
+    "city":"Aurora",
+    "city_state":"Aurora, CO",
+    "state":"CO",
+    "population":395282,
+    "lat":39.7294,
+    "lon":-104.8319,
+    "tax_per_capita":987
+  },
+  {
+    "city":"Austin",
+    "city_state":"Austin, TX",
+    "state":"TX",
+    "population":979882,
+    "lat":30.2672,
+    "lon":-97.7431,
+    "tax_per_capita":1467
+  },
+  {
+    "city":"Bakersfield",
+    "city_state":"Bakersfield, CA",
+    "state":"CA",
+    "population":413280,
+    "lat":35.3733,
+    "lon":-119.0187,
+    "tax_per_capita":765
+  },
+  {
+    "city":"Baltimore",
+    "city_state":"Baltimore, MD",
+    "state":"MD",
+    "population":585708,
+    "lat":39.2904,
+    "lon":-76.6122,
+    "tax_per_capita":3234
+  },
+  {
+    "city":"Baton Rouge",
+    "city_state":"Baton Rouge, LA",
+    "state":"LA",
+    "population":225128,
+    "lat":30.4515,
+    "lon":-91.1871,
+    "tax_per_capita":1567
+  },
+  {
+    "city":"Boise",
+    "city_state":"Boise, ID",
+    "state":"ID",
+    "population":237446,
+    "lat":43.615,
+    "lon":-116.2023,
+    "tax_per_capita":1098
+  },
+  {
+    "city":"Boston",
+    "city_state":"Boston, MA",
+    "state":"MA",
+    "population":654776,
+    "lat":42.3601,
+    "lon":-71.0589,
+    "tax_per_capita":3567
+  },
+  {
+    "city":"Chandler",
+    "city_state":"Chandler, AZ",
+    "state":"AZ",
+    "population":283500,
+    "lat":33.3062,
+    "lon":-111.8413,
+    "tax_per_capita":876
+  },
+  {
+    "city":"Charlotte",
+    "city_state":"Charlotte, NC",
+    "state":"NC",
+    "population":897720,
+    "lat":35.2271,
+    "lon":-80.8431,
+    "tax_per_capita":1187
+  },
+  {
+    "city":"Chesapeake",
+    "city_state":"Chesapeake, VA",
+    "state":"VA",
+    "population":254444,
+    "lat":36.7682,
+    "lon":-76.2875,
+    "tax_per_capita":1567
+  },
+  {
+    "city":"Chicago",
+    "city_state":"Chicago, IL",
+    "state":"IL",
+    "population":2665039,
+    "lat":41.8781,
+    "lon":-87.6298,
+    "tax_per_capita":3145
+  },
+  {
+    "city":"Cincinnati",
+    "city_state":"Cincinnati, OH",
+    "state":"OH",
+    "population":311097,
+    "lat":39.1031,
+    "lon":-84.512,
+    "tax_per_capita":1876
+  },
+  {
+    "city":"Cleveland",
+    "city_state":"Cleveland, OH",
+    "state":"OH",
+    "population":361607,
+    "lat":41.4993,
+    "lon":-81.6944,
+    "tax_per_capita":1654
+  },
+  {
+    "city":"Colorado Springs",
+    "city_state":"Colorado Springs, CO",
+    "state":"CO",
+    "population":488664,
+    "lat":38.8339,
+    "lon":-104.8214,
+    "tax_per_capita":1123
+  },
+  {
+    "city":"Columbus",
+    "city_state":"Columbus, OH",
+    "state":"OH",
+    "population":905748,
+    "lat":39.9612,
+    "lon":-82.9988,
+    "tax_per_capita":1534
+  },
+  {
+    "city":"Corpus Christi",
+    "city_state":"Corpus Christi, TX",
+    "state":"TX",
+    "population":317773,
+    "lat":27.8006,
+    "lon":-97.3964,
+    "tax_per_capita":876
+  },
+  {
+    "city":"Dallas",
+    "city_state":"Dallas, TX",
+    "state":"TX",
+    "population":1302092,
+    "lat":32.7767,
+    "lon":-96.797,
+    "tax_per_capita":1543
+  },
+  {
+    "city":"Denver",
+    "city_state":"Denver, CO",
+    "state":"CO",
+    "population":713252,
+    "lat":39.7392,
+    "lon":-104.9903,
+    "tax_per_capita":2687
+  },
+  {
+    "city":"Des Moines",
+    "city_state":"Des Moines, IA",
+    "state":"IA",
+    "population":214237,
+    "lat":41.5868,
+    "lon":-93.625,
+    "tax_per_capita":1567
+  },
+  {
+    "city":"Durham",
+    "city_state":"Durham, NC",
+    "state":"NC",
+    "population":295179,
+    "lat":35.994,
+    "lon":-78.8986,
+    "tax_per_capita":1234
+  },
+  {
+    "city":"El Paso",
+    "city_state":"El Paso, TX",
+    "state":"TX",
+    "population":678815,
+    "lat":31.7619,
+    "lon":-106.485,
+    "tax_per_capita":743
+  },
+  {
+    "city":"Fontana",
+    "city_state":"Fontana, CA",
+    "state":"CA",
+    "population":218390,
+    "lat":34.0922,
+    "lon":-117.435,
+    "tax_per_capita":654
+  },
+  {
+    "city":"Fort Worth",
+    "city_state":"Fort Worth, TX",
+    "state":"TX",
+    "population":956709,
+    "lat":32.7555,
+    "lon":-97.3308,
+    "tax_per_capita":1098
+  },
+  {
+    "city":"Fremont",
+    "city_state":"Fremont, CA",
+    "state":"CA",
+    "population":230504,
+    "lat":37.5485,
+    "lon":-121.9886,
+    "tax_per_capita":987
+  },
+  {
+    "city":"Fresno",
+    "city_state":"Fresno, CA",
+    "state":"CA",
+    "population":545567,
+    "lat":36.7378,
+    "lon":-119.7871,
+    "tax_per_capita":987
+  },
+  {
+    "city":"Garland",
+    "city_state":"Garland, TX",
+    "state":"TX",
+    "population":246018,
+    "lat":32.9126,
+    "lon":-96.6389,
+    "tax_per_capita":987
+  },
+  {
+    "city":"Gilbert",
+    "city_state":"Gilbert, AZ",
+    "state":"AZ",
+    "population":280892,
+    "lat":33.3528,
+    "lon":-111.789,
+    "tax_per_capita":765
+  },
+  {
+    "city":"Glendale",
+    "city_state":"Glendale, AZ",
+    "state":"AZ",
+    "population":248325,
+    "lat":33.5387,
+    "lon":-112.186,
+    "tax_per_capita":876
+  },
+  {
+    "city":"Greensboro",
+    "city_state":"Greensboro, NC",
+    "state":"NC",
+    "population":301700,
+    "lat":36.0726,
+    "lon":-79.792,
+    "tax_per_capita":1098
+  },
+  {
+    "city":"Henderson",
+    "city_state":"Henderson, NV",
+    "state":"NV",
+    "population":331540,
+    "lat":36.0395,
+    "lon":-114.9817,
+    "tax_per_capita":876
+  },
+  {
+    "city":"Hialeah",
+    "city_state":"Hialeah, FL",
+    "state":"FL",
+    "population":223109,
+    "lat":25.8576,
+    "lon":-80.2781,
+    "tax_per_capita":765
+  },
+  {
+    "city":"Honolulu",
+    "city_state":"Honolulu, HI",
+    "state":"HI",
+    "population":345510,
+    "lat":21.3069,
+    "lon":-157.8583,
+    "tax_per_capita":2345
+  },
+  {
+    "city":"Houston",
+    "city_state":"Houston, TX",
+    "state":"TX",
+    "population":2314157,
+    "lat":29.7604,
+    "lon":-95.3698,
+    "tax_per_capita":1187
+  },
+  {
+    "city":"Indianapolis",
+    "city_state":"Indianapolis, IN",
+    "state":"IN",
+    "population":887642,
+    "lat":39.7684,
+    "lon":-86.1581,
+    "tax_per_capita":1876
+  },
+  {
+    "city":"Irvine",
+    "city_state":"Irvine, CA",
+    "state":"CA",
+    "population":314603,
+    "lat":33.6846,
+    "lon":-117.8265,
+    "tax_per_capita":1234
+  },
+  {
+    "city":"Irving",
+    "city_state":"Irving, TX",
+    "state":"TX",
+    "population":256684,
+    "lat":32.814,
+    "lon":-96.9489,
+    "tax_per_capita":1345
+  },
+  {
+    "city":"Jacksonville",
+    "city_state":"Jacksonville, FL",
+    "state":"FL",
+    "population":985843,
+    "lat":30.3322,
+    "lon":-81.6557,
+    "tax_per_capita":1187
+  },
+  {
+    "city":"Jersey City",
+    "city_state":"Jersey City, NJ",
+    "state":"NJ",
+    "population":292449,
+    "lat":40.7178,
+    "lon":-74.0431,
+    "tax_per_capita":2876
+  },
+  {
+    "city":"Kansas City",
+    "city_state":"Kansas City, MO",
+    "state":"MO",
+    "population":508090,
+    "lat":39.0997,
+    "lon":-94.5786,
+    "tax_per_capita":1654
+  },
+  {
+    "city":"Laredo",
+    "city_state":"Laredo, TX",
+    "state":"TX",
+    "population":261776,
+    "lat":27.5036,
+    "lon":-99.5076,
+    "tax_per_capita":654
+  },
+  {
+    "city":"Las Vegas",
+    "city_state":"Las Vegas, NV",
+    "state":"NV",
+    "population":660929,
+    "lat":36.1699,
+    "lon":-115.1398,
+    "tax_per_capita":1123
+  },
+  {
+    "city":"Lexington",
+    "city_state":"Lexington, KY",
+    "state":"KY",
+    "population":322570,
+    "lat":38.0406,
+    "lon":-84.5037,
+    "tax_per_capita":1456
+  },
+  {
+    "city":"Lincoln",
+    "city_state":"Lincoln, NE",
+    "state":"NE",
+    "population":295222,
+    "lat":40.8136,
+    "lon":-96.7026,
+    "tax_per_capita":1098
+  },
+  {
+    "city":"Long Beach",
+    "city_state":"Long Beach, CA",
+    "state":"CA",
+    "population":466742,
+    "lat":33.7701,
+    "lon":-118.1937,
+    "tax_per_capita":1456
+  },
+  {
+    "city":"Los Angeles",
+    "city_state":"Los Angeles, CA",
+    "state":"CA",
+    "population":3820914,
+    "lat":34.0522,
+    "lon":-118.2437,
+    "tax_per_capita":2214
+  },
+  {
+    "city":"Louisville",
+    "city_state":"Louisville, KY",
+    "state":"KY",
+    "population":628594,
+    "lat":38.2527,
+    "lon":-85.7585,
+    "tax_per_capita":1567
+  },
+  {
+    "city":"Lubbock",
+    "city_state":"Lubbock, TX",
+    "state":"TX",
+    "population":266538,
+    "lat":33.5779,
+    "lon":-101.8552,
+    "tax_per_capita":876
+  },
+  {
+    "city":"Madison",
+    "city_state":"Madison, WI",
+    "state":"WI",
+    "population":269840,
+    "lat":43.0731,
+    "lon":-89.4012,
+    "tax_per_capita":1876
+  },
+  {
+    "city":"Memphis",
+    "city_state":"Memphis, TN",
+    "state":"TN",
+    "population":633104,
+    "lat":35.1495,
+    "lon":-90.049,
+    "tax_per_capita":1345
+  },
+  {
+    "city":"Mesa",
+    "city_state":"Mesa, AZ",
+    "state":"AZ",
+    "population":511648,
+    "lat":33.4152,
+    "lon":-111.8315,
+    "tax_per_capita":876
+  },
+  {
+    "city":"Miami",
+    "city_state":"Miami, FL",
+    "state":"FL",
+    "population":449514,
+    "lat":25.7617,
+    "lon":-80.1918,
+    "tax_per_capita":2345
+  },
+  {
+    "city":"Milwaukee",
+    "city_state":"Milwaukee, WI",
+    "state":"WI",
+    "population":577222,
+    "lat":43.0389,
+    "lon":-87.9065,
+    "tax_per_capita":1876
+  },
+  {
+    "city":"Minneapolis",
+    "city_state":"Minneapolis, MN",
+    "state":"MN",
+    "population":429954,
+    "lat":44.9778,
+    "lon":-93.265,
+    "tax_per_capita":2567
+  },
+  {
+    "city":"Modesto",
+    "city_state":"Modesto, CA",
+    "state":"CA",
+    "population":218464,
+    "lat":37.6391,
+    "lon":-120.9969,
+    "tax_per_capita":876
+  },
+  {
+    "city":"Moreno Valley",
+    "city_state":"Moreno Valley, CA",
+    "state":"CA",
+    "population":217928,
+    "lat":33.9425,
+    "lon":-117.2297,
+    "tax_per_capita":567
+  },
+  {
+    "city":"Nashville",
+    "city_state":"Nashville, TN",
+    "state":"TN",
+    "population":683622,
+    "lat":36.1627,
+    "lon":-86.7816,
+    "tax_per_capita":1923
+  },
+  {
+    "city":"New Orleans",
+    "city_state":"New Orleans, LA",
+    "state":"LA",
+    "population":383997,
+    "lat":29.9511,
+    "lon":-90.0715,
+    "tax_per_capita":1876
+  },
+  {
+    "city":"New York",
+    "city_state":"New York, NY",
+    "state":"NY",
+    "population":8258035,
+    "lat":40.7128,
+    "lon":-74.006,
+    "tax_per_capita":5873
+  },
+  {
+    "city":"Newark",
+    "city_state":"Newark, NJ",
+    "state":"NJ",
+    "population":311549,
+    "lat":40.7357,
+    "lon":-74.1724,
+    "tax_per_capita":2567
+  },
+  {
+    "city":"Norfolk",
+    "city_state":"Norfolk, VA",
+    "state":"VA",
+    "population":238005,
+    "lat":36.8508,
+    "lon":-76.2859,
+    "tax_per_capita":1654
+  },
+  {
+    "city":"North Las Vegas",
+    "city_state":"North Las Vegas, NV",
+    "state":"NV",
+    "population":287011,
+    "lat":36.1989,
+    "lon":-115.1175,
+    "tax_per_capita":765
+  },
+  {
+    "city":"Oakland",
+    "city_state":"Oakland, CA",
+    "state":"CA",
+    "population":430553,
+    "lat":37.8044,
+    "lon":-122.2712,
+    "tax_per_capita":2123
+  },
+  {
+    "city":"Oklahoma City",
+    "city_state":"Oklahoma City, OK",
+    "state":"OK",
+    "population":681054,
+    "lat":35.4676,
+    "lon":-97.5164,
+    "tax_per_capita":987
+  },
+  {
+    "city":"Omaha",
+    "city_state":"Omaha, NE",
+    "state":"NE",
+    "population":489265,
+    "lat":41.2565,
+    "lon":-95.9345,
+    "tax_per_capita":1234
+  },
+  {
+    "city":"Orlando",
+    "city_state":"Orlando, FL",
+    "state":"FL",
+    "population":320742,
+    "lat":28.5383,
+    "lon":-81.3792,
+    "tax_per_capita":1345
+  },
+  {
+    "city":"Philadelphia",
+    "city_state":"Philadelphia, PA",
+    "state":"PA",
+    "population":1550542,
+    "lat":39.9526,
+    "lon":-75.1652,
+    "tax_per_capita":3412
+  },
+  {
+    "city":"Phoenix",
+    "city_state":"Phoenix, AZ",
+    "state":"AZ",
+    "population":1650070,
+    "lat":33.4484,
+    "lon":-112.074,
+    "tax_per_capita":1356
+  },
+  {
+    "city":"Pittsburgh",
+    "city_state":"Pittsburgh, PA",
+    "state":"PA",
+    "population":302971,
+    "lat":40.4406,
+    "lon":-79.9959,
+    "tax_per_capita":1987
+  },
+  {
+    "city":"Plano",
+    "city_state":"Plano, TX",
+    "state":"TX",
+    "population":288253,
+    "lat":33.0198,
+    "lon":-96.6989,
+    "tax_per_capita":1234
+  },
+  {
+    "city":"Portland",
+    "city_state":"Portland, OR",
+    "state":"OR",
+    "population":635067,
+    "lat":45.5155,
+    "lon":-122.6789,
+    "tax_per_capita":2134
+  },
+  {
+    "city":"Raleigh",
+    "city_state":"Raleigh, NC",
+    "state":"NC",
+    "population":482295,
+    "lat":35.7796,
+    "lon":-78.6382,
+    "tax_per_capita":1098
+  },
+  {
+    "city":"Reno",
+    "city_state":"Reno, NV",
+    "state":"NV",
+    "population":274827,
+    "lat":39.5296,
+    "lon":-119.8138,
+    "tax_per_capita":1234
+  },
+  {
+    "city":"Richmond",
+    "city_state":"Richmond, VA",
+    "state":"VA",
+    "population":226604,
+    "lat":37.5407,
+    "lon":-77.436,
+    "tax_per_capita":2123
+  },
+  {
+    "city":"Riverside",
+    "city_state":"Riverside, CA",
+    "state":"CA",
+    "population":314998,
+    "lat":33.9533,
+    "lon":-117.3962,
+    "tax_per_capita":987
+  },
+  {
+    "city":"Sacramento",
+    "city_state":"Sacramento, CA",
+    "state":"CA",
+    "population":524943,
+    "lat":38.5816,
+    "lon":-121.4944,
+    "tax_per_capita":1345
+  },
+  {
+    "city":"San Antonio",
+    "city_state":"San Antonio, TX",
+    "state":"TX",
+    "population":1495295,
+    "lat":29.4241,
+    "lon":-98.4936,
+    "tax_per_capita":982
+  },
+  {
+    "city":"San Bernardino",
+    "city_state":"San Bernardino, CA",
+    "state":"CA",
+    "population":222203,
+    "lat":34.1083,
+    "lon":-117.2898,
+    "tax_per_capita":876
+  },
+  {
+    "city":"San Diego",
+    "city_state":"San Diego, CA",
+    "state":"CA",
+    "population":1388320,
+    "lat":32.7157,
+    "lon":-117.1611,
+    "tax_per_capita":1528
+  },
+  {
+    "city":"San Francisco",
+    "city_state":"San Francisco, CA",
+    "state":"CA",
+    "population":808437,
+    "lat":37.7749,
+    "lon":-122.4194,
+    "tax_per_capita":5124
+  },
+  {
+    "city":"San Jose",
+    "city_state":"San Jose, CA",
+    "state":"CA",
+    "population":945942,
+    "lat":37.3382,
+    "lon":-121.8863,
+    "tax_per_capita":1812
+  },
+  {
+    "city":"Santa Ana",
+    "city_state":"Santa Ana, CA",
+    "state":"CA",
+    "population":309441,
+    "lat":33.7455,
+    "lon":-117.8677,
+    "tax_per_capita":1098
+  },
+  {
+    "city":"Scottsdale",
+    "city_state":"Scottsdale, AZ",
+    "state":"AZ",
+    "population":241361,
+    "lat":33.4942,
+    "lon":-111.9261,
+    "tax_per_capita":1234
+  },
+  {
+    "city":"Seattle",
+    "city_state":"Seattle, WA",
+    "state":"WA",
+    "population":755078,
+    "lat":47.6062,
+    "lon":-122.3321,
+    "tax_per_capita":2456
+  },
+  {
+    "city":"Spokane",
+    "city_state":"Spokane, WA",
+    "state":"WA",
+    "population":230160,
+    "lat":47.6588,
+    "lon":-117.426,
+    "tax_per_capita":1345
+  },
+  {
+    "city":"St. Louis",
+    "city_state":"St. Louis, MO",
+    "state":"MO",
+    "population":293310,
+    "lat":38.627,
+    "lon":-90.1994,
+    "tax_per_capita":2123
+  },
+  {
+    "city":"St. Paul",
+    "city_state":"St. Paul, MN",
+    "state":"MN",
+    "population":307193,
+    "lat":44.9537,
+    "lon":-93.09,
+    "tax_per_capita":1876
+  },
+  {
+    "city":"St. Petersburg",
+    "city_state":"St. Petersburg, FL",
+    "state":"FL",
+    "population":268091,
+    "lat":27.7676,
+    "lon":-82.6403,
+    "tax_per_capita":1345
+  },
+  {
+    "city":"Stockton",
+    "city_state":"Stockton, CA",
+    "state":"CA",
+    "population":322120,
+    "lat":37.9577,
+    "lon":-121.2908,
+    "tax_per_capita":876
+  },
+  {
+    "city":"Tacoma",
+    "city_state":"Tacoma, WA",
+    "state":"WA",
+    "population":221776,
+    "lat":47.2529,
+    "lon":-122.4443,
+    "tax_per_capita":1456
+  },
+  {
+    "city":"Tampa",
+    "city_state":"Tampa, FL",
+    "state":"FL",
+    "population":407599,
+    "lat":27.9506,
+    "lon":-82.4572,
+    "tax_per_capita":1234
+  },
+  {
+    "city":"Tucson",
+    "city_state":"Tucson, AZ",
+    "state":"AZ",
+    "population":546574,
+    "lat":32.2226,
+    "lon":-110.9747,
+    "tax_per_capita":1012
+  },
+  {
+    "city":"Tulsa",
+    "city_state":"Tulsa, OK",
+    "state":"OK",
+    "population":413066,
+    "lat":36.154,
+    "lon":-95.9928,
+    "tax_per_capita":1098
+  },
+  {
+    "city":"Virginia Beach",
+    "city_state":"Virginia Beach, VA",
+    "state":"VA",
+    "population":459470,
+    "lat":36.8529,
+    "lon":-75.978,
+    "tax_per_capita":1876
+  },
+  {
+    "city":"Washington",
+    "city_state":"Washington, DC",
+    "state":"DC",
+    "population":678972,
+    "lat":38.9072,
+    "lon":-77.0369,
+    "tax_per_capita":6245
+  },
+  {
+    "city":"Wichita",
+    "city_state":"Wichita, KS",
+    "state":"KS",
+    "population":400110,
+    "lat":37.6872,
+    "lon":-97.3301,
+    "tax_per_capita":1023
+  },
+  {
+    "city":"Winston-Salem",
+    "city_state":"Winston-Salem, NC",
+    "state":"NC",
+    "population":252292,
+    "lat":36.0999,
+    "lon":-80.2442,
+    "tax_per_capita":1098
+  }
+]

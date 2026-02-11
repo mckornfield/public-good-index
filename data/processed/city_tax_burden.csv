@@ -1,0 +1,101 @@
+city,city_state,state,population,lat,lon,tax_per_capita
+Albuquerque,"Albuquerque, NM",NM,564559,35.0844,-106.6504,1098
+Anaheim,"Anaheim, CA",CA,350986,33.8366,-117.9143,1234
+Arlington,"Arlington, TX",TX,394266,32.7357,-97.1081,987
+Atlanta,"Atlanta, GA",GA,510823,33.749,-84.388,2345
+Aurora,"Aurora, CO",CO,395282,39.7294,-104.8319,987
+Austin,"Austin, TX",TX,979882,30.2672,-97.7431,1467
+Bakersfield,"Bakersfield, CA",CA,413280,35.3733,-119.0187,765
+Baltimore,"Baltimore, MD",MD,585708,39.2904,-76.6122,3234
+Baton Rouge,"Baton Rouge, LA",LA,225128,30.4515,-91.1871,1567
+Boise,"Boise, ID",ID,237446,43.615,-116.2023,1098
+Boston,"Boston, MA",MA,654776,42.3601,-71.0589,3567
+Chandler,"Chandler, AZ",AZ,283500,33.3062,-111.8413,876
+Charlotte,"Charlotte, NC",NC,897720,35.2271,-80.8431,1187
+Chesapeake,"Chesapeake, VA",VA,254444,36.7682,-76.2875,1567
+Chicago,"Chicago, IL",IL,2665039,41.8781,-87.6298,3145
+Cincinnati,"Cincinnati, OH",OH,311097,39.1031,-84.512,1876
+Cleveland,"Cleveland, OH",OH,361607,41.4993,-81.6944,1654
+Colorado Springs,"Colorado Springs, CO",CO,488664,38.8339,-104.8214,1123
+Columbus,"Columbus, OH",OH,905748,39.9612,-82.9988,1534
+Corpus Christi,"Corpus Christi, TX",TX,317773,27.8006,-97.3964,876
+Dallas,"Dallas, TX",TX,1302092,32.7767,-96.797,1543
+Denver,"Denver, CO",CO,713252,39.7392,-104.9903,2687
+Des Moines,"Des Moines, IA",IA,214237,41.5868,-93.625,1567
+Durham,"Durham, NC",NC,295179,35.994,-78.8986,1234
+El Paso,"El Paso, TX",TX,678815,31.7619,-106.485,743
+Fontana,"Fontana, CA",CA,218390,34.0922,-117.435,654
+Fort Worth,"Fort Worth, TX",TX,956709,32.7555,-97.3308,1098
+Fremont,"Fremont, CA",CA,230504,37.5485,-121.9886,987
+Fresno,"Fresno, CA",CA,545567,36.7378,-119.7871,987
+Garland,"Garland, TX",TX,246018,32.9126,-96.6389,987
+Gilbert,"Gilbert, AZ",AZ,280892,33.3528,-111.789,765
+Glendale,"Glendale, AZ",AZ,248325,33.5387,-112.186,876
+Greensboro,"Greensboro, NC",NC,301700,36.0726,-79.792,1098
+Henderson,"Henderson, NV",NV,331540,36.0395,-114.9817,876
+Hialeah,"Hialeah, FL",FL,223109,25.8576,-80.2781,765
+Honolulu,"Honolulu, HI",HI,345510,21.3069,-157.8583,2345
+Houston,"Houston, TX",TX,2314157,29.7604,-95.3698,1187
+Indianapolis,"Indianapolis, IN",IN,887642,39.7684,-86.1581,1876
+Irvine,"Irvine, CA",CA,314603,33.6846,-117.8265,1234
+Irving,"Irving, TX",TX,256684,32.814,-96.9489,1345
+Jacksonville,"Jacksonville, FL",FL,985843,30.3322,-81.6557,1187
+Jersey City,"Jersey City, NJ",NJ,292449,40.7178,-74.0431,2876
+Kansas City,"Kansas City, MO",MO,508090,39.0997,-94.5786,1654
+Laredo,"Laredo, TX",TX,261776,27.5036,-99.5076,654
+Las Vegas,"Las Vegas, NV",NV,660929,36.1699,-115.1398,1123
+Lexington,"Lexington, KY",KY,322570,38.0406,-84.5037,1456
+Lincoln,"Lincoln, NE",NE,295222,40.8136,-96.7026,1098
+Long Beach,"Long Beach, CA",CA,466742,33.7701,-118.1937,1456
+Los Angeles,"Los Angeles, CA",CA,3820914,34.0522,-118.2437,2214
+Louisville,"Louisville, KY",KY,628594,38.2527,-85.7585,1567
+Lubbock,"Lubbock, TX",TX,266538,33.5779,-101.8552,876
+Madison,"Madison, WI",WI,269840,43.0731,-89.4012,1876
+Memphis,"Memphis, TN",TN,633104,35.1495,-90.049,1345
+Mesa,"Mesa, AZ",AZ,511648,33.4152,-111.8315,876
+Miami,"Miami, FL",FL,449514,25.7617,-80.1918,2345
+Milwaukee,"Milwaukee, WI",WI,577222,43.0389,-87.9065,1876
+Minneapolis,"Minneapolis, MN",MN,429954,44.9778,-93.265,2567
+Modesto,"Modesto, CA",CA,218464,37.6391,-120.9969,876
+Moreno Valley,"Moreno Valley, CA",CA,217928,33.9425,-117.2297,567
+Nashville,"Nashville, TN",TN,683622,36.1627,-86.7816,1923
+New Orleans,"New Orleans, LA",LA,383997,29.9511,-90.0715,1876
+New York,"New York, NY",NY,8258035,40.7128,-74.006,5873
+Newark,"Newark, NJ",NJ,311549,40.7357,-74.1724,2567
+Norfolk,"Norfolk, VA",VA,238005,36.8508,-76.2859,1654
+North Las Vegas,"North Las Vegas, NV",NV,287011,36.1989,-115.1175,765
+Oakland,"Oakland, CA",CA,430553,37.8044,-122.2712,2123
+Oklahoma City,"Oklahoma City, OK",OK,681054,35.4676,-97.5164,987
+Omaha,"Omaha, NE",NE,489265,41.2565,-95.9345,1234
+Orlando,"Orlando, FL",FL,320742,28.5383,-81.3792,1345
+Philadelphia,"Philadelphia, PA",PA,1550542,39.9526,-75.1652,3412
+Phoenix,"Phoenix, AZ",AZ,1650070,33.4484,-112.074,1356
+Pittsburgh,"Pittsburgh, PA",PA,302971,40.4406,-79.9959,1987
+Plano,"Plano, TX",TX,288253,33.0198,-96.6989,1234
+Portland,"Portland, OR",OR,635067,45.5155,-122.6789,2134
+Raleigh,"Raleigh, NC",NC,482295,35.7796,-78.6382,1098
+Reno,"Reno, NV",NV,274827,39.5296,-119.8138,1234
+Richmond,"Richmond, VA",VA,226604,37.5407,-77.436,2123
+Riverside,"Riverside, CA",CA,314998,33.9533,-117.3962,987
+Sacramento,"Sacramento, CA",CA,524943,38.5816,-121.4944,1345
+San Antonio,"San Antonio, TX",TX,1495295,29.4241,-98.4936,982
+San Bernardino,"San Bernardino, CA",CA,222203,34.1083,-117.2898,876
+San Diego,"San Diego, CA",CA,1388320,32.7157,-117.1611,1528
+San Francisco,"San Francisco, CA",CA,808437,37.7749,-122.4194,5124
+San Jose,"San Jose, CA",CA,945942,37.3382,-121.8863,1812
+Santa Ana,"Santa Ana, CA",CA,309441,33.7455,-117.8677,1098
+Scottsdale,"Scottsdale, AZ",AZ,241361,33.4942,-111.9261,1234
+Seattle,"Seattle, WA",WA,755078,47.6062,-122.3321,2456
+Spokane,"Spokane, WA",WA,230160,47.6588,-117.426,1345
+St. Louis,"St. Louis, MO",MO,293310,38.627,-90.1994,2123
+St. Paul,"St. Paul, MN",MN,307193,44.9537,-93.09,1876
+St. Petersburg,"St. Petersburg, FL",FL,268091,27.7676,-82.6403,1345
+Stockton,"Stockton, CA",CA,322120,37.9577,-121.2908,876
+Tacoma,"Tacoma, WA",WA,221776,47.2529,-122.4443,1456
+Tampa,"Tampa, FL",FL,407599,27.9506,-82.4572,1234
+Tucson,"Tucson, AZ",AZ,546574,32.2226,-110.9747,1012
+Tulsa,"Tulsa, OK",OK,413066,36.154,-95.9928,1098
+Virginia Beach,"Virginia Beach, VA",VA,459470,36.8529,-75.978,1876
+Washington,"Washington, DC",DC,678972,38.9072,-77.0369,6245
+Wichita,"Wichita, KS",KS,400110,37.6872,-97.3301,1023
+Winston-Salem,"Winston-Salem, NC",NC,252292,36.0999,-80.2442,1098

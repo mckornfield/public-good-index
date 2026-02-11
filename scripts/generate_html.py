@@ -15,6 +15,10 @@ NOTEBOOKS = [
     "02_spending_allocation.ipynb",
     "03_service_effectiveness.ipynb",
     "04_public_good_score.ipynb",
+    "05_city_tax_burden.ipynb",
+    "06_city_spending.ipynb",
+    "07_city_effectiveness.ipynb",
+    "08_city_public_good.ipynb",
 ]
 
 

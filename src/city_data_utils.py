@@ -146,6 +146,10 @@ def get_city_col_weights() -> pd.DataFrame:
 
     Each city inherits its parent state's RPP value.
     Columns: city_state, rpp, col_weight
+
+    Limitation: BEA publishes metro-area RPPs that would be more accurate for
+    city-level COL adjustment, but mapping cities to metro areas requires an
+    additional crosswalk table and is out of scope for this version.
     """
     cities = get_top_100_cities()
     state_weights = get_col_weights()

@@ -6,10 +6,11 @@
     "population":564559,
     "lat":35.0844,
     "lon":-106.6504,
-    "education_score":58.1157173168,
-    "safety_score":44.733044733,
-    "health_score":36.6666666667,
-    "composite_score":46.5051429055
+    "education_score":52.9052012454,
+    "safety_score":19.3110881771,
+    "health_score":40.272804264,
+    "composite_score":37.4963645622,
+    "composite_z":-0.6251817719
   },
   {
     "city":"Anaheim",
@@ -18,10 +19,11 @@
     "population":350986,
     "lat":33.8366,
     "lon":-117.9143,
-    "education_score":31.8186618535,
-    "safety_score":87.0610870611,
-    "health_score":50.0,
-    "composite_score":56.2932496382
+    "education_score":25.9785166081,
+    "safety_score":66.2001818714,
+    "health_score":51.5834969803,
+    "composite_score":47.9207318199,
+    "composite_z":-0.103963409
   },
   {
     "city":"Arlington",
@@ -30,10 +32,11 @@
     "population":394266,
     "lat":32.7357,
     "lon":-97.1081,
-    "education_score":50.7054119183,
-    "safety_score":81.721981722,
-    "health_score":53.3333333333,
-    "composite_score":61.9202423245
+    "education_score":45.2960781961,
+    "safety_score":60.2857620986,
+    "health_score":54.4111701594,
+    "composite_score":53.3310034847,
+    "composite_z":0.1665501742
   },
   {
     "city":"Atlanta",
@@ -42,10 +45,11 @@
     "population":510823,
     "lat":33.749,
     "lon":-84.388,
-    "education_score":78.3818489041,
-    "safety_score":67.8210678211,
-    "health_score":50.0,
-    "composite_score":65.4009722417
+    "education_score":71.9725974748,
+    "safety_score":44.8869574649,
+    "health_score":51.5834969803,
+    "composite_score":56.1476839733,
+    "composite_z":0.3073841987
   },
   {
     "city":"Aurora",
@@ -54,10 +58,11 @@
     "population":395282,
     "lat":39.7294,
     "lon":-104.8319,
-    "education_score":48.6407799614,
-    "safety_score":79.7017797018,
-    "health_score":53.3333333333,
-    "composite_score":60.5586309988
+    "education_score":43.3956231355,
+    "safety_score":58.0478735359,
+    "health_score":54.4111701594,
+    "composite_score":51.9515556103,
+    "composite_z":0.0975777805
   },
   {
     "city":"Austin",
@@ -66,10 +71,11 @@
     "population":979882,
     "lat":30.2672,
     "lon":-97.7431,
-    "education_score":77.4460200271,
-    "safety_score":84.6560846561,
-    "health_score":76.6666666667,
-    "composite_score":79.5895904499
+    "education_score":70.9798385695,
+    "safety_score":63.5360288206,
+    "health_score":74.2048824129,
+    "composite_score":69.5735832677,
+    "composite_z":0.9786791634
   },
   {
     "city":"Bakersfield",
@@ -78,10 +84,11 @@
     "population":413280,
     "lat":35.3733,
     "lon":-119.0187,
-    "education_score":26.3714609395,
-    "safety_score":75.4208754209,
-    "health_score":13.3333333333,
-    "composite_score":38.3752232312
+    "education_score":21.2834531638,
+    "safety_score":53.3056811054,
+    "health_score":20.4790920104,
+    "composite_score":31.6894087599,
+    "composite_z":-0.915529562
   },
   {
     "city":"Baltimore",
@@ -90,10 +97,11 @@
     "population":585708,
     "lat":39.2904,
     "lon":-76.6122,
-    "education_score":50.9747117388,
-    "safety_score":33.6219336219,
-    "health_score":13.3333333333,
-    "composite_score":32.6433262314
+    "education_score":45.5439636388,
+    "safety_score":7.0027010823,
+    "health_score":20.4790920104,
+    "composite_score":24.3419189105,
+    "composite_z":-1.2829040545
   },
   {
     "city":"Baton Rouge",
@@ -102,10 +110,11 @@
     "population":225128,
     "lat":30.4515,
     "lon":-91.1871,
-    "education_score":56.1523728146,
-    "safety_score":51.3708513709,
-    "health_score":20.0,
-    "composite_score":42.5077413952
+    "education_score":50.8728149129,
+    "safety_score":26.6641505973,
+    "health_score":26.1344383686,
+    "composite_score":34.5571346263,
+    "composite_z":-0.7721432687
   },
   {
     "city":"Boise",
@@ -114,10 +123,11 @@
     "population":237446,
     "lat":43.615,
     "lon":-116.2023,
-    "education_score":73.8551157365,
-    "safety_score":91.8710918711,
-    "health_score":80.0,
-    "composite_score":81.9087358692
+    "education_score":68.5563726061,
+    "safety_score":71.528487973,
+    "health_score":77.032555592,
+    "composite_score":72.372472057,
+    "composite_z":1.1186236029
   },
   {
     "city":"Boston",
@@ -126,10 +136,11 @@
     "population":654776,
     "lat":42.3601,
     "lon":-71.0589,
-    "education_score":73.9127199762,
-    "safety_score":77.8258778259,
-    "health_score":73.3333333333,
-    "composite_score":75.0239770451
+    "education_score":67.4835738419,
+    "safety_score":55.9698341563,
+    "health_score":71.3772092338,
+    "composite_score":64.9435390773,
+    "composite_z":0.7471769539
   },
   {
     "city":"Chandler",
@@ -138,10 +149,11 @@
     "population":283500,
     "lat":33.3062,
     "lon":-111.8413,
-    "education_score":73.948722626,
-    "safety_score":94.1317941318,
-    "health_score":73.3333333333,
-    "composite_score":80.4712833637
+    "education_score":68.5674811694,
+    "safety_score":74.0327918408,
+    "health_score":71.3772092338,
+    "composite_score":71.3258274147,
+    "composite_z":1.0662913707
   },
   {
     "city":"Charlotte",
@@ -150,10 +162,11 @@
     "population":897720,
     "lat":35.2271,
     "lon":-80.8431,
-    "education_score":68.333749364,
-    "safety_score":73.2563732564,
-    "health_score":56.6666666667,
-    "composite_score":66.085596429
+    "education_score":62.610927738,
+    "safety_score":50.9079433597,
+    "health_score":57.2388433384,
+    "composite_score":56.9192381454,
+    "composite_z":0.3459619073
   },
   {
     "city":"Chesapeake",
@@ -162,10 +175,11 @@
     "population":254444,
     "lat":36.7682,
     "lon":-76.2875,
-    "education_score":62.3364279611,
-    "safety_score":95.18999519,
-    "health_score":60.0,
-    "composite_score":72.508807717
+    "education_score":57.6346531611,
+    "safety_score":75.2050191831,
+    "health_score":60.0665165175,
+    "composite_score":64.3020629539,
+    "composite_z":0.7151031477
   },
   {
     "city":"Chicago",
@@ -174,10 +188,11 @@
     "population":2665039,
     "lat":41.8781,
     "lon":-87.6298,
-    "education_score":59.4509355889,
-    "safety_score":61.1351611352,
-    "health_score":53.3333333333,
-    "composite_score":57.9731433525
+    "education_score":53.4775149393,
+    "safety_score":37.4806119836,
+    "health_score":54.4111701594,
+    "composite_score":48.4564323608,
+    "composite_z":-0.077178382
   },
   {
     "city":"Cincinnati",
@@ -186,10 +201,11 @@
     "population":311097,
     "lat":39.1031,
     "lon":-84.512,
-    "education_score":58.3067713784,
-    "safety_score":61.51996152,
-    "health_score":26.6666666667,
-    "composite_score":48.8311331883
+    "education_score":52.8558984544,
+    "safety_score":37.9068764718,
+    "health_score":31.7897847267,
+    "composite_score":40.8508532176,
+    "composite_z":-0.4574573391
   },
   {
     "city":"Cleveland",
@@ -198,10 +214,11 @@
     "population":361607,
     "lat":41.4993,
     "lon":-81.6944,
-    "education_score":31.1842951641,
-    "safety_score":30.6878306878,
-    "health_score":0.0,
-    "composite_score":20.6240419507
+    "education_score":26.3890703907,
+    "safety_score":3.7524343604,
+    "health_score":9.1683992941,
+    "composite_score":13.1033013484,
+    "composite_z":-1.8448349326
   },
   {
     "city":"Colorado Springs",
@@ -210,10 +227,11 @@
     "population":488664,
     "lat":38.8339,
     "lon":-104.8214,
-    "education_score":70.5853550821,
-    "safety_score":76.1423761424,
-    "health_score":66.6666666667,
-    "composite_score":71.1314659637
+    "education_score":65.4152731976,
+    "safety_score":54.1049270207,
+    "health_score":65.7218628757,
+    "composite_score":61.7473543647,
+    "composite_z":0.5873677182
   },
   {
     "city":"Columbus",
@@ -222,10 +240,11 @@
     "population":905748,
     "lat":39.9612,
     "lon":-82.9988,
-    "education_score":62.0100039363,
-    "safety_score":72.1981721982,
-    "health_score":46.6666666667,
-    "composite_score":60.291614267
+    "education_score":56.6962199378,
+    "safety_score":49.7357160174,
+    "health_score":48.7558238012,
+    "composite_score":51.7292532521,
+    "composite_z":0.0864626626
   },
   {
     "city":"Corpus Christi",
@@ -234,10 +253,11 @@
     "population":317773,
     "lat":27.8006,
     "lon":-97.3964,
-    "education_score":38.3464222967,
-    "safety_score":72.1981721982,
-    "health_score":26.6666666667,
-    "composite_score":45.7370870538
+    "education_score":33.3569484504,
+    "safety_score":49.7357160174,
+    "health_score":31.7897847267,
+    "composite_score":38.2941497315,
+    "composite_z":-0.5852925134
   },
   {
     "city":"Dallas",
@@ -246,10 +266,11 @@
     "population":1302092,
     "lat":32.7767,
     "lon":-96.797,
-    "education_score":43.7172975931,
-    "safety_score":66.32996633,
-    "health_score":43.3333333333,
-    "composite_score":51.1268657521
+    "education_score":37.7190637022,
+    "safety_score":43.2351825734,
+    "health_score":45.9281506221,
+    "composite_score":42.2941322992,
+    "composite_z":-0.385293385
   },
   {
     "city":"Denver",
@@ -258,10 +279,11 @@
     "population":713252,
     "lat":39.7392,
     "lon":-104.9903,
-    "education_score":77.978859244,
-    "safety_score":73.0158730159,
-    "health_score":80.0,
-    "composite_score":76.9982440866
+    "education_score":71.5828893313,
+    "safety_score":50.6415280546,
+    "health_score":77.032555592,
+    "composite_score":66.4189909927,
+    "composite_z":0.8209495496
   },
   {
     "city":"Des Moines",
@@ -270,10 +292,11 @@
     "population":214237,
     "lat":41.5868,
     "lon":-93.625,
-    "education_score":52.750842462,
-    "safety_score":72.1981721982,
-    "health_score":53.3333333333,
-    "composite_score":59.4274493312
+    "education_score":47.5541328448,
+    "safety_score":49.7357160174,
+    "health_score":54.4111701594,
+    "composite_score":50.5670063405,
+    "composite_z":0.028350317
   },
   {
     "city":"Durham",
@@ -282,10 +305,11 @@
     "population":295179,
     "lat":35.994,
     "lon":-78.8986,
-    "education_score":71.5826284815,
-    "safety_score":66.8590668591,
-    "health_score":60.0,
-    "composite_score":66.1472317802
+    "education_score":65.263713421,
+    "safety_score":43.8212962446,
+    "health_score":60.0665165175,
+    "composite_score":56.383842061,
+    "composite_z":0.3191921031
   },
   {
     "city":"El Paso",
@@ -294,10 +318,11 @@
     "population":678815,
     "lat":31.7619,
     "lon":-106.485,
-    "education_score":34.7005539608,
-    "safety_score":86.6281866282,
-    "health_score":30.0,
-    "composite_score":50.4429135297
+    "education_score":29.3255014752,
+    "safety_score":65.7206343222,
+    "health_score":34.6174579058,
+    "composite_score":43.2211979011,
+    "composite_z":-0.3389401049
   },
   {
     "city":"Fontana",
@@ -306,10 +331,11 @@
     "population":218390,
     "lat":34.0922,
     "lon":-117.435,
-    "education_score":19.4404708187,
-    "safety_score":84.5117845118,
-    "health_score":26.6666666667,
-    "composite_score":43.5396406657
+    "education_score":14.3969864505,
+    "safety_score":63.3761796375,
+    "health_score":31.7897847267,
+    "composite_score":36.5209836049,
+    "composite_z":-0.6739508198
   },
   {
     "city":"Fort Worth",
@@ -318,10 +344,11 @@
     "population":956709,
     "lat":32.7555,
     "lon":-97.3308,
-    "education_score":48.4269242216,
-    "safety_score":77.5372775373,
-    "health_score":46.6666666667,
-    "composite_score":57.5436228085
+    "education_score":42.9923721599,
+    "safety_score":55.6501357902,
+    "health_score":48.7558238012,
+    "composite_score":49.1327772504,
+    "composite_z":-0.0433611375
   },
   {
     "city":"Fremont",
@@ -330,10 +357,11 @@
     "population":230504,
     "lat":37.5485,
     "lon":-121.9886,
-    "education_score":83.4831843624,
-    "safety_score":95.6228956229,
-    "health_score":93.3333333333,
-    "composite_score":90.8131377729
+    "education_score":76.9685005563,
+    "safety_score":75.6845667323,
+    "health_score":88.3432483083,
+    "composite_score":80.3321051989,
+    "composite_z":1.5166052599
   },
   {
     "city":"Fresno",
@@ -342,10 +370,11 @@
     "population":545567,
     "lat":36.7378,
     "lon":-119.7871,
-    "education_score":28.9346095873,
-    "safety_score":77.392977393,
-    "health_score":20.0,
-    "composite_score":42.1091956601
+    "education_score":23.5489649723,
+    "safety_score":55.4902866071,
+    "health_score":26.1344383686,
+    "composite_score":35.0578966493,
+    "composite_z":-0.7471051675
   },
   {
     "city":"Garland",
@@ -354,10 +383,11 @@
     "population":246018,
     "lat":32.9126,
     "lon":-96.6389,
-    "education_score":37.2044182452,
-    "safety_score":85.0408850409,
-    "health_score":40.0,
-    "composite_score":54.081767762
+    "education_score":31.8178987343,
+    "safety_score":63.9622933087,
+    "health_score":43.1004774431,
+    "composite_score":46.2935564953,
+    "composite_z":-0.1853221752
   },
   {
     "city":"Gilbert",
@@ -366,10 +396,11 @@
     "population":280892,
     "lat":33.3528,
     "lon":-111.789,
-    "education_score":78.4178515539,
-    "safety_score":98.2683982684,
-    "health_score":86.6666666667,
-    "composite_score":87.7843054963
+    "education_score":73.0565048023,
+    "safety_score":78.6151350882,
+    "health_score":82.6879019501,
+    "composite_score":78.1198472802,
+    "composite_z":1.405992364
   },
   {
     "city":"Glendale",
@@ -378,10 +409,11 @@
     "population":248325,
     "lat":33.5387,
     "lon":-112.186,
-    "education_score":43.5240833725,
-    "safety_score":84.5117845118,
-    "health_score":43.3333333333,
-    "composite_score":57.1230670726
+    "education_score":38.6857997245,
+    "safety_score":63.3761796375,
+    "health_score":45.9281506221,
+    "composite_score":49.330043328,
+    "composite_z":-0.0334978336
   },
   {
     "city":"Greensboro",
@@ -390,10 +422,11 @@
     "population":301700,
     "lat":36.0726,
     "lon":-79.792,
-    "education_score":58.2131644889,
-    "safety_score":72.1981721982,
-    "health_score":43.3333333333,
-    "composite_score":57.9148900068
+    "education_score":52.8447898911,
+    "safety_score":49.7357160174,
+    "health_score":45.9281506221,
+    "composite_score":49.5028855102,
+    "composite_z":-0.0248557245
   },
   {
     "city":"Henderson",
@@ -402,10 +435,11 @@
     "population":331540,
     "lat":36.0395,
     "lon":-114.9817,
-    "education_score":62.3001852936,
-    "safety_score":94.6608946609,
-    "health_score":66.6666666667,
-    "composite_score":74.5425822071
+    "education_score":57.4324191061,
+    "safety_score":74.6189055119,
+    "health_score":65.7218628757,
+    "composite_score":65.9243958312,
+    "composite_z":0.7962197916
   },
   {
     "city":"Hialeah",
@@ -414,10 +448,11 @@
     "population":223109,
     "lat":25.8576,
     "lon":-80.2781,
-    "education_score":7.1810885281,
-    "safety_score":85.0408850409,
-    "health_score":20.0,
-    "composite_score":37.407324523
+    "education_score":1.4800121192,
+    "safety_score":63.9622933087,
+    "health_score":26.1344383686,
+    "composite_score":30.5255812655,
+    "composite_z":-0.9737209367
   },
   {
     "city":"Honolulu",
@@ -426,10 +461,11 @@
     "population":345510,
     "lat":21.3069,
     "lon":-157.8583,
-    "education_score":67.3251951344,
-    "safety_score":92.4001924002,
-    "health_score":86.6666666667,
-    "composite_score":82.1306847337
+    "education_score":62.095373995,
+    "safety_score":72.1146016442,
+    "health_score":82.6879019501,
+    "composite_score":72.2992925298,
+    "composite_z":1.1149646265
   },
   {
     "city":"Houston",
@@ -438,10 +474,11 @@
     "population":2314157,
     "lat":29.7604,
     "lon":-95.3698,
-    "education_score":45.1898059697,
-    "safety_score":56.1808561809,
-    "health_score":40.0,
-    "composite_score":47.1235540502
+    "education_score":39.2433534516,
+    "safety_score":31.992456699,
+    "health_score":43.1004774431,
+    "composite_score":38.1120958645,
+    "composite_z":-0.5943952068
   },
   {
     "city":"Indianapolis",
@@ -450,10 +487,11 @@
     "population":887642,
     "lat":39.7684,
     "lon":-86.1581,
-    "education_score":54.8517170864,
-    "safety_score":52.5252525253,
-    "health_score":33.3333333333,
-    "composite_score":46.903434315
+    "education_score":49.6568219605,
+    "safety_score":27.9429440617,
+    "health_score":37.4451310849,
+    "composite_score":38.3482990357,
+    "composite_z":-0.5825850482
   },
   {
     "city":"Irvine",
@@ -462,10 +500,11 @@
     "population":314603,
     "lat":33.6846,
     "lon":-117.8265,
-    "education_score":99.5989304813,
-    "safety_score":100.0,
-    "health_score":100.0,
-    "composite_score":99.8663101604
+    "education_score":92.6283462113,
+    "safety_score":80.5333252847,
+    "health_score":93.9985946665,
+    "composite_score":89.0534220542,
+    "composite_z":1.9526711027
   },
   {
     "city":"Irving",
@@ -474,10 +513,11 @@
     "population":256684,
     "lat":32.814,
     "lon":-96.9489,
-    "education_score":52.8274080972,
-    "safety_score":89.3217893218,
-    "health_score":53.3333333333,
-    "composite_score":65.1608435841
+    "education_score":47.0054077649,
+    "safety_score":68.7044857391,
+    "health_score":54.4111701594,
+    "composite_score":56.7070212211,
+    "composite_z":0.3353510611
   },
   {
     "city":"Jacksonville",
@@ -486,10 +526,11 @@
     "population":985843,
     "lat":30.3322,
     "lon":-81.6557,
-    "education_score":56.2229380082,
-    "safety_score":72.0057720058,
-    "health_score":50.0,
-    "composite_score":59.4095700047
+    "education_score":51.3130429818,
+    "safety_score":49.5225837733,
+    "health_score":51.5834969803,
+    "composite_score":50.8063745785,
+    "composite_z":0.0403187289
   },
   {
     "city":"Jersey City",
@@ -498,10 +539,11 @@
     "population":292449,
     "lat":40.7178,
     "lon":-74.0431,
-    "education_score":69.2162943193,
-    "safety_score":89.3217893218,
-    "health_score":56.6666666667,
-    "composite_score":71.7349167692
+    "education_score":62.841618945,
+    "safety_score":68.7044857391,
+    "health_score":57.2388433384,
+    "composite_score":62.9283160075,
+    "composite_z":0.6464158004
   },
   {
     "city":"Kansas City",
@@ -510,10 +552,11 @@
     "population":508090,
     "lat":39.0997,
     "lon":-94.5786,
-    "education_score":58.9733004349,
-    "safety_score":24.0981240981,
-    "health_score":36.6666666667,
-    "composite_score":39.9126970666
+    "education_score":53.6007719169,
+    "safety_score":0.0,
+    "health_score":40.272804264,
+    "composite_score":30.1087437273,
+    "composite_z":-0.9945628136
   },
   {
     "city":"Laredo",
@@ -522,10 +565,11 @@
     "population":261776,
     "lat":27.5036,
     "lon":-99.5076,
-    "education_score":15.8500465634,
-    "safety_score":80.75998076,
-    "health_score":13.3333333333,
-    "composite_score":36.6477868856
+    "education_score":10.2101739422,
+    "safety_score":59.2201008782,
+    "health_score":20.4790920104,
+    "composite_score":29.9697889436,
+    "composite_z":-1.0015105528
   },
   {
     "city":"Las Vegas",
@@ -534,10 +578,11 @@
     "population":660929,
     "lat":36.1699,
     "lon":-115.1398,
-    "education_score":44.8208988182,
-    "safety_score":73.7854737855,
-    "health_score":36.6666666667,
-    "composite_score":51.7576797568
+    "education_score":39.9733125945,
+    "safety_score":51.4940570309,
+    "health_score":40.272804264,
+    "composite_score":43.9133912964,
+    "composite_z":-0.3043304352
   },
   {
     "city":"Lexington",
@@ -546,10 +591,11 @@
     "population":322570,
     "lat":38.0406,
     "lon":-84.5037,
-    "education_score":71.3704528653,
-    "safety_score":89.8508898509,
-    "health_score":63.3333333333,
-    "composite_score":74.8515586832
+    "education_score":65.7063757589,
+    "safety_score":69.2905994103,
+    "health_score":62.8941896966,
+    "composite_score":65.9637216219,
+    "composite_z":0.7981860811
   },
   {
     "city":"Lincoln",
@@ -558,10 +604,11 @@
     "population":295222,
     "lat":40.8136,
     "lon":-96.7026,
-    "education_score":71.4448583416,
-    "safety_score":88.0711880712,
-    "health_score":73.3333333333,
-    "composite_score":77.6164599154
+    "education_score":66.0750839103,
+    "safety_score":67.3191261527,
+    "health_score":71.3772092338,
+    "composite_score":68.2571397656,
+    "composite_z":0.9128569883
   },
   {
     "city":"Long Beach",
@@ -570,10 +617,11 @@
     "population":466742,
     "lat":33.7701,
     "lon":-118.1937,
-    "education_score":47.5923827994,
-    "safety_score":75.468975469,
-    "health_score":53.3333333333,
-    "composite_score":58.7982305339
+    "education_score":41.8676819827,
+    "safety_score":53.3589641665,
+    "health_score":54.4111701594,
+    "composite_score":49.8792721028,
+    "composite_z":-0.0060363949
   },
   {
     "city":"Los Angeles",
@@ -582,10 +630,11 @@
     "population":3820914,
     "lat":34.0522,
     "lon":-118.2437,
-    "education_score":43.6371316929,
-    "safety_score":67.7248677249,
-    "health_score":60.0,
-    "composite_score":57.1206664726
+    "education_score":37.4576354273,
+    "safety_score":44.7803913428,
+    "health_score":60.0665165175,
+    "composite_score":47.4348477625,
+    "composite_z":-0.1282576119
   },
   {
     "city":"Louisville",
@@ -594,10 +643,11 @@
     "population":628594,
     "lat":38.2527,
     "lon":-85.7585,
-    "education_score":56.9506715694,
-    "safety_score":75.4208754209,
-    "health_score":23.3333333333,
-    "composite_score":51.9016267745
+    "education_score":51.795271035,
+    "safety_score":53.3056811054,
+    "health_score":28.9621115477,
+    "composite_score":44.687687896,
+    "composite_z":-0.2656156052
   },
   {
     "city":"Lubbock",
@@ -606,10 +656,11 @@
     "population":266538,
     "lat":33.5779,
     "lon":-101.8552,
-    "education_score":48.9100797819,
-    "safety_score":61.51996152,
-    "health_score":26.6666666667,
-    "composite_score":45.6989026562
+    "education_score":43.6435085782,
+    "safety_score":37.9068764718,
+    "health_score":31.7897847267,
+    "composite_score":37.7800565922,
+    "composite_z":-0.6109971704
   },
   {
     "city":"Madison",
@@ -618,10 +669,11 @@
     "population":269840,
     "lat":43.0731,
     "lon":-89.4012,
-    "education_score":88.6570051556,
-    "safety_score":89.8508898509,
-    "health_score":90.0,
-    "composite_score":89.5026316688
+    "education_score":82.368871748,
+    "safety_score":69.2905994103,
+    "health_score":85.5155751292,
+    "composite_score":79.0583487625,
+    "composite_z":1.4529174381
   },
   {
     "city":"Memphis",
@@ -630,10 +682,11 @@
     "population":633104,
     "lat":35.1495,
     "lon":-90.049,
-    "education_score":46.5245442065,
+    "education_score":41.5790136903,
     "safety_score":0.0,
-    "health_score":6.6666666667,
-    "composite_score":17.7304036244
+    "health_score":14.8237456523,
+    "composite_score":8.7202002582,
+    "composite_z":-2.0639899871
   },
   {
     "city":"Mesa",
@@ -642,10 +695,11 @@
     "population":511648,
     "lat":33.4152,
     "lon":-111.8315,
-    "education_score":52.1988018318,
-    "safety_score":85.1851851852,
-    "health_score":50.0,
-    "composite_score":62.4613290057
+    "education_score":47.3086816711,
+    "safety_score":64.1221424917,
+    "health_score":51.5834969803,
+    "composite_score":54.3381070477,
+    "composite_z":0.2169053524
   },
   {
     "city":"Miami",
@@ -654,10 +708,11 @@
     "population":449514,
     "lat":25.7617,
     "lon":-80.1918,
-    "education_score":37.6628519859,
-    "safety_score":73.1601731602,
-    "health_score":46.6666666667,
-    "composite_score":52.4965639376
+    "education_score":32.0522413447,
+    "safety_score":50.8013772377,
+    "health_score":48.7558238012,
+    "composite_score":43.8698141279,
+    "composite_z":-0.3065092936
   },
   {
     "city":"Milwaukee",
@@ -666,10 +721,11 @@
     "population":577222,
     "lat":43.0389,
     "lon":-87.9065,
-    "education_score":43.1326145604,
-    "safety_score":39.5863395863,
-    "health_score":20.0,
-    "composite_score":34.2396513823
+    "education_score":38.0815318282,
+    "safety_score":13.6098006484,
+    "health_score":26.1344383686,
+    "composite_score":25.941923615,
+    "composite_z":-1.2029038192
   },
   {
     "city":"Minneapolis",
@@ -678,10 +734,11 @@
     "population":429954,
     "lat":44.9778,
     "lon":-93.265,
-    "education_score":74.6154917002,
-    "safety_score":61.51996152,
-    "health_score":73.3333333333,
-    "composite_score":69.8229288512
+    "education_score":68.4306813595,
+    "safety_score":37.9068764718,
+    "health_score":71.3772092338,
+    "composite_score":59.2382556884,
+    "composite_z":0.4619127844
   },
   {
     "city":"Modesto",
@@ -690,10 +747,11 @@
     "population":218464,
     "lat":37.6391,
     "lon":-120.9969,
-    "education_score":28.6861913037,
-    "safety_score":70.6108706109,
-    "health_score":26.6666666667,
-    "composite_score":41.9879095271
+    "education_score":23.7893932551,
+    "safety_score":47.9773750038,
+    "health_score":31.7897847267,
+    "composite_score":34.5188509952,
+    "composite_z":-0.7740574502
   },
   {
     "city":"Moreno Valley",
@@ -702,10 +760,11 @@
     "population":217928,
     "lat":33.9425,
     "lon":-117.2297,
-    "education_score":28.5906642729,
-    "safety_score":81.721981722,
-    "health_score":30.0,
-    "composite_score":46.7708819983
+    "education_score":23.8140446507,
+    "safety_score":60.2857620986,
+    "health_score":34.6174579058,
+    "composite_score":39.5724215517,
+    "composite_z":-0.5213789224
   },
   {
     "city":"Nashville",
@@ -714,10 +773,11 @@
     "population":683622,
     "lat":36.1627,
     "lon":-86.7816,
-    "education_score":64.4891464012,
-    "safety_score":53.6315536316,
-    "health_score":43.3333333333,
-    "composite_score":53.818011122
+    "education_score":58.771823389,
+    "safety_score":29.1684544651,
+    "health_score":45.9281506221,
+    "composite_score":44.6228094921,
+    "composite_z":-0.2688595254
   },
   {
     "city":"New Orleans",
@@ -726,10 +786,11 @@
     "population":383997,
     "lat":29.9511,
     "lon":-90.0715,
-    "education_score":58.7652051191,
-    "safety_score":50.8417508418,
-    "health_score":16.6666666667,
-    "composite_score":42.0912075425
+    "education_score":53.0902410648,
+    "safety_score":26.0780369262,
+    "health_score":23.3067651895,
+    "composite_score":34.1583477268,
+    "composite_z":-0.7920826137
   },
   {
     "city":"New York",
@@ -738,10 +799,11 @@
     "population":8258035,
     "lat":40.7128,
     "lon":-74.006,
-    "education_score":56.5078389769,
-    "safety_score":85.3775853776,
-    "health_score":73.3333333333,
-    "composite_score":71.739585896
+    "education_score":50.3931754817,
+    "safety_score":64.3352747358,
+    "health_score":71.3772092338,
+    "composite_score":62.0352198171,
+    "composite_z":0.6017609909
   },
   {
     "city":"Newark",
@@ -750,10 +812,11 @@
     "population":311549,
     "lat":40.7357,
     "lon":-74.1724,
-    "education_score":20.3018942194,
-    "safety_score":61.51996152,
-    "health_score":13.3333333333,
-    "composite_score":31.7183963576
+    "education_score":15.0210372043,
+    "safety_score":37.9068764718,
+    "health_score":20.4790920104,
+    "composite_score":24.4690018955,
+    "composite_z":-1.2765499052
   },
   {
     "city":"Norfolk",
@@ -762,10 +825,11 @@
     "population":238005,
     "lat":36.8508,
     "lon":-76.2859,
-    "education_score":50.4550734934,
-    "safety_score":75.94997595,
-    "health_score":30.0,
-    "composite_score":52.1350164811
+    "education_score":45.5722664378,
+    "safety_score":53.8917947766,
+    "health_score":34.6174579058,
+    "composite_score":44.6938397067,
+    "composite_z":-0.2653080147
   },
   {
     "city":"North Las Vegas",
@@ -774,10 +838,11 @@
     "population":287011,
     "lat":36.1989,
     "lon":-115.1175,
-    "education_score":34.2075576762,
-    "safety_score":77.9701779702,
-    "health_score":33.3333333333,
-    "composite_score":48.5036896599
+    "education_score":29.7348381232,
+    "safety_score":56.1296833393,
+    "health_score":37.4451310849,
+    "composite_score":41.1032175158,
+    "composite_z":-0.4448391242
   },
   {
     "city":"Oakland",
@@ -786,10 +851,11 @@
     "population":430553,
     "lat":37.8044,
     "lon":-122.2712,
-    "education_score":61.6091744352,
-    "safety_score":49.6392496392,
-    "health_score":60.0,
-    "composite_score":57.0828080248
+    "education_score":55.3890785632,
+    "safety_score":24.7459604007,
+    "health_score":60.0665165175,
+    "composite_score":46.7338518272,
+    "composite_z":-0.1633074086
   },
   {
     "city":"Oklahoma City",
@@ -798,10 +864,11 @@
     "population":681054,
     "lat":35.4676,
     "lon":-97.5164,
-    "education_score":52.5713092484,
-    "safety_score":67.291967292,
-    "health_score":26.6666666667,
-    "composite_score":48.8433144023
+    "education_score":47.388875883,
+    "safety_score":44.3008437937,
+    "health_score":31.7897847267,
+    "composite_score":41.1598348012,
+    "composite_z":-0.4420082599
   },
   {
     "city":"Omaha",
@@ -810,10 +877,11 @@
     "population":489265,
     "lat":41.2565,
     "lon":-95.9345,
-    "education_score":62.1876170086,
-    "safety_score":78.4511784512,
-    "health_score":60.0,
-    "composite_score":66.8795984866
+    "education_score":56.8972368584,
+    "safety_score":56.6625139495,
+    "health_score":60.0665165175,
+    "composite_score":57.8754224418,
+    "composite_z":0.3937711221
   },
   {
     "city":"Orlando",
@@ -822,10 +890,11 @@
     "population":320742,
     "lat":28.5383,
     "lon":-81.3792,
-    "education_score":59.5119000758,
-    "safety_score":67.3881673882,
-    "health_score":53.3333333333,
-    "composite_score":60.0778002658
+    "education_score":54.0965428023,
+    "safety_score":44.4074099157,
+    "health_score":54.4111701594,
+    "composite_score":50.9717076258,
+    "composite_z":0.0485853813
   },
   {
     "city":"Philadelphia",
@@ -834,10 +903,11 @@
     "population":1550542,
     "lat":39.9526,
     "lon":-75.1652,
-    "education_score":51.9047801918,
-    "safety_score":59.0668590669,
-    "health_score":26.6666666667,
-    "composite_score":45.8794353084
+    "education_score":46.6440024205,
+    "safety_score":35.1894403599,
+    "health_score":31.7897847267,
+    "composite_score":37.874409169,
+    "composite_z":-0.6062795415
   },
   {
     "city":"Phoenix",
@@ -846,10 +916,11 @@
     "population":1650070,
     "lat":33.4484,
     "lon":-112.074,
-    "education_score":50.3806680172,
-    "safety_score":67.291967292,
-    "health_score":46.6666666667,
-    "composite_score":54.7797673253
+    "education_score":45.2035582864,
+    "safety_score":44.3008437937,
+    "health_score":48.7558238012,
+    "composite_score":46.0867419604,
+    "composite_z":-0.195662902
   },
   {
     "city":"Pittsburgh",
@@ -858,10 +929,11 @@
     "population":302971,
     "lat":40.4406,
     "lon":-79.9959,
-    "education_score":71.4448583416,
-    "safety_score":75.4208754209,
-    "health_score":46.6666666667,
-    "composite_score":64.510800143
+    "education_score":66.0750839103,
+    "safety_score":53.3056811054,
+    "health_score":48.7558238012,
+    "composite_score":56.0455296056,
+    "composite_z":0.3022764803
   },
   {
     "city":"Plano",
@@ -870,10 +942,11 @@
     "population":288253,
     "lat":33.0198,
     "lon":-96.6989,
-    "education_score":84.8524851429,
-    "safety_score":95.7190957191,
-    "health_score":80.0,
-    "composite_score":86.8571936207
+    "education_score":78.6604815364,
+    "safety_score":75.7911328543,
+    "health_score":77.032555592,
+    "composite_score":77.1613899942,
+    "composite_z":1.3580694997
   },
   {
     "city":"Portland",
@@ -882,10 +955,11 @@
     "population":635067,
     "lat":45.5155,
     "lon":-122.6789,
-    "education_score":78.2251173686,
-    "safety_score":79.7498797499,
-    "health_score":73.3333333333,
-    "composite_score":77.1027768173
+    "education_score":72.2598942797,
+    "safety_score":58.1011565969,
+    "health_score":71.3772092338,
+    "composite_score":67.2460867035,
+    "composite_z":0.8623043352
   },
   {
     "city":"Raleigh",
@@ -894,10 +968,11 @@
     "population":482295,
     "lat":35.7796,
     "lon":-78.6382,
-    "education_score":78.8172409489,
-    "safety_score":85.56998557,
-    "health_score":73.3333333333,
-    "composite_score":79.2401866174
+    "education_score":72.6360595909,
+    "safety_score":64.5484069799,
+    "health_score":71.3772092338,
+    "composite_score":69.5205586015,
+    "composite_z":0.9760279301
   },
   {
     "city":"Reno",
@@ -906,10 +981,11 @@
     "population":274827,
     "lat":39.5296,
     "lon":-119.8138,
-    "education_score":56.8189018712,
-    "safety_score":76.3828763829,
-    "health_score":56.6666666667,
-    "composite_score":63.2894816402
+    "education_score":51.6176883754,
+    "safety_score":54.3713423258,
+    "health_score":57.2388433384,
+    "composite_score":54.4092913465,
+    "composite_z":0.2204645673
   },
   {
     "city":"Richmond",
@@ -918,10 +994,11 @@
     "population":226604,
     "lat":37.5407,
     "lon":-77.436,
-    "education_score":59.8100020161,
-    "safety_score":77.5372775373,
-    "health_score":26.6666666667,
-    "composite_score":54.6713154067
+    "education_score":53.8080288629,
+    "safety_score":55.6501357902,
+    "health_score":31.7897847267,
+    "composite_score":47.0826497933,
+    "composite_z":-0.1458675103
   },
   {
     "city":"Riverside",
@@ -930,10 +1007,11 @@
     "population":314998,
     "lat":33.9533,
     "lon":-117.3962,
-    "education_score":33.5755911635,
-    "safety_score":80.75998076,
-    "health_score":40.0,
-    "composite_score":51.4451906412
+    "education_score":28.3462854022,
+    "safety_score":59.2201008782,
+    "health_score":43.1004774431,
+    "composite_score":43.5556212412,
+    "composite_z":-0.3222189379
   },
   {
     "city":"Sacramento",
@@ -942,10 +1020,11 @@
     "population":524943,
     "lat":38.5816,
     "lon":-121.4944,
-    "education_score":54.4144049002,
-    "safety_score":75.94997595,
-    "health_score":53.3333333333,
-    "composite_score":61.2325713945
+    "education_score":49.0291198032,
+    "safety_score":53.8917947766,
+    "health_score":54.4111701594,
+    "composite_score":52.4440282464,
+    "composite_z":0.1222014123
   },
   {
     "city":"San Antonio",
@@ -954,10 +1033,11 @@
     "population":1495295,
     "lat":29.4241,
     "lon":-98.4936,
-    "education_score":45.2392496088,
-    "safety_score":67.3400673401,
-    "health_score":33.3333333333,
-    "composite_score":48.6375500941
+    "education_score":40.0769410675,
+    "safety_score":44.3541268547,
+    "health_score":37.4451310849,
+    "composite_score":40.625399669,
+    "composite_z":-0.4687300165
   },
   {
     "city":"San Bernardino",
@@ -966,10 +1046,11 @@
     "population":222203,
     "lat":34.1083,
     "lon":-117.2898,
-    "education_score":12.1657754011,
-    "safety_score":44.3001443001,
-    "health_score":6.6666666667,
-    "composite_score":21.044195456
+    "education_score":6.8939261431,
+    "safety_score":18.8315406279,
+    "health_score":14.8237456523,
+    "composite_score":13.5164041411,
+    "composite_z":-1.8241797929
   },
   {
     "city":"San Diego",
@@ -978,10 +1059,11 @@
     "population":1388320,
     "lat":32.7157,
     "lon":-117.1611,
-    "education_score":70.4480649776,
-    "safety_score":85.7142857143,
-    "health_score":80.0,
-    "composite_score":78.720783564
+    "education_score":64.463297142,
+    "safety_score":64.7082561629,
+    "health_score":77.032555592,
+    "composite_score":68.7347029657,
+    "composite_z":0.9367351483
   },
   {
     "city":"San Francisco",
@@ -990,10 +1072,11 @@
     "population":808437,
     "lat":37.7749,
     "lon":-122.4194,
-    "education_score":81.3575879185,
-    "safety_score":80.8561808562,
-    "health_score":93.3333333333,
-    "composite_score":85.1823673693
+    "education_score":74.4490176327,
+    "safety_score":59.3266670003,
+    "health_score":88.3432483083,
+    "composite_score":74.0396443138,
+    "composite_z":1.2019822157
   },
   {
     "city":"San Jose",
@@ -1002,10 +1085,11 @@
     "population":945942,
     "lat":37.3382,
     "lon":-121.8863,
-    "education_score":60.7095882257,
-    "safety_score":86.1952861953,
-    "health_score":86.6666666667,
-    "composite_score":77.8571803625
+    "education_score":54.598553713,
+    "safety_score":65.2410867731,
+    "health_score":82.6879019501,
+    "composite_score":67.5091808121,
+    "composite_z":0.8754590406
   },
   {
     "city":"Santa Ana",
@@ -1014,10 +1098,11 @@
     "population":309441,
     "lat":33.7455,
     "lon":-117.8677,
-    "education_score":2.1543985637,
-    "safety_score":82.8763828764,
-    "health_score":33.3333333333,
-    "composite_score":39.4547049245
+    "education_score":0.0,
+    "safety_score":61.564555563,
+    "health_score":37.4451310849,
+    "composite_score":31.6602768548,
+    "composite_z":-0.9169861573
   },
   {
     "city":"Scottsdale",
@@ -1026,10 +1111,11 @@
     "population":241361,
     "lat":33.4942,
     "lon":-111.9261,
-    "education_score":92.1903052065,
-    "safety_score":96.7772967773,
-    "health_score":93.3333333333,
-    "composite_score":94.1003117724
+    "education_score":85.8651364756,
+    "safety_score":76.9633601967,
+    "health_score":88.3432483083,
+    "composite_score":83.7239149935,
+    "composite_z":1.6861957497
   },
   {
     "city":"Seattle",
@@ -1038,10 +1124,11 @@
     "population":755078,
     "lat":47.6062,
     "lon":-122.3321,
-    "education_score":94.2741385766,
-    "safety_score":76.2866762867,
-    "health_score":90.0,
-    "composite_score":86.8536049544
+    "education_score":87.4079919481,
+    "safety_score":54.2647762037,
+    "health_score":85.5155751292,
+    "composite_score":75.7294477604,
+    "composite_z":1.286472388
   },
   {
     "city":"Spokane",
@@ -1050,10 +1137,11 @@
     "population":230160,
     "lat":47.6588,
     "lon":-117.426,
-    "education_score":59.3971716318,
-    "safety_score":72.1981721982,
-    "health_score":43.3333333333,
-    "composite_score":58.3095590544
+    "education_score":54.4787937859,
+    "safety_score":49.7357160174,
+    "health_score":45.9281506221,
+    "composite_score":50.0475534751,
+    "composite_z":0.0023776738
   },
   {
     "city":"St. Louis",
@@ -1062,10 +1150,11 @@
     "population":293310,
     "lat":38.627,
     "lon":-90.1994,
-    "education_score":54.7773116101,
-    "safety_score":10.9668109668,
-    "health_score":0.0,
-    "composite_score":21.9147075256
+    "education_score":49.2881138091,
+    "safety_score":0.0,
+    "health_score":9.1683992941,
+    "composite_score":13.4542974823,
+    "composite_z":-1.8272851259
   },
   {
     "city":"St. Paul",
@@ -1074,10 +1163,11 @@
     "population":307193,
     "lat":44.9537,
     "lon":-93.09,
-    "education_score":63.4196276846,
-    "safety_score":75.4208754209,
-    "health_score":60.0,
-    "composite_score":66.2801677018
+    "education_score":57.6372417831,
+    "safety_score":53.3056811054,
+    "health_score":60.0665165175,
+    "composite_score":57.0031464687,
+    "composite_z":0.3501573234
   },
   {
     "city":"St. Petersburg",
@@ -1086,10 +1176,11 @@
     "population":268091,
     "lat":27.7676,
     "lon":-82.6403,
-    "education_score":62.9458328133,
-    "safety_score":77.9701779702,
-    "health_score":53.3333333333,
-    "composite_score":64.7497813723
+    "education_score":57.6889788431,
+    "safety_score":56.1296833393,
+    "health_score":54.4111701594,
+    "composite_score":56.0766107806,
+    "composite_z":0.303830539
   },
   {
     "city":"Stockton",
@@ -1098,10 +1189,11 @@
     "population":322120,
     "lat":37.9577,
     "lon":-121.2908,
-    "education_score":24.406196296,
-    "safety_score":41.7508417508,
-    "health_score":16.6666666667,
-    "composite_score":27.6079015712
+    "education_score":19.28682679,
+    "safety_score":16.0075383941,
+    "health_score":23.3067651895,
+    "composite_score":19.5337101245,
+    "composite_z":-1.5233144938
   },
   {
     "city":"Tacoma",
@@ -1110,10 +1202,11 @@
     "population":221776,
     "lat":47.2529,
     "lon":-122.4443,
-    "education_score":56.0530055012,
-    "safety_score":72.1981721982,
-    "health_score":46.6666666667,
-    "composite_score":58.305948122
+    "education_score":50.968986226,
+    "safety_score":49.7357160174,
+    "health_score":48.7558238012,
+    "composite_score":49.8201753482,
+    "composite_z":-0.0089912326
   },
   {
     "city":"Tampa",
@@ -1122,10 +1215,11 @@
     "population":407599,
     "lat":27.9506,
     "lon":-82.4572,
-    "education_score":64.703002141,
-    "safety_score":79.7017797018,
-    "health_score":50.0,
-    "composite_score":64.8015939476
+    "education_score":59.1750743647,
+    "safety_score":58.0478735359,
+    "health_score":51.5834969803,
+    "composite_score":56.2688149603,
+    "composite_z":0.313440748
   },
   {
     "city":"Tucson",
@@ -1134,10 +1228,11 @@
     "population":546574,
     "lat":32.2226,
     "lon":-110.9747,
-    "education_score":51.6354803714,
-    "safety_score":71.7652717653,
-    "health_score":33.3333333333,
-    "composite_score":52.2446951567
+    "education_score":46.3961169778,
+    "safety_score":49.2561684682,
+    "health_score":37.4451310849,
+    "composite_score":44.3658055103,
+    "composite_z":-0.2817097245
   },
   {
     "city":"Tulsa",
@@ -1146,10 +1241,11 @@
     "population":413066,
     "lat":36.154,
     "lon":-95.9928,
-    "education_score":53.0182221411,
-    "safety_score":62.5781625782,
-    "health_score":23.3333333333,
-    "composite_score":46.3099060175
+    "education_score":47.8377782463,
+    "safety_score":39.0791038141,
+    "health_score":28.9621115477,
+    "composite_score":38.6263312027,
+    "composite_z":-0.5686834399
   },
   {
     "city":"Virginia Beach",
@@ -1158,10 +1254,11 @@
     "population":459470,
     "lat":36.8529,
     "lon":-75.978,
-    "education_score":68.2934263962,
-    "safety_score":96.3443963444,
-    "health_score":70.0,
-    "composite_score":78.2126075802
+    "education_score":63.361886873,
+    "safety_score":76.4838126475,
+    "health_score":68.5495360548,
+    "composite_score":69.4650785251,
+    "composite_z":0.9732539263
   },
   {
     "city":"Washington",
@@ -1170,10 +1267,11 @@
     "population":678972,
     "lat":38.9072,
     "lon":-77.0369,
-    "education_score":84.5279812594,
-    "safety_score":64.5983645984,
-    "health_score":60.0,
-    "composite_score":69.7087819526
+    "education_score":77.6862883543,
+    "safety_score":41.3169923768,
+    "health_score":60.0665165175,
+    "composite_score":59.6899324162,
+    "composite_z":0.4844966208
   },
   {
     "city":"Wichita",
@@ -1182,10 +1280,11 @@
     "population":400110,
     "lat":37.6872,
     "lon":-97.3301,
-    "education_score":53.5911443082,
-    "safety_score":61.9528619529,
-    "health_score":40.0,
-    "composite_score":51.848002087
+    "education_score":48.5715431456,
+    "safety_score":38.3864240209,
+    "health_score":43.1004774431,
+    "composite_score":43.3528148698,
+    "composite_z":-0.3323592565
   },
   {
     "city":"Winston-Salem",
@@ -1194,9 +1293,10 @@
     "population":252292,
     "lat":36.0999,
     "lon":-80.2442,
-    "education_score":54.1451050797,
-    "safety_score":72.1981721982,
-    "health_score":33.3333333333,
-    "composite_score":53.2255368704
+    "education_score":48.7812343605,
+    "safety_score":49.7357160174,
+    "health_score":37.4451310849,
+    "composite_score":45.3206938209,
+    "composite_z":-0.233965309
   }
 ]

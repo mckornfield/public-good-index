@@ -263,6 +263,74 @@ def load_census_state_finances(path: Path) -> pd.DataFrame:
     return long[["state", "state_name", "category", "amount"]]
 
 
+def load_asfin_state_finances(path: Path) -> pd.DataFrame:
+    """Parse the Census ASFIN State Totals Excel file (expenditure by function).
+
+    The ASFIN file has a wide layout: categories as rows, states as columns.
+    We extract the 'General expenditure, by function' section which contains:
+    Education, Public welfare, Hospitals, Health, Highways, Police protection,
+    Correction, Natural resources, Parks and recreation, Governmental
+    administration, Interest on general debt, Other and unallocable.
+
+    Returns a DataFrame with columns:
+        state       – two-letter abbreviation
+        state_name  – full name
+        category    – spending function name (stripped)
+        amount      – dollar amount (thousands)
+    """
+    xls = pd.read_excel(path, header=None)
+
+    # Find the header row (contains "United States")
+    header_row = None
+    for i, row in xls.iterrows():
+        if row.astype(str).str.contains("United States", case=False).any():
+            header_row = i
+            break
+    if header_row is None:
+        raise ValueError("Could not locate header row in ASFIN spreadsheet")
+
+    df = pd.read_excel(path, header=header_row)
+    cat_col = df.columns[0]
+    df = df.rename(columns={cat_col: "category"})
+
+    # Find the expenditure-by-function section
+    # Look for rows between "General expenditure, by function:" and "Utility expenditure"
+    cat_values = df["category"].astype(str).tolist()
+    start_idx = None
+    end_idx = None
+    for i, val in enumerate(cat_values):
+        if "by function" in val.lower():
+            start_idx = i + 1
+        elif start_idx is not None and ("utility expenditure" in val.lower()
+                                         or "liquor stores" in val.lower()):
+            end_idx = i
+            break
+
+    if start_idx is None:
+        raise ValueError("Could not find 'General expenditure, by function' section")
+    if end_idx is None:
+        end_idx = len(cat_values)
+
+    # Extract just the function rows
+    func_df = df.iloc[start_idx:end_idx].copy()
+    func_df = func_df.dropna(subset=["category"])
+    # Strip whitespace from category names
+    func_df["category"] = func_df["category"].str.strip()
+    # Drop empty category rows
+    func_df = func_df[func_df["category"].str.len() > 0]
+
+    # Melt to long format
+    value_vars = [c for c in func_df.columns if c != "category"]
+    long = func_df.melt(id_vars=["category"], value_vars=value_vars,
+                        var_name="state_name", value_name="amount")
+
+    long["amount"] = pd.to_numeric(long["amount"], errors="coerce")
+    long["state"] = long["state_name"].map(_state_name_to_abbr())
+    long = long.dropna(subset=["state"]).reset_index(drop=True)
+
+    return long[["state", "state_name", "category", "amount"]]
+
+
 # ---------------------------------------------------------------------------
 # SSA OASDI Benefit Payments
 # ---------------------------------------------------------------------------

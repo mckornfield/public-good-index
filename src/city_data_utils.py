@@ -7,6 +7,8 @@ fallback data so notebooks run without external API access.
 
 import pandas as pd
 
+from src.data_utils import get_col_weights
+
 
 # ---------------------------------------------------------------------------
 # Top 100 US Cities (2023 Census estimates)
@@ -133,6 +135,24 @@ def get_top_100_cities() -> pd.DataFrame:
             "lon": lon,
         })
     return pd.DataFrame(rows)
+
+
+# ---------------------------------------------------------------------------
+# City Cost-of-Living Weights
+# ---------------------------------------------------------------------------
+
+def get_city_col_weights() -> pd.DataFrame:
+    """Return a DataFrame with cost-of-living weights for each city.
+
+    Each city inherits its parent state's RPP value.
+    Columns: city_state, rpp, col_weight
+    """
+    cities = get_top_100_cities()
+    state_weights = get_col_weights()
+    merged = cities[["city_state", "state"]].merge(
+        state_weights, on="state", how="left",
+    )
+    return merged[["city_state", "rpp", "col_weight"]]
 
 
 # ---------------------------------------------------------------------------

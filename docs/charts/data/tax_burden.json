@@ -11,7 +11,9 @@
     "pfml_rate":0.0,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1369529945,
-    "taxes_per_capita":3307.3870679037
+    "taxes_per_capita":3258.4166443471,
+    "rpp":87.8,
+    "col_weight":0.9851936219
   },
   {
     "state":"AR",
@@ -25,7 +27,9 @@
     "pfml_rate":0.0,
     "federal_payroll_rate":0.0765,
     "total_burden":0.149521917,
-    "taxes_per_capita":4131.4854100684
+    "taxes_per_capita":4131.4854100684,
+    "rpp":86.5,
+    "col_weight":1.0
   },
   {
     "state":"AZ",
@@ -39,7 +43,9 @@
     "pfml_rate":0.0,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1265925738,
-    "taxes_per_capita":3175.1478601986
+    "taxes_per_capita":2808.2851728751,
+    "rpp":97.8,
+    "col_weight":0.8844580777
   },
   {
     "state":"CA",
@@ -53,7 +59,9 @@
     "pfml_rate":0.009,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1689335824,
-    "taxes_per_capita":6815.074135524
+    "taxes_per_capita":5235.3811076627,
+    "rpp":112.6,
+    "col_weight":0.7682060391
   },
   {
     "state":"CO",
@@ -67,7 +75,9 @@
     "pfml_rate":0.0045,
     "federal_payroll_rate":0.0765,
     "total_burden":0.120046492,
-    "taxes_per_capita":3142.9569161615
+    "taxes_per_capita":2606.5750071713,
+    "rpp":104.3,
+    "col_weight":0.8293384468
   },
   {
     "state":"CT",
@@ -81,7 +91,9 @@
     "pfml_rate":0.005,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1521144406,
-    "taxes_per_capita":6417.4588131736
+    "taxes_per_capita":5106.8094511455,
+    "rpp":108.7,
+    "col_weight":0.7957681693
   },
   {
     "state":"DE",
@@ -95,7 +107,9 @@
     "pfml_rate":0.005,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1791096666,
-    "taxes_per_capita":6332.4210913954
+    "taxes_per_capita":5477.544244057,
+    "rpp":100.0,
+    "col_weight":0.865
   },
   {
     "state":"FL",
@@ -109,7 +123,9 @@
     "pfml_rate":0.0,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1158156609,
-    "taxes_per_capita":2790.1752026892
+    "taxes_per_capita":2399.1069088729,
+    "rpp":100.6,
+    "col_weight":0.8598409543
   },
   {
     "state":"GA",
@@ -123,7 +139,9 @@
     "pfml_rate":0.0,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1271743804,
-    "taxes_per_capita":3050.4664560807
+    "taxes_per_capita":2858.7795065112,
+    "rpp":92.3,
+    "col_weight":0.9371614301
   },
   {
     "state":"IA",
@@ -137,7 +155,9 @@
     "pfml_rate":0.0,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1396555261,
-    "taxes_per_capita":3973.1787051092
+    "taxes_per_capita":3839.9995306363,
+    "rpp":89.5,
+    "col_weight":0.9664804469
   },
   {
     "state":"ID",
@@ -151,7 +171,9 @@
     "pfml_rate":0.0,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1478932441,
-    "taxes_per_capita":4240.3108626852
+    "taxes_per_capita":3852.8034624188,
+    "rpp":95.2,
+    "col_weight":0.9086134454
   },
   {
     "state":"IL",
@@ -165,7 +187,9 @@
     "pfml_rate":0.0,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1502636114,
-    "taxes_per_capita":5332.4225006691
+    "taxes_per_capita":4755.2015083287,
+    "rpp":97.0,
+    "col_weight":0.8917525773
   },
   {
     "state":"IN",
@@ -179,7 +203,9 @@
     "pfml_rate":0.0,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1383535757,
-    "taxes_per_capita":3806.879835458
+    "taxes_per_capita":3630.5965354699,
+    "rpp":90.7,
+    "col_weight":0.953693495
   },
   {
     "state":"KS",
@@ -193,7 +219,9 @@
     "pfml_rate":0.0,
     "federal_payroll_rate":0.0765,
     "total_burden":0.146210014,
-    "taxes_per_capita":4443.9539459679
+    "taxes_per_capita":4256.9437023945,
+    "rpp":90.3,
+    "col_weight":0.9579180509
   },
   {
     "state":"KY",
@@ -207,7 +235,9 @@
     "pfml_rate":0.0,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1444808937,
-    "taxes_per_capita":3804.7503465415
+    "taxes_per_capita":3697.8753368071,
+    "rpp":89.0,
+    "col_weight":0.9719101124
   },
   {
     "state":"LA",
@@ -221,7 +251,9 @@
     "pfml_rate":0.0,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1354452389,
-    "taxes_per_capita":3488.4170513074
+    "taxes_per_capita":3352.756388201,
+    "rpp":90.0,
+    "col_weight":0.9611111111
   },
   {
     "state":"MA",
@@ -235,7 +267,9 @@
     "pfml_rate":0.00318,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1474578949,
-    "taxes_per_capita":6153.1948114941
+    "taxes_per_capita":4834.253870974,
+    "rpp":110.1,
+    "col_weight":0.7856494096
   },
   {
     "state":"MD",
@@ -249,7 +283,9 @@
     "pfml_rate":0.0025,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1448761601,
-    "taxes_per_capita":5001.6889276216
+    "taxes_per_capita":3943.9023905129,
+    "rpp":109.7,
+    "col_weight":0.7885141294
   },
   {
     "state":"ME",
@@ -263,7 +299,9 @@
     "pfml_rate":0.0,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1475579647,
-    "taxes_per_capita":4663.5884509953
+    "taxes_per_capita":4062.4410977955,
+    "rpp":99.3,
+    "col_weight":0.8710976838
   },
   {
     "state":"MI",
@@ -277,7 +315,9 @@
     "pfml_rate":0.0,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1373791094,
-    "taxes_per_capita":3743.2867392808
+    "taxes_per_capita":3523.3330026963,
+    "rpp":91.9,
+    "col_weight":0.9412404788
   },
   {
     "state":"MN",
@@ -291,7 +331,9 @@
     "pfml_rate":0.005,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1668091289,
-    "taxes_per_capita":6216.0173163945
+    "taxes_per_capita":5486.5867129401,
+    "rpp":98.0,
+    "col_weight":0.8826530612
   },
   {
     "state":"MO",
@@ -305,7 +347,9 @@
     "pfml_rate":0.0,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1223968946,
-    "taxes_per_capita":2871.085879697
+    "taxes_per_capita":2796.722168849,
+    "rpp":88.8,
+    "col_weight":0.9740990991
   },
   {
     "state":"MS",
@@ -319,7 +363,9 @@
     "pfml_rate":0.0,
     "federal_payroll_rate":0.0765,
     "total_burden":0.149040529,
-    "taxes_per_capita":3606.7030877405
+    "taxes_per_capita":3598.3831267538,
+    "rpp":86.7,
+    "col_weight":0.9976931949
   },
   {
     "state":"MT",
@@ -333,7 +379,9 @@
     "pfml_rate":0.0,
     "federal_payroll_rate":0.0765,
     "total_burden":0.139591796,
-    "taxes_per_capita":4169.8957991264
+    "taxes_per_capita":3776.9213259103,
+    "rpp":95.5,
+    "col_weight":0.9057591623
   },
   {
     "state":"NC",
@@ -347,7 +395,9 @@
     "pfml_rate":0.0,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1342768107,
-    "taxes_per_capita":3610.7958559515
+    "taxes_per_capita":3354.8210691709,
+    "rpp":93.1,
+    "col_weight":0.9291084855
   },
   {
     "state":"ND",
@@ -361,7 +411,9 @@
     "pfml_rate":0.0,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1800863425,
-    "taxes_per_capita":7459.5153113942
+    "taxes_per_capita":7075.088535478,
+    "rpp":91.2,
+    "col_weight":0.9484649123
   },
   {
     "state":"NE",
@@ -375,7 +427,9 @@
     "pfml_rate":0.0,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1335094854,
-    "taxes_per_capita":4096.7069504883
+    "taxes_per_capita":3872.843182702,
+    "rpp":91.5,
+    "col_weight":0.9453551913
   },
   {
     "state":"NH",
@@ -389,7 +443,9 @@
     "pfml_rate":0.0,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1087658045,
-    "taxes_per_capita":2557.8893537624
+    "taxes_per_capita":2087.3342367967,
+    "rpp":106.0,
+    "col_weight":0.8160377358
   },
   {
     "state":"NJ",
@@ -403,7 +459,9 @@
     "pfml_rate":0.006,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1502423443,
-    "taxes_per_capita":5579.5120161888
+    "taxes_per_capita":4252.2272193862,
+    "rpp":113.5,
+    "col_weight":0.7621145374
   },
   {
     "state":"NM",
@@ -417,7 +475,9 @@
     "pfml_rate":0.0,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1929120244,
-    "taxes_per_capita":6476.6528674485
+    "taxes_per_capita":6036.9663042489,
+    "rpp":92.8,
+    "col_weight":0.932112069
   },
   {
     "state":"NV",
@@ -431,7 +491,9 @@
     "pfml_rate":0.0,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1466204565,
-    "taxes_per_capita":4706.47641207
+    "taxes_per_capita":4154.1858126944,
+    "rpp":98.0,
+    "col_weight":0.8826530612
   },
   {
     "state":"NY",
@@ -445,7 +507,9 @@
     "pfml_rate":0.00455,
     "federal_payroll_rate":0.0765,
     "total_burden":0.155086701,
-    "taxes_per_capita":6117.5062908712
+    "taxes_per_capita":4565.6971023327,
+    "rpp":115.9,
+    "col_weight":0.7463330457
   },
   {
     "state":"OH",
@@ -459,7 +523,9 @@
     "pfml_rate":0.0,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1278228624,
-    "taxes_per_capita":3178.9049405075
+    "taxes_per_capita":3041.7619176316,
+    "rpp":90.4,
+    "col_weight":0.9568584071
   },
   {
     "state":"OK",
@@ -473,7 +539,9 @@
     "pfml_rate":0.0,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1291781224,
-    "taxes_per_capita":3213.5894404888
+    "taxes_per_capita":3144.5190792113,
+    "rpp":88.4,
+    "col_weight":0.9785067873
   },
   {
     "state":"OR",
@@ -487,7 +555,9 @@
     "pfml_rate":0.006,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1425528748,
-    "taxes_per_capita":4070.9923422493
+    "taxes_per_capita":3489.9983905309,
+    "rpp":100.9,
+    "col_weight":0.85728444
   },
   {
     "state":"PA",
@@ -501,7 +571,9 @@
     "pfml_rate":0.0,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1388037722,
-    "taxes_per_capita":4258.5540010506
+    "taxes_per_capita":3778.1017547783,
+    "rpp":97.5,
+    "col_weight":0.8871794872
   },
   {
     "state":"RI",
@@ -515,7 +587,9 @@
     "pfml_rate":0.011,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1580750637,
-    "taxes_per_capita":4815.3567368212
+    "taxes_per_capita":4152.8251020442,
+    "rpp":100.3,
+    "col_weight":0.8624127617
   },
   {
     "state":"SC",
@@ -529,7 +603,9 @@
     "pfml_rate":0.0,
     "federal_payroll_rate":0.0765,
     "total_burden":0.134419148,
-    "taxes_per_capita":3354.668371311
+    "taxes_per_capita":3185.2778717717,
+    "rpp":91.1,
+    "col_weight":0.9495060373
   },
   {
     "state":"SD",
@@ -543,7 +619,9 @@
     "pfml_rate":0.0,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1158325991,
-    "taxes_per_capita":2913.4989198515
+    "taxes_per_capita":2781.6518384895,
+    "rpp":90.6,
+    "col_weight":0.9547461369
   },
   {
     "state":"TN",
@@ -557,7 +635,9 @@
     "pfml_rate":0.0,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1297428872,
-    "taxes_per_capita":3390.1400816026
+    "taxes_per_capita":3215.4289151165,
+    "rpp":91.2,
+    "col_weight":0.9484649123
   },
   {
     "state":"TX",
@@ -571,7 +651,9 @@
     "pfml_rate":0.0,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1186056981,
-    "taxes_per_capita":2863.1884791748
+    "taxes_per_capita":2598.8017150957,
+    "rpp":95.3,
+    "col_weight":0.907660021
   },
   {
     "state":"UT",
@@ -585,7 +667,9 @@
     "pfml_rate":0.0,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1369660053,
-    "taxes_per_capita":3931.7957453681
+    "taxes_per_capita":3473.9564042323,
+    "rpp":97.9,
+    "col_weight":0.8835546476
   },
   {
     "state":"VA",
@@ -599,7 +683,9 @@
     "pfml_rate":0.0,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1348526491,
-    "taxes_per_capita":4357.7817597544
+    "taxes_per_capita":3645.5330968932,
+    "rpp":103.4,
+    "col_weight":0.83655706
   },
   {
     "state":"VT",
@@ -613,7 +699,9 @@
     "pfml_rate":0.0,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1818312861,
-    "taxes_per_capita":7167.578429071
+    "taxes_per_capita":6007.7086639015,
+    "rpp":103.2,
+    "col_weight":0.8381782946
   },
   {
     "state":"WA",
@@ -627,7 +715,9 @@
     "pfml_rate":0.0058,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1409098444,
-    "taxes_per_capita":4779.5505626606
+    "taxes_per_capita":3845.8709178618,
+    "rpp":107.5,
+    "col_weight":0.8046511628
   },
   {
     "state":"WI",
@@ -641,7 +731,9 @@
     "pfml_rate":0.0,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1427718061,
-    "taxes_per_capita":4313.3598547104
+    "taxes_per_capita":3990.4345179942,
+    "rpp":93.5,
+    "col_weight":0.9251336898
   },
   {
     "state":"WV",
@@ -655,7 +747,9 @@
     "pfml_rate":0.0,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1509699107,
-    "taxes_per_capita":3945.1061567587
+    "taxes_per_capita":3936.005565855,
+    "rpp":86.7,
+    "col_weight":0.9976931949
   },
   {
     "state":"WY",
@@ -669,6 +763,8 @@
     "pfml_rate":0.0,
     "federal_payroll_rate":0.0765,
     "total_burden":0.1308343968,
-    "taxes_per_capita":4519.6410624306
+    "taxes_per_capita":4102.2975015765,
+    "rpp":95.3,
+    "col_weight":0.907660021
   }
 ]

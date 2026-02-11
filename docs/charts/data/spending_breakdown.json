@@ -7,9 +7,11 @@
     "total_spending":30958681.0,
     "investment_ratio":0.3165346411,
     "population":5108468,
-    "investment_per_capita":1918.2844993842,
-    "cost_per_capita":4141.982688352,
-    "total_per_capita":6060.2671877361
+    "investment_per_capita":1889.8816537213,
+    "cost_per_capita":4080.6549264515,
+    "total_per_capita":5970.5365801728,
+    "rpp":87.8,
+    "col_weight":0.9851936219
   },
   {
     "state":"AR",
@@ -21,7 +23,9 @@
     "population":3067732,
     "investment_per_capita":2437.5763919404,
     "cost_per_capita":4557.2621402391,
-    "total_per_capita":6994.8385321795
+    "total_per_capita":6994.8385321795,
+    "rpp":86.5,
+    "col_weight":1.0
   },
   {
     "state":"AZ",
@@ -31,9 +35,11 @@
     "total_spending":41487616.0,
     "investment_ratio":0.3128063276,
     "population":7431344,
-    "investment_per_capita":1746.3313231093,
-    "cost_per_capita":3836.4563933523,
-    "total_per_capita":5582.7877164615
+    "investment_per_capita":1544.5568450813,
+    "cost_per_capita":3393.1848468811,
+    "total_per_capita":4937.7416919624,
+    "rpp":97.8,
+    "col_weight":0.8844580777
   },
   {
     "state":"CA",
@@ -43,9 +49,11 @@
     "total_spending":344220679.0,
     "investment_ratio":0.3857273767,
     "population":38965193,
-    "investment_per_capita":3407.537067762,
-    "cost_per_capita":5426.5184699586,
-    "total_per_capita":8834.0555377205
+    "investment_per_capita":2617.6905538314,
+    "cost_per_capita":4168.6842597817,
+    "total_per_capita":6786.374813613,
+    "rpp":112.6,
+    "col_weight":0.7682060391
   },
   {
     "state":"CO",
@@ -55,9 +63,11 @@
     "total_spending":30633075.0,
     "investment_ratio":0.3377043278,
     "population":5877610,
-    "investment_per_capita":1760.0558730504,
-    "cost_per_capita":3451.769171483,
-    "total_per_capita":5211.8250445334
+    "investment_per_capita":1459.6820040159,
+    "cost_per_capita":2862.6848833488,
+    "total_per_capita":4322.3668873647,
+    "rpp":104.3,
+    "col_weight":0.8293384468
   },
   {
     "state":"CT",
@@ -67,9 +77,11 @@
     "total_spending":32603078.0,
     "investment_ratio":0.3275155763,
     "population":3617176,
-    "investment_per_capita":2952.0310540599,
-    "cost_per_capita":6061.3755371594,
-    "total_per_capita":9013.4065912192
+    "investment_per_capita":2349.1323475269,
+    "cost_per_capita":4823.4497144829,
+    "total_per_capita":7172.5820620098,
+    "rpp":108.7,
+    "col_weight":0.7957681693
   },
   {
     "state":"DE",
@@ -79,9 +91,11 @@
     "total_spending":9217362.0,
     "investment_ratio":0.3828161984,
     "population":1031890,
-    "investment_per_capita":3419.5073893535,
-    "cost_per_capita":5512.9970442586,
-    "total_per_capita":8932.5044336121
+    "investment_per_capita":2957.8738917908,
+    "cost_per_capita":4768.7424432837,
+    "total_per_capita":7726.6163350745,
+    "rpp":100.0,
+    "col_weight":0.865
   },
   {
     "state":"FL",
@@ -91,9 +105,11 @@
     "total_spending":121789887.0,
     "investment_ratio":0.2952633956,
     "population":22610726,
-    "investment_per_capita":1590.3998655328,
-    "cost_per_capita":3795.9768036639,
-    "total_per_capita":5386.3766691967
+    "investment_per_capita":1367.4909380576,
+    "cost_per_capita":3263.9363172657,
+    "total_per_capita":4631.4272553232,
+    "rpp":100.6,
+    "col_weight":0.8598409543
   },
   {
     "state":"GA",
@@ -103,9 +119,11 @@
     "total_spending":56984287.0,
     "investment_ratio":0.3424397757,
     "population":11029227,
-    "investment_per_capita":1769.2705445268,
-    "cost_per_capita":3397.3913620601,
-    "total_per_capita":5166.6619065869
+    "investment_per_capita":1658.0921137765,
+    "cost_per_capita":3183.9041475428,
+    "total_per_capita":4841.9962613193,
+    "rpp":92.3,
+    "col_weight":0.9371614301
   },
   {
     "state":"IA",
@@ -115,9 +133,11 @@
     "total_spending":21208000.0,
     "investment_ratio":0.3544784987,
     "population":3207004,
-    "investment_per_capita":2344.1754360144,
-    "cost_per_capita":4268.8503038973,
-    "total_per_capita":6613.0257399118
+    "investment_per_capita":2265.5997230754,
+    "cost_per_capita":4125.7603495768,
+    "total_per_capita":6391.3600726522,
+    "rpp":89.5,
+    "col_weight":0.9664804469
   },
   {
     "state":"ID",
@@ -127,9 +147,11 @@
     "total_spending":13067049.0,
     "investment_ratio":0.3889125915,
     "population":1964726,
-    "investment_per_capita":2586.589626238,
-    "cost_per_capita":4064.2354760918,
-    "total_per_capita":6650.8251023298
+    "investment_per_capita":2350.2101120755,
+    "cost_per_capita":3692.8189987599,
+    "total_per_capita":6043.0291108354,
+    "rpp":95.2,
+    "col_weight":0.9086134454
   },
   {
     "state":"IL",
@@ -139,9 +161,11 @@
     "total_spending":96464244.0,
     "investment_ratio":0.3329909175,
     "population":12549689,
-    "investment_per_capita":2559.5628003212,
-    "cost_per_capita":5127.0216242012,
-    "total_per_capita":7686.5844245224
+    "investment_per_capita":2282.4967239978,
+    "cost_per_capita":4572.0347473547,
+    "total_per_capita":6854.5314713524,
+    "rpp":97.0,
+    "col_weight":0.8917525773
   },
   {
     "state":"IN",
@@ -151,9 +175,11 @@
     "total_spending":43139567.0,
     "investment_ratio":0.3451688143,
     "population":6862199,
-    "investment_per_capita":2169.9215062111,
-    "cost_per_capita":4116.6299330579,
-    "total_per_capita":6286.551439269
+    "investment_per_capita":2069.4400252178,
+    "cost_per_capita":3926.0031886385,
+    "total_per_capita":5995.4432138563,
+    "rpp":90.7,
+    "col_weight":0.953693495
   },
   {
     "state":"KS",
@@ -163,9 +189,11 @@
     "total_spending":20135651.0,
     "investment_ratio":0.376408867,
     "population":2940546,
-    "investment_per_capita":2577.4932886614,
-    "cost_per_capita":4270.0959005572,
-    "total_per_capita":6847.5891892186
+    "investment_per_capita":2469.0273473888,
+    "cost_per_capita":4090.4019423943,
+    "total_per_capita":6559.429289783,
+    "rpp":90.3,
+    "col_weight":0.9579180509
   },
   {
     "state":"KY",
@@ -175,9 +203,11 @@
     "total_spending":29442886.0,
     "investment_ratio":0.3275390925,
     "population":4526154,
-    "investment_per_capita":2130.6601940632,
-    "cost_per_capita":4374.3959750375,
-    "total_per_capita":6505.0561691007
+    "investment_per_capita":2070.810188612,
+    "cost_per_capita":4251.5196836039,
+    "total_per_capita":6322.3298722159,
+    "rpp":89.0,
+    "col_weight":0.9719101124
   },
   {
     "state":"LA",
@@ -187,9 +217,11 @@
     "total_spending":27691144.0,
     "investment_ratio":0.3169002046,
     "population":4573749,
-    "investment_per_capita":1918.6293782191,
-    "cost_per_capita":4135.7352141536,
-    "total_per_capita":6054.3645923727
+    "investment_per_capita":1844.0160135105,
+    "cost_per_capita":3974.9010669366,
+    "total_per_capita":5818.9170804471,
+    "rpp":90.0,
+    "col_weight":0.9611111111
   },
   {
     "state":"MA",
@@ -199,9 +231,11 @@
     "total_spending":59136972.0,
     "investment_ratio":0.356962414,
     "population":7001399,
-    "investment_per_capita":3015.0654576321,
-    "cost_per_capita":5431.3853159918,
-    "total_per_capita":8446.450773624
+    "investment_per_capita":2368.7843967773,
+    "cost_per_capita":4267.1646669691,
+    "total_per_capita":6635.9490637463,
+    "rpp":110.1,
+    "col_weight":0.7856494096
   },
   {
     "state":"MD",
@@ -211,9 +245,11 @@
     "total_spending":44633703.0,
     "investment_ratio":0.3601333629,
     "population":6180253,
-    "investment_per_capita":2600.8782423632,
-    "cost_per_capita":4621.1081391005,
-    "total_per_capita":7221.9863814637
+    "investment_per_capita":2050.8292430667,
+    "cost_per_capita":3643.8090613691,
+    "total_per_capita":5694.6383044358,
+    "rpp":109.7,
+    "col_weight":0.7885141294
   },
   {
     "state":"ME",
@@ -223,9 +259,11 @@
     "total_spending":10565073.0,
     "investment_ratio":0.3326905001,
     "population":1395722,
-    "investment_per_capita":2518.3377635374,
-    "cost_per_capita":5051.2735200849,
-    "total_per_capita":7569.6112836224
+    "investment_per_capita":2193.7181928096,
+    "cost_per_capita":4400.1526635181,
+    "total_per_capita":6593.8708563277,
+    "rpp":99.3,
+    "col_weight":0.8710976838
   },
   {
     "state":"MI",
@@ -235,9 +273,11 @@
     "total_spending":64674346.0,
     "investment_ratio":0.3079017356,
     "population":10037261,
-    "investment_per_capita":1983.9419718188,
-    "cost_per_capita":4459.4837794892,
-    "total_per_capita":6443.4257513081
+    "investment_per_capita":1867.366491429,
+    "cost_per_capita":4197.4466477238,
+    "total_per_capita":6064.8131391528,
+    "rpp":91.9,
+    "col_weight":0.9412404788
   },
   {
     "state":"MN",
@@ -247,9 +287,11 @@
     "total_spending":49106979.0,
     "investment_ratio":0.3922083796,
     "population":5737915,
-    "investment_per_capita":3356.6493508531,
-    "cost_per_capita":5201.6822033788,
-    "total_per_capita":8558.3315542318
+    "investment_per_capita":2962.7568249876,
+    "cost_per_capita":4591.2807203292,
+    "total_per_capita":7554.0375453168,
+    "rpp":98.0,
+    "col_weight":0.8826530612
   },
   {
     "state":"MO",
@@ -259,9 +301,11 @@
     "total_spending":33977696.0,
     "investment_ratio":0.2931990963,
     "population":6196156,
-    "investment_per_capita":1607.8080926303,
-    "cost_per_capita":3875.8653332808,
-    "total_per_capita":5483.6734259112
+    "investment_per_capita":1566.1644145554,
+    "cost_per_capita":3775.4769293783,
+    "total_per_capita":5341.6413439337,
+    "rpp":88.8,
+    "col_weight":0.9740990991
   },
   {
     "state":"MS",
@@ -271,9 +315,11 @@
     "total_spending":19086589.0,
     "investment_ratio":0.3332996483,
     "population":2939690,
-    "investment_per_capita":2164.0218526443,
-    "cost_per_capita":4328.6998288935,
-    "total_per_capita":6492.7216815378
+    "investment_per_capita":2159.0298760523,
+    "cost_per_capita":4318.7143621602,
+    "total_per_capita":6477.7442382125,
+    "rpp":86.7,
+    "col_weight":0.9976931949
   },
   {
     "state":"MT",
@@ -283,9 +329,11 @@
     "total_spending":7651708.0,
     "investment_ratio":0.3642307992,
     "population":1132812,
-    "investment_per_capita":2460.2385214846,
-    "cost_per_capita":4294.3756598624,
-    "total_per_capita":6754.6141813469
+    "investment_per_capita":2228.3835822871,
+    "cost_per_capita":3889.6701002942,
+    "total_per_capita":6118.0536825813,
+    "rpp":95.5,
+    "col_weight":0.9057591623
   },
   {
     "state":"NC",
@@ -295,9 +343,11 @@
     "total_spending":64684746.0,
     "investment_ratio":0.3508145905,
     "population":10835491,
-    "investment_per_capita":2094.2615964519,
-    "cost_per_capita":3875.4490516397,
-    "total_per_capita":5969.7106480915
+    "investment_per_capita":1945.7962201191,
+    "cost_per_capita":3600.7125989992,
+    "total_per_capita":5546.5088191183,
+    "rpp":93.1,
+    "col_weight":0.9291084855
   },
   {
     "state":"ND",
@@ -307,9 +357,11 @@
     "total_spending":7599708.0,
     "investment_ratio":0.4770681926,
     "population":783926,
-    "investment_per_capita":4624.8994930644,
-    "cost_per_capita":5069.5206435301,
-    "total_per_capita":9694.4201365945
+    "investment_per_capita":4386.5548919964,
+    "cost_per_capita":4808.262452471,
+    "total_per_capita":9194.8173444674,
+    "rpp":91.2,
+    "col_weight":0.9484649123
   },
   {
     "state":"NE",
@@ -319,9 +371,11 @@
     "total_spending":12892839.0,
     "investment_ratio":0.3771786338,
     "population":1978379,
-    "investment_per_capita":2458.024170293,
-    "cost_per_capita":4058.8459541877,
-    "total_per_capita":6516.8701244807
+    "investment_per_capita":2323.7059096212,
+    "cost_per_capita":3837.0510933032,
+    "total_per_capita":6160.7570029244,
+    "rpp":91.5,
+    "col_weight":0.9453551913
   },
   {
     "state":"NH",
@@ -331,9 +385,11 @@
     "total_spending":7342299.0,
     "investment_ratio":0.2784128554,
     "population":1402054,
-    "investment_per_capita":1457.9969316446,
-    "cost_per_capita":3778.8191966929,
-    "total_per_capita":5236.8161283374
+    "investment_per_capita":1189.7805149741,
+    "cost_per_capita":3083.6590614522,
+    "total_per_capita":4273.4395764263,
+    "rpp":106.0,
+    "col_weight":0.8160377358
   },
   {
     "state":"NJ",
@@ -343,9 +399,11 @@
     "total_spending":74050359.0,
     "investment_ratio":0.3360201443,
     "population":9290841,
-    "investment_per_capita":2678.1657677706,
-    "cost_per_capita":5292.0878400567,
-    "total_per_capita":7970.2536078273
+    "investment_per_capita":2041.0690653054,
+    "cost_per_capita":4033.1770763428,
+    "total_per_capita":6074.2461416481,
+    "rpp":113.5,
+    "col_weight":0.7621145374
   },
   {
     "state":"NM",
@@ -355,9 +413,11 @@
     "total_spending":18986047.0,
     "investment_ratio":0.411123326,
     "population":2114371,
-    "investment_per_capita":3691.6921344457,
-    "cost_per_capita":5287.8327455305,
-    "total_per_capita":8979.5248799761
+    "investment_per_capita":3441.0707934219,
+    "cost_per_capita":4928.85272078,
+    "total_per_capita":8369.9235142019,
+    "rpp":92.8,
+    "col_weight":0.932112069
   },
   {
     "state":"NV",
@@ -367,9 +427,11 @@
     "total_spending":22449314.0,
     "investment_ratio":0.3683107065,
     "population":3194176,
-    "investment_per_capita":2588.5620266385,
-    "cost_per_capita":4439.6399259152,
-    "total_per_capita":7028.2019525536
+    "investment_per_capita":2284.8021969819,
+    "cost_per_capita":3918.6617713435,
+    "total_per_capita":6203.4639683254,
+    "rpp":98.0,
+    "col_weight":0.8826530612
   },
   {
     "state":"NY",
@@ -379,9 +441,11 @@
     "total_spending":167115037.0,
     "investment_ratio":0.336724381,
     "population":19571216,
-    "investment_per_capita":2875.2279567095,
-    "cost_per_capita":5663.589304313,
-    "total_per_capita":8538.8172610225
+    "investment_per_capita":2145.8776380964,
+    "cost_per_capita":4226.9238552466,
+    "total_per_capita":6372.8014933429,
+    "rpp":115.9,
+    "col_weight":0.7463330457
   },
   {
     "state":"OH",
@@ -391,9 +455,11 @@
     "total_spending":67544367.0,
     "investment_ratio":0.2995340556,
     "population":11785935,
-    "investment_per_capita":1716.608667874,
-    "cost_per_capita":4014.3212074392,
-    "total_per_capita":5730.9298753132
+    "investment_per_capita":1642.5514355211,
+    "cost_per_capita":3841.1369960563,
+    "total_per_capita":5483.6884315774,
+    "rpp":90.4,
+    "col_weight":0.9568584071
   },
   {
     "state":"OK",
@@ -403,9 +469,11 @@
     "total_spending":23035326.0,
     "investment_ratio":0.3223560118,
     "population":4053824,
-    "investment_per_capita":1831.7459810786,
-    "cost_per_capita":3850.6235544513,
-    "total_per_capita":5682.3695355299
+    "investment_per_capita":1792.3758751504,
+    "cost_per_capita":3767.8612834846,
+    "total_per_capita":5560.237158635,
+    "rpp":88.4,
+    "col_weight":0.9785067873
   },
   {
     "state":"OR",
@@ -415,9 +483,11 @@
     "total_spending":28435968.0,
     "investment_ratio":0.3212130159,
     "population":4233358,
-    "investment_per_capita":2157.6259413922,
-    "cost_per_capita":4559.4927147669,
-    "total_per_capita":6717.118656159
+    "investment_per_capita":1849.6991469814,
+    "cost_per_capita":3908.7821588437,
+    "total_per_capita":5758.4813058251,
+    "rpp":100.9,
+    "col_weight":0.85728444
   },
   {
     "state":"PA",
@@ -427,9 +497,11 @@
     "total_spending":90298027.0,
     "investment_ratio":0.305643594,
     "population":12961683,
-    "investment_per_capita":2129.2770005253,
-    "cost_per_capita":4837.2586723499,
-    "total_per_capita":6966.5356728752
+    "investment_per_capita":1889.0508773891,
+    "cost_per_capita":4291.5166682899,
+    "total_per_capita":6180.567545679,
+    "rpp":97.5,
+    "col_weight":0.8871794872
   },
   {
     "state":"RI",
@@ -439,9 +511,11 @@
     "total_spending":8169448.0,
     "investment_ratio":0.322999057,
     "population":1095962,
-    "investment_per_capita":2407.6783684106,
-    "cost_per_capita":5046.4559902624,
-    "total_per_capita":7454.134358673
+    "investment_per_capita":2076.4125510221,
+    "cost_per_capita":4352.1280474347,
+    "total_per_capita":6428.5405984568,
+    "rpp":100.3,
+    "col_weight":0.8624127617
   },
   {
     "state":"SC",
@@ -451,9 +525,11 @@
     "total_spending":32324495.0,
     "investment_ratio":0.3178735553,
     "population":5373555,
-    "investment_per_capita":1912.1609716473,
-    "cost_per_capita":4103.3157472102,
-    "total_per_capita":6015.4767188574
+    "investment_per_capita":1815.6083869099,
+    "cost_per_capita":3896.123075013,
+    "total_per_capita":5711.7314619228,
+    "rpp":91.1,
+    "col_weight":0.9495060373
   },
   {
     "state":"SD",
@@ -463,9 +539,11 @@
     "total_spending":5054432.0,
     "investment_ratio":0.3232496787,
     "population":919318,
-    "investment_per_capita":1777.2343411094,
-    "cost_per_capita":3720.7891937284,
-    "total_per_capita":5498.0235348378
+    "investment_per_capita":1696.8076214786,
+    "cost_per_capita":3552.4091088025,
+    "total_per_capita":5249.2167302811,
+    "rpp":90.6,
+    "col_weight":0.9547461369
   },
   {
     "state":"TN",
@@ -475,9 +553,11 @@
     "total_spending":42147796.0,
     "investment_ratio":0.3324653484,
     "population":7126489,
-    "investment_per_capita":1966.2812473295,
-    "cost_per_capita":3947.9629197491,
-    "total_per_capita":5914.2441670786
+    "investment_per_capita":1864.9487707676,
+    "cost_per_capita":3744.5043043673,
+    "total_per_capita":5609.4530751349,
+    "rpp":91.2,
+    "col_weight":0.9484649123
   },
   {
     "state":"TX",
@@ -487,9 +567,11 @@
     "total_spending":142086700.0,
     "investment_ratio":0.3503629756,
     "population":30503301,
-    "investment_per_capita":1632.0174331296,
-    "cost_per_capita":3026.0587534444,
-    "total_per_capita":4658.076186574
+    "investment_per_capita":1481.3169776045,
+    "cost_per_capita":2746.6325516573,
+    "total_per_capita":4227.9495292618,
+    "rpp":95.3,
+    "col_weight":0.907660021
   },
   {
     "state":"UT",
@@ -499,9 +581,11 @@
     "total_spending":18981832.0,
     "investment_ratio":0.4459966857,
     "population":3417734,
-    "investment_per_capita":2477.0313195819,
-    "cost_per_capita":3076.8918353506,
-    "total_per_capita":5553.9231549325
+    "investment_per_capita":2188.5925346664,
+    "cost_per_capita":2718.6020812852,
+    "total_per_capita":4907.1946159516,
+    "rpp":97.9,
+    "col_weight":0.8835546476
   },
   {
     "state":"VA",
@@ -511,9 +595,11 @@
     "total_spending":56921144.0,
     "investment_ratio":0.370516809,
     "population":8642274,
-    "investment_per_capita":2440.3577854625,
-    "cost_per_capita":4146.0040910529,
-    "total_per_capita":6586.3618765154
+    "investment_per_capita":2041.4985342602,
+    "cost_per_capita":3468.3689929988,
+    "total_per_capita":5509.867527259,
+    "rpp":103.4,
+    "col_weight":0.83655706
   },
   {
     "state":"VT",
@@ -523,9 +609,11 @@
     "total_spending":6422749.0,
     "investment_ratio":0.3974017901,
     "population":647464,
-    "investment_per_capita":3942.168135989,
-    "cost_per_capita":5977.6868675324,
-    "total_per_capita":9919.8550035214
+    "investment_per_capita":3304.2397651458,
+    "cost_per_capita":5010.3673841236,
+    "total_per_capita":8314.6071492694,
+    "rpp":103.2,
+    "col_weight":0.8381782946
   },
   {
     "state":"WA",
@@ -535,9 +623,11 @@
     "total_spending":54382055.0,
     "investment_ratio":0.370797126,
     "population":7812880,
-    "investment_per_capita":2580.9573038367,
-    "cost_per_capita":4379.607174307,
-    "total_per_capita":6960.5644781438
+    "investment_per_capita":2076.7702956454,
+    "cost_per_capita":3524.0560053726,
+    "total_per_capita":5600.826301018,
+    "rpp":107.5,
+    "col_weight":0.8046511628
   },
   {
     "state":"WI",
@@ -547,9 +637,11 @@
     "total_spending":40610076.0,
     "investment_ratio":0.3453044954,
     "population":5910955,
-    "investment_per_capita":2372.3479200907,
-    "cost_per_capita":4497.9591622673,
-    "total_per_capita":6870.3070823581
+    "investment_per_capita":2194.7389848968,
+    "cost_per_capita":4161.2135565361,
+    "total_per_capita":6355.9525414329,
+    "rpp":93.5,
+    "col_weight":0.9251336898
   },
   {
     "state":"WV",
@@ -559,9 +651,11 @@
     "total_spending":12899118.0,
     "investment_ratio":0.3031638349,
     "population":1770071,
-    "investment_per_capita":2209.2594477849,
-    "cost_per_capita":5078.0855231231,
-    "total_per_capita":7287.3449709079
+    "investment_per_capita":2204.1631168788,
+    "cost_per_capita":5066.3713696672,
+    "total_per_capita":7270.534486546,
+    "rpp":86.7,
+    "col_weight":0.9976931949
   },
   {
     "state":"WY",
@@ -571,8 +665,10 @@
     "total_spending":4073728.0,
     "investment_ratio":0.388792968,
     "population":584057,
-    "investment_per_capita":2711.7846374583,
-    "cost_per_capita":4263.0962388945,
-    "total_per_capita":6974.8808763528
+    "investment_per_capita":2461.3785009459,
+    "cost_per_capita":3869.4420216618,
+    "total_per_capita":6330.8205226078,
+    "rpp":95.3,
+    "col_weight":0.907660021
   }
 ]

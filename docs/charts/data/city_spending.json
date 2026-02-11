@@ -6,10 +6,12 @@
     "population":564559,
     "lat":35.0844,
     "lon":-106.6504,
-    "spending_per_capita":2567,
-    "investment_per_capita":1463,
-    "cost_per_capita":1104,
-    "investment_ratio":0.57
+    "spending_per_capita":2392.7316810345,
+    "investment_per_capita":1363.6799568966,
+    "cost_per_capita":1029.0517241379,
+    "investment_ratio":0.57,
+    "rpp":92.8,
+    "col_weight":0.932112069
   },
   {
     "city":"Anaheim",
@@ -18,10 +20,12 @@
     "population":350986,
     "lat":33.8366,
     "lon":-117.9143,
-    "spending_per_capita":2765,
-    "investment_per_capita":1548,
-    "cost_per_capita":1217,
-    "investment_ratio":0.56
+    "spending_per_capita":2124.0896980462,
+    "investment_per_capita":1189.1829484902,
+    "cost_per_capita":934.906749556,
+    "investment_ratio":0.56,
+    "rpp":112.6,
+    "col_weight":0.7682060391
   },
   {
     "city":"Arlington",
@@ -30,10 +34,12 @@
     "population":394266,
     "lat":32.7357,
     "lon":-97.1081,
-    "spending_per_capita":2345,
-    "investment_per_capita":1407,
-    "cost_per_capita":938,
-    "investment_ratio":0.6
+    "spending_per_capita":2128.462749213,
+    "investment_per_capita":1277.0776495278,
+    "cost_per_capita":851.3850996852,
+    "investment_ratio":0.6,
+    "rpp":95.3,
+    "col_weight":0.907660021
   },
   {
     "city":"Atlanta",
@@ -42,10 +48,12 @@
     "population":510823,
     "lat":33.749,
     "lon":-84.388,
-    "spending_per_capita":4567,
-    "investment_per_capita":2421,
-    "cost_per_capita":2146,
-    "investment_ratio":0.53
+    "spending_per_capita":4280.0162513543,
+    "investment_per_capita":2268.8678223185,
+    "cost_per_capita":2011.1484290358,
+    "investment_ratio":0.53,
+    "rpp":92.3,
+    "col_weight":0.9371614301
   },
   {
     "city":"Aurora",
@@ -54,10 +62,12 @@
     "population":395282,
     "lat":39.7294,
     "lon":-104.8319,
-    "spending_per_capita":2345,
-    "investment_per_capita":1384,
-    "cost_per_capita":961,
-    "investment_ratio":0.59
+    "spending_per_capita":1944.7986577181,
+    "investment_per_capita":1147.8044103547,
+    "cost_per_capita":796.9942473634,
+    "investment_ratio":0.59,
+    "rpp":104.3,
+    "col_weight":0.8293384468
   },
   {
     "city":"Austin",
@@ -66,10 +76,12 @@
     "population":979882,
     "lat":30.2672,
     "lon":-97.7431,
-    "spending_per_capita":3234,
-    "investment_per_capita":1973,
-    "cost_per_capita":1261,
-    "investment_ratio":0.61
+    "spending_per_capita":2935.3725078699,
+    "investment_per_capita":1790.8132214061,
+    "cost_per_capita":1144.5592864638,
+    "investment_ratio":0.61,
+    "rpp":95.3,
+    "col_weight":0.907660021
   },
   {
     "city":"Bakersfield",
@@ -78,10 +90,12 @@
     "population":413280,
     "lat":35.3733,
     "lon":-119.0187,
-    "spending_per_capita":1876,
-    "investment_per_capita":1069,
-    "cost_per_capita":807,
-    "investment_ratio":0.57
+    "spending_per_capita":1441.1545293073,
+    "investment_per_capita":821.2122557726,
+    "cost_per_capita":619.9422735346,
+    "investment_ratio":0.57,
+    "rpp":112.6,
+    "col_weight":0.7682060391
   },
   {
     "city":"Baltimore",
@@ -90,10 +104,12 @@
     "population":585708,
     "lat":39.2904,
     "lon":-76.6122,
-    "spending_per_capita":6543,
-    "investment_per_capita":3010,
-    "cost_per_capita":3533,
-    "investment_ratio":0.46
+    "spending_per_capita":5159.2479489517,
+    "investment_per_capita":2373.4275296263,
+    "cost_per_capita":2785.8204193254,
+    "investment_ratio":0.46,
+    "rpp":109.7,
+    "col_weight":0.7885141294
   },
   {
     "city":"Baton Rouge",
@@ -102,10 +118,12 @@
     "population":225128,
     "lat":30.4515,
     "lon":-91.1871,
-    "spending_per_capita":3234,
-    "investment_per_capita":1714,
-    "cost_per_capita":1520,
-    "investment_ratio":0.53
+    "spending_per_capita":3108.2333333333,
+    "investment_per_capita":1647.3444444444,
+    "cost_per_capita":1460.8888888889,
+    "investment_ratio":0.53,
+    "rpp":90.0,
+    "col_weight":0.9611111111
   },
   {
     "city":"Boise",
@@ -114,10 +132,12 @@
     "population":237446,
     "lat":43.615,
     "lon":-116.2023,
-    "spending_per_capita":2345,
-    "investment_per_capita":1430,
-    "cost_per_capita":915,
-    "investment_ratio":0.61
+    "spending_per_capita":2130.6985294118,
+    "investment_per_capita":1299.3172268908,
+    "cost_per_capita":831.381302521,
+    "investment_ratio":0.61,
+    "rpp":95.2,
+    "col_weight":0.9086134454
   },
   {
     "city":"Boston",
@@ -126,10 +146,12 @@
     "population":654776,
     "lat":42.3601,
     "lon":-71.0589,
-    "spending_per_capita":7234,
-    "investment_per_capita":3689,
-    "cost_per_capita":3545,
-    "investment_ratio":0.51
+    "spending_per_capita":5683.3878292461,
+    "investment_per_capita":2898.2606721163,
+    "cost_per_capita":2785.1271571299,
+    "investment_ratio":0.51,
+    "rpp":110.1,
+    "col_weight":0.7856494096
   },
   {
     "city":"Chandler",
@@ -138,10 +160,12 @@
     "population":283500,
     "lat":33.3062,
     "lon":-111.8413,
-    "spending_per_capita":2123,
-    "investment_per_capita":1316,
-    "cost_per_capita":807,
-    "investment_ratio":0.62
+    "spending_per_capita":1877.7044989775,
+    "investment_per_capita":1163.9468302658,
+    "cost_per_capita":713.7576687117,
+    "investment_ratio":0.62,
+    "rpp":97.8,
+    "col_weight":0.8844580777
   },
   {
     "city":"Charlotte",
@@ -150,10 +174,12 @@
     "population":897720,
     "lat":35.2271,
     "lon":-80.8431,
-    "spending_per_capita":2876,
-    "investment_per_capita":1726,
-    "cost_per_capita":1150,
-    "investment_ratio":0.6
+    "spending_per_capita":2672.1160042965,
+    "investment_per_capita":1603.6412459721,
+    "cost_per_capita":1068.4747583244,
+    "investment_ratio":0.6,
+    "rpp":93.1,
+    "col_weight":0.9291084855
   },
   {
     "city":"Chesapeake",
@@ -162,10 +188,12 @@
     "population":254444,
     "lat":36.7682,
     "lon":-76.2875,
-    "spending_per_capita":3123,
-    "investment_per_capita":1843,
-    "cost_per_capita":1280,
-    "investment_ratio":0.59
+    "spending_per_capita":2612.5676982592,
+    "investment_per_capita":1541.7746615087,
+    "cost_per_capita":1070.7930367505,
+    "investment_ratio":0.59,
+    "rpp":103.4,
+    "col_weight":0.83655706
   },
   {
     "city":"Chicago",
@@ -174,10 +202,12 @@
     "population":2665039,
     "lat":41.8781,
     "lon":-87.6298,
-    "spending_per_capita":6234,
-    "investment_per_capita":2992,
-    "cost_per_capita":3242,
-    "investment_ratio":0.48
+    "spending_per_capita":5559.1855670103,
+    "investment_per_capita":2668.1237113402,
+    "cost_per_capita":2891.0618556701,
+    "investment_ratio":0.48,
+    "rpp":97.0,
+    "col_weight":0.8917525773
   },
   {
     "city":"Cincinnati",
@@ -186,10 +216,12 @@
     "population":311097,
     "lat":39.1031,
     "lon":-84.512,
-    "spending_per_capita":3567,
-    "investment_per_capita":1819,
-    "cost_per_capita":1748,
-    "investment_ratio":0.51
+    "spending_per_capita":3413.1139380531,
+    "investment_per_capita":1740.5254424779,
+    "cost_per_capita":1672.5884955752,
+    "investment_ratio":0.51,
+    "rpp":90.4,
+    "col_weight":0.9568584071
   },
   {
     "city":"Cleveland",
@@ -198,10 +230,12 @@
     "population":361607,
     "lat":41.4993,
     "lon":-81.6944,
-    "spending_per_capita":3456,
-    "investment_per_capita":1693,
-    "cost_per_capita":1763,
-    "investment_ratio":0.49
+    "spending_per_capita":3306.9026548673,
+    "investment_per_capita":1619.9612831858,
+    "cost_per_capita":1686.9413716814,
+    "investment_ratio":0.49,
+    "rpp":90.4,
+    "col_weight":0.9568584071
   },
   {
     "city":"Colorado Springs",
@@ -210,10 +244,12 @@
     "population":488664,
     "lat":38.8339,
     "lon":-104.8214,
-    "spending_per_capita":2567,
-    "investment_per_capita":1540,
-    "cost_per_capita":1027,
-    "investment_ratio":0.6
+    "spending_per_capita":2128.9117929051,
+    "investment_per_capita":1277.1812080537,
+    "cost_per_capita":851.7305848514,
+    "investment_ratio":0.6,
+    "rpp":104.3,
+    "col_weight":0.8293384468
   },
   {
     "city":"Columbus",
@@ -222,10 +258,12 @@
     "population":905748,
     "lat":39.9612,
     "lon":-82.9988,
-    "spending_per_capita":3123,
-    "investment_per_capita":1780,
-    "cost_per_capita":1343,
-    "investment_ratio":0.57
+    "spending_per_capita":2988.2688053097,
+    "investment_per_capita":1703.2079646018,
+    "cost_per_capita":1285.060840708,
+    "investment_ratio":0.57,
+    "rpp":90.4,
+    "col_weight":0.9568584071
   },
   {
     "city":"Corpus Christi",
@@ -234,10 +272,12 @@
     "population":317773,
     "lat":27.8006,
     "lon":-97.3964,
-    "spending_per_capita":2123,
-    "investment_per_capita":1231,
-    "cost_per_capita":892,
-    "investment_ratio":0.58
+    "spending_per_capita":1926.962224554,
+    "investment_per_capita":1117.3294858342,
+    "cost_per_capita":809.6327387198,
+    "investment_ratio":0.58,
+    "rpp":95.3,
+    "col_weight":0.907660021
   },
   {
     "city":"Dallas",
@@ -246,10 +286,12 @@
     "population":1302092,
     "lat":32.7767,
     "lon":-96.797,
-    "spending_per_capita":3456,
-    "investment_per_capita":1935,
-    "cost_per_capita":1521,
-    "investment_ratio":0.56
+    "spending_per_capita":3136.8730325289,
+    "investment_per_capita":1756.3221406086,
+    "cost_per_capita":1380.5508919203,
+    "investment_ratio":0.56,
+    "rpp":95.3,
+    "col_weight":0.907660021
   },
   {
     "city":"Denver",
@@ -258,10 +300,12 @@
     "population":713252,
     "lat":39.7392,
     "lon":-104.9903,
-    "spending_per_capita":5234,
-    "investment_per_capita":2983,
-    "cost_per_capita":2251,
-    "investment_ratio":0.57
+    "spending_per_capita":4340.757430489,
+    "investment_per_capita":2473.9165867689,
+    "cost_per_capita":1866.84084372,
+    "investment_ratio":0.57,
+    "rpp":104.3,
+    "col_weight":0.8293384468
   },
   {
     "city":"Des Moines",
@@ -270,10 +314,12 @@
     "population":214237,
     "lat":41.5868,
     "lon":-93.625,
-    "spending_per_capita":3234,
-    "investment_per_capita":1843,
-    "cost_per_capita":1391,
-    "investment_ratio":0.57
+    "spending_per_capita":3125.5977653631,
+    "investment_per_capita":1781.2234636872,
+    "cost_per_capita":1344.374301676,
+    "investment_ratio":0.57,
+    "rpp":89.5,
+    "col_weight":0.9664804469
   },
   {
     "city":"Durham",
@@ -282,10 +328,12 @@
     "population":295179,
     "lat":35.994,
     "lon":-78.8986,
-    "spending_per_capita":2876,
-    "investment_per_capita":1754,
-    "cost_per_capita":1122,
-    "investment_ratio":0.61
+    "spending_per_capita":2672.1160042965,
+    "investment_per_capita":1629.6562835661,
+    "cost_per_capita":1042.4597207304,
+    "investment_ratio":0.61,
+    "rpp":93.1,
+    "col_weight":0.9291084855
   },
   {
     "city":"El Paso",
@@ -294,10 +342,12 @@
     "population":678815,
     "lat":31.7619,
     "lon":-106.485,
-    "spending_per_capita":1987,
-    "investment_per_capita":1133,
-    "cost_per_capita":854,
-    "investment_ratio":0.57
+    "spending_per_capita":1803.5204616999,
+    "investment_per_capita":1028.3788037775,
+    "cost_per_capita":775.1416579224,
+    "investment_ratio":0.57,
+    "rpp":95.3,
+    "col_weight":0.907660021
   },
   {
     "city":"Fontana",
@@ -306,10 +356,12 @@
     "population":218390,
     "lat":34.0922,
     "lon":-117.435,
-    "spending_per_capita":1765,
-    "investment_per_capita":1006,
-    "cost_per_capita":759,
-    "investment_ratio":0.57
+    "spending_per_capita":1355.8836589698,
+    "investment_per_capita":772.8152753108,
+    "cost_per_capita":583.068383659,
+    "investment_ratio":0.57,
+    "rpp":112.6,
+    "col_weight":0.7682060391
   },
   {
     "city":"Fort Worth",
@@ -318,10 +370,12 @@
     "population":956709,
     "lat":32.7555,
     "lon":-97.3308,
-    "spending_per_capita":2567,
-    "investment_per_capita":1515,
-    "cost_per_capita":1052,
-    "investment_ratio":0.59
+    "spending_per_capita":2329.963273872,
+    "investment_per_capita":1375.1049317943,
+    "cost_per_capita":954.8583420776,
+    "investment_ratio":0.59,
+    "rpp":95.3,
+    "col_weight":0.907660021
   },
   {
     "city":"Fremont",
@@ -330,10 +384,12 @@
     "population":230504,
     "lat":37.5485,
     "lon":-121.9886,
-    "spending_per_capita":2234,
-    "investment_per_capita":1296,
-    "cost_per_capita":938,
-    "investment_ratio":0.58
+    "spending_per_capita":1716.1722912966,
+    "investment_per_capita":995.595026643,
+    "cost_per_capita":720.5772646536,
+    "investment_ratio":0.58,
+    "rpp":112.6,
+    "col_weight":0.7682060391
   },
   {
     "city":"Fresno",
@@ -342,10 +398,12 @@
     "population":545567,
     "lat":36.7378,
     "lon":-119.7871,
-    "spending_per_capita":2123,
-    "investment_per_capita":1168,
-    "cost_per_capita":955,
-    "investment_ratio":0.55
+    "spending_per_capita":1630.9014209591,
+    "investment_per_capita":897.2646536412,
+    "cost_per_capita":733.6367673179,
+    "investment_ratio":0.55,
+    "rpp":112.6,
+    "col_weight":0.7682060391
   },
   {
     "city":"Garland",
@@ -354,10 +412,12 @@
     "population":246018,
     "lat":32.9126,
     "lon":-96.6389,
-    "spending_per_capita":2234,
-    "investment_per_capita":1318,
-    "cost_per_capita":916,
-    "investment_ratio":0.59
+    "spending_per_capita":2027.7124868835,
+    "investment_per_capita":1196.29590766,
+    "cost_per_capita":831.4165792235,
+    "investment_ratio":0.59,
+    "rpp":95.3,
+    "col_weight":0.907660021
   },
   {
     "city":"Gilbert",
@@ -366,10 +426,12 @@
     "population":280892,
     "lat":33.3528,
     "lon":-111.789,
-    "spending_per_capita":1987,
-    "investment_per_capita":1252,
-    "cost_per_capita":735,
-    "investment_ratio":0.63
+    "spending_per_capita":1757.418200409,
+    "investment_per_capita":1107.3415132924,
+    "cost_per_capita":650.0766871166,
+    "investment_ratio":0.63,
+    "rpp":97.8,
+    "col_weight":0.8844580777
   },
   {
     "city":"Glendale",
@@ -378,10 +440,12 @@
     "population":248325,
     "lat":33.5387,
     "lon":-112.186,
-    "spending_per_capita":2123,
-    "investment_per_capita":1231,
-    "cost_per_capita":892,
-    "investment_ratio":0.58
+    "spending_per_capita":1877.7044989775,
+    "investment_per_capita":1088.7678936605,
+    "cost_per_capita":788.936605317,
+    "investment_ratio":0.58,
+    "rpp":97.8,
+    "col_weight":0.8844580777
   },
   {
     "city":"Greensboro",
@@ -390,10 +454,12 @@
     "population":301700,
     "lat":36.0726,
     "lon":-79.792,
-    "spending_per_capita":2456,
-    "investment_per_capita":1449,
-    "cost_per_capita":1007,
-    "investment_ratio":0.59
+    "spending_per_capita":2281.8904403867,
+    "investment_per_capita":1346.2781954887,
+    "cost_per_capita":935.612244898,
+    "investment_ratio":0.59,
+    "rpp":93.1,
+    "col_weight":0.9291084855
   },
   {
     "city":"Henderson",
@@ -402,10 +468,12 @@
     "population":331540,
     "lat":36.0395,
     "lon":-114.9817,
-    "spending_per_capita":2123,
-    "investment_per_capita":1316,
-    "cost_per_capita":807,
-    "investment_ratio":0.62
+    "spending_per_capita":1873.8724489796,
+    "investment_per_capita":1161.5714285714,
+    "cost_per_capita":712.3010204082,
+    "investment_ratio":0.62,
+    "rpp":98.0,
+    "col_weight":0.8826530612
   },
   {
     "city":"Hialeah",
@@ -414,10 +482,12 @@
     "population":223109,
     "lat":25.8576,
     "lon":-80.2781,
-    "spending_per_capita":1987,
-    "investment_per_capita":1073,
-    "cost_per_capita":914,
-    "investment_ratio":0.54
+    "spending_per_capita":1708.5039761431,
+    "investment_per_capita":922.6093439364,
+    "cost_per_capita":785.8946322068,
+    "investment_ratio":0.54,
+    "rpp":100.6,
+    "col_weight":0.8598409543
   },
   {
     "city":"Honolulu",
@@ -426,10 +496,12 @@
     "population":345510,
     "lat":21.3069,
     "lon":-157.8583,
-    "spending_per_capita":4567,
-    "investment_per_capita":2421,
-    "cost_per_capita":2146,
-    "investment_ratio":0.53
+    "spending_per_capita":3314.1401006711,
+    "investment_per_capita":1756.8498322148,
+    "cost_per_capita":1557.2902684564,
+    "investment_ratio":0.53,
+    "rpp":119.2,
+    "col_weight":0.7256711409
   },
   {
     "city":"Houston",
@@ -438,10 +510,12 @@
     "population":2314157,
     "lat":29.7604,
     "lon":-95.3698,
-    "spending_per_capita":3012,
-    "investment_per_capita":1747,
-    "cost_per_capita":1265,
-    "investment_ratio":0.58
+    "spending_per_capita":2733.8719832109,
+    "investment_per_capita":1585.6820566632,
+    "cost_per_capita":1148.1899265477,
+    "investment_ratio":0.58,
+    "rpp":95.3,
+    "col_weight":0.907660021
   },
   {
     "city":"Indianapolis",
@@ -450,10 +524,12 @@
     "population":887642,
     "lat":39.7684,
     "lon":-86.1581,
-    "spending_per_capita":3567,
-    "investment_per_capita":1926,
-    "cost_per_capita":1641,
-    "investment_ratio":0.54
+    "spending_per_capita":3401.8246968026,
+    "investment_per_capita":1836.8136714443,
+    "cost_per_capita":1565.0110253583,
+    "investment_ratio":0.54,
+    "rpp":90.7,
+    "col_weight":0.953693495
   },
   {
     "city":"Irvine",
@@ -462,10 +538,12 @@
     "population":314603,
     "lat":33.6846,
     "lon":-117.8265,
-    "spending_per_capita":2876,
-    "investment_per_capita":1812,
-    "cost_per_capita":1064,
-    "investment_ratio":0.63
+    "spending_per_capita":2209.3605683837,
+    "investment_per_capita":1391.9893428064,
+    "cost_per_capita":817.3712255773,
+    "investment_ratio":0.63,
+    "rpp":112.6,
+    "col_weight":0.7682060391
   },
   {
     "city":"Irving",
@@ -474,10 +552,12 @@
     "population":256684,
     "lat":32.814,
     "lon":-96.9489,
-    "spending_per_capita":2876,
-    "investment_per_capita":1697,
-    "cost_per_capita":1179,
-    "investment_ratio":0.59
+    "spending_per_capita":2610.4302203568,
+    "investment_per_capita":1540.2990556139,
+    "cost_per_capita":1070.1311647429,
+    "investment_ratio":0.59,
+    "rpp":95.3,
+    "col_weight":0.907660021
   },
   {
     "city":"Jacksonville",
@@ -486,10 +566,12 @@
     "population":985843,
     "lat":30.3322,
     "lon":-81.6557,
-    "spending_per_capita":2876,
-    "investment_per_capita":1668,
-    "cost_per_capita":1208,
-    "investment_ratio":0.58
+    "spending_per_capita":2472.902584493,
+    "investment_per_capita":1434.2147117296,
+    "cost_per_capita":1038.6878727634,
+    "investment_ratio":0.58,
+    "rpp":100.6,
+    "col_weight":0.8598409543
   },
   {
     "city":"Jersey City",
@@ -498,10 +580,12 @@
     "population":292449,
     "lat":40.7178,
     "lon":-74.0431,
-    "spending_per_capita":5678,
-    "investment_per_capita":2839,
-    "cost_per_capita":2839,
-    "investment_ratio":0.5
+    "spending_per_capita":4327.2863436123,
+    "investment_per_capita":2163.6431718062,
+    "cost_per_capita":2163.6431718062,
+    "investment_ratio":0.5,
+    "rpp":113.5,
+    "col_weight":0.7621145374
   },
   {
     "city":"Kansas City",
@@ -510,10 +594,12 @@
     "population":508090,
     "lat":39.0997,
     "lon":-94.5786,
-    "spending_per_capita":3234,
-    "investment_per_capita":1779,
-    "cost_per_capita":1455,
-    "investment_ratio":0.55
+    "spending_per_capita":3150.2364864865,
+    "investment_per_capita":1732.9222972973,
+    "cost_per_capita":1417.3141891892,
+    "investment_ratio":0.55,
+    "rpp":88.8,
+    "col_weight":0.9740990991
   },
   {
     "city":"Laredo",
@@ -522,10 +608,12 @@
     "population":261776,
     "lat":27.5036,
     "lon":-99.5076,
-    "spending_per_capita":1765,
-    "investment_per_capita":988,
-    "cost_per_capita":777,
-    "investment_ratio":0.56
+    "spending_per_capita":1602.0199370409,
+    "investment_per_capita":896.7681007345,
+    "cost_per_capita":705.2518363064,
+    "investment_ratio":0.56,
+    "rpp":95.3,
+    "col_weight":0.907660021
   },
   {
     "city":"Las Vegas",
@@ -534,10 +622,12 @@
     "population":660929,
     "lat":36.1699,
     "lon":-115.1398,
-    "spending_per_capita":2567,
-    "investment_per_capita":1489,
-    "cost_per_capita":1078,
-    "investment_ratio":0.58
+    "spending_per_capita":2265.7704081633,
+    "investment_per_capita":1314.2704081633,
+    "cost_per_capita":951.5,
+    "investment_ratio":0.58,
+    "rpp":98.0,
+    "col_weight":0.8826530612
   },
   {
     "city":"Lexington",
@@ -546,10 +636,12 @@
     "population":322570,
     "lat":38.0406,
     "lon":-84.5037,
-    "spending_per_capita":2876,
-    "investment_per_capita":1639,
-    "cost_per_capita":1237,
-    "investment_ratio":0.57
+    "spending_per_capita":2795.2134831461,
+    "investment_per_capita":1592.9606741573,
+    "cost_per_capita":1202.2528089888,
+    "investment_ratio":0.57,
+    "rpp":89.0,
+    "col_weight":0.9719101124
   },
   {
     "city":"Lincoln",
@@ -558,10 +650,12 @@
     "population":295222,
     "lat":40.8136,
     "lon":-96.7026,
-    "spending_per_capita":2345,
-    "investment_per_capita":1407,
-    "cost_per_capita":938,
-    "investment_ratio":0.6
+    "spending_per_capita":2216.8579234973,
+    "investment_per_capita":1330.1147540984,
+    "cost_per_capita":886.7431693989,
+    "investment_ratio":0.6,
+    "rpp":91.5,
+    "col_weight":0.9453551913
   },
   {
     "city":"Long Beach",
@@ -570,10 +664,12 @@
     "population":466742,
     "lat":33.7701,
     "lon":-118.1937,
-    "spending_per_capita":3123,
-    "investment_per_capita":1686,
-    "cost_per_capita":1437,
-    "investment_ratio":0.54
+    "spending_per_capita":2399.1074600355,
+    "investment_per_capita":1295.1953818828,
+    "cost_per_capita":1103.9120781528,
+    "investment_ratio":0.54,
+    "rpp":112.6,
+    "col_weight":0.7682060391
   },
   {
     "city":"Los Angeles",
@@ -582,10 +678,12 @@
     "population":3820914,
     "lat":34.0522,
     "lon":-118.2437,
-    "spending_per_capita":4567,
-    "investment_per_capita":2512,
-    "cost_per_capita":2055,
-    "investment_ratio":0.55
+    "spending_per_capita":3508.3969804618,
+    "investment_per_capita":1929.7335701599,
+    "cost_per_capita":1578.663410302,
+    "investment_ratio":0.55,
+    "rpp":112.6,
+    "col_weight":0.7682060391
   },
   {
     "city":"Louisville",
@@ -594,10 +692,12 @@
     "population":628594,
     "lat":38.2527,
     "lon":-85.7585,
-    "spending_per_capita":3123,
-    "investment_per_capita":1718,
-    "cost_per_capita":1405,
-    "investment_ratio":0.55
+    "spending_per_capita":3035.2752808989,
+    "investment_per_capita":1669.7415730337,
+    "cost_per_capita":1365.5337078652,
+    "investment_ratio":0.55,
+    "rpp":89.0,
+    "col_weight":0.9719101124
   },
   {
     "city":"Lubbock",
@@ -606,10 +706,12 @@
     "population":266538,
     "lat":33.5779,
     "lon":-101.8552,
-    "spending_per_capita":2123,
-    "investment_per_capita":1253,
-    "cost_per_capita":870,
-    "investment_ratio":0.59
+    "spending_per_capita":1926.962224554,
+    "investment_per_capita":1137.2980062959,
+    "cost_per_capita":789.6642182581,
+    "investment_ratio":0.59,
+    "rpp":95.3,
+    "col_weight":0.907660021
   },
   {
     "city":"Madison",
@@ -618,10 +720,12 @@
     "population":269840,
     "lat":43.0731,
     "lon":-89.4012,
-    "spending_per_capita":3234,
-    "investment_per_capita":1876,
-    "cost_per_capita":1358,
-    "investment_ratio":0.58
+    "spending_per_capita":2991.8823529412,
+    "investment_per_capita":1735.550802139,
+    "cost_per_capita":1256.3315508021,
+    "investment_ratio":0.58,
+    "rpp":93.5,
+    "col_weight":0.9251336898
   },
   {
     "city":"Memphis",
@@ -630,10 +734,12 @@
     "population":633104,
     "lat":35.1495,
     "lon":-90.049,
-    "spending_per_capita":2876,
-    "investment_per_capita":1496,
-    "cost_per_capita":1380,
-    "investment_ratio":0.52
+    "spending_per_capita":2727.7850877193,
+    "investment_per_capita":1418.9035087719,
+    "cost_per_capita":1308.8815789474,
+    "investment_ratio":0.52,
+    "rpp":91.2,
+    "col_weight":0.9484649123
   },
   {
     "city":"Mesa",
@@ -642,10 +748,12 @@
     "population":511648,
     "lat":33.4152,
     "lon":-111.8315,
-    "spending_per_capita":2123,
-    "investment_per_capita":1295,
-    "cost_per_capita":828,
-    "investment_ratio":0.61
+    "spending_per_capita":1877.7044989775,
+    "investment_per_capita":1145.3732106339,
+    "cost_per_capita":732.3312883436,
+    "investment_ratio":0.61,
+    "rpp":97.8,
+    "col_weight":0.8844580777
   },
   {
     "city":"Miami",
@@ -654,10 +762,12 @@
     "population":449514,
     "lat":25.7617,
     "lon":-80.1918,
-    "spending_per_capita":4567,
-    "investment_per_capita":2375,
-    "cost_per_capita":2192,
-    "investment_ratio":0.52
+    "spending_per_capita":3926.893638171,
+    "investment_per_capita":2042.1222664016,
+    "cost_per_capita":1884.7713717694,
+    "investment_ratio":0.52,
+    "rpp":100.6,
+    "col_weight":0.8598409543
   },
   {
     "city":"Milwaukee",
@@ -666,10 +776,12 @@
     "population":577222,
     "lat":43.0389,
     "lon":-87.9065,
-    "spending_per_capita":3876,
-    "investment_per_capita":1977,
-    "cost_per_capita":1899,
-    "investment_ratio":0.51
+    "spending_per_capita":3585.8181818182,
+    "investment_per_capita":1828.9893048128,
+    "cost_per_capita":1756.8288770053,
+    "investment_ratio":0.51,
+    "rpp":93.5,
+    "col_weight":0.9251336898
   },
   {
     "city":"Minneapolis",
@@ -678,10 +790,12 @@
     "population":429954,
     "lat":44.9778,
     "lon":-93.265,
-    "spending_per_capita":4876,
-    "investment_per_capita":2633,
-    "cost_per_capita":2243,
-    "investment_ratio":0.54
+    "spending_per_capita":4303.8163265306,
+    "investment_per_capita":2324.0255102041,
+    "cost_per_capita":1979.7908163265,
+    "investment_ratio":0.54,
+    "rpp":98.0,
+    "col_weight":0.8826530612
   },
   {
     "city":"Modesto",
@@ -690,10 +804,12 @@
     "population":218464,
     "lat":37.6391,
     "lon":-120.9969,
-    "spending_per_capita":2123,
-    "investment_per_capita":1168,
-    "cost_per_capita":955,
-    "investment_ratio":0.55
+    "spending_per_capita":1630.9014209591,
+    "investment_per_capita":897.2646536412,
+    "cost_per_capita":733.6367673179,
+    "investment_ratio":0.55,
+    "rpp":112.6,
+    "col_weight":0.7682060391
   },
   {
     "city":"Moreno Valley",
@@ -702,10 +818,12 @@
     "population":217928,
     "lat":33.9425,
     "lon":-117.2297,
-    "spending_per_capita":1654,
-    "investment_per_capita":959,
-    "cost_per_capita":695,
-    "investment_ratio":0.58
+    "spending_per_capita":1270.6127886323,
+    "investment_per_capita":736.7095914742,
+    "cost_per_capita":533.9031971581,
+    "investment_ratio":0.58,
+    "rpp":112.6,
+    "col_weight":0.7682060391
   },
   {
     "city":"Nashville",
@@ -714,10 +832,12 @@
     "population":683622,
     "lat":36.1627,
     "lon":-86.7816,
-    "spending_per_capita":3876,
-    "investment_per_capita":2248,
-    "cost_per_capita":1628,
-    "investment_ratio":0.58
+    "spending_per_capita":3676.25,
+    "investment_per_capita":2132.149122807,
+    "cost_per_capita":1544.100877193,
+    "investment_ratio":0.58,
+    "rpp":91.2,
+    "col_weight":0.9484649123
   },
   {
     "city":"New Orleans",
@@ -726,10 +846,12 @@
     "population":383997,
     "lat":29.9511,
     "lon":-90.0715,
-    "spending_per_capita":3876,
-    "investment_per_capita":1860,
-    "cost_per_capita":2016,
-    "investment_ratio":0.48
+    "spending_per_capita":3725.2666666667,
+    "investment_per_capita":1787.6666666667,
+    "cost_per_capita":1937.6,
+    "investment_ratio":0.48,
+    "rpp":90.0,
+    "col_weight":0.9611111111
   },
   {
     "city":"New York",
@@ -738,10 +860,12 @@
     "population":8258035,
     "lat":40.7128,
     "lon":-74.006,
-    "spending_per_capita":12456,
-    "investment_per_capita":6477,
-    "cost_per_capita":5979,
-    "investment_ratio":0.52
+    "spending_per_capita":9296.3244176014,
+    "investment_per_capita":4833.9991371872,
+    "cost_per_capita":4462.3252804142,
+    "investment_ratio":0.52,
+    "rpp":115.9,
+    "col_weight":0.7463330457
   },
   {
     "city":"Newark",
@@ -750,10 +874,12 @@
     "population":311549,
     "lat":40.7357,
     "lon":-74.1724,
-    "spending_per_capita":5234,
-    "investment_per_capita":2460,
-    "cost_per_capita":2774,
-    "investment_ratio":0.47
+    "spending_per_capita":3988.9074889868,
+    "investment_per_capita":1874.8017621145,
+    "cost_per_capita":2114.1057268722,
+    "investment_ratio":0.47,
+    "rpp":113.5,
+    "col_weight":0.7621145374
   },
   {
     "city":"Norfolk",
@@ -762,10 +888,12 @@
     "population":238005,
     "lat":36.8508,
     "lon":-76.2859,
-    "spending_per_capita":3234,
-    "investment_per_capita":1746,
-    "cost_per_capita":1488,
-    "investment_ratio":0.54
+    "spending_per_capita":2705.4255319149,
+    "investment_per_capita":1460.6286266925,
+    "cost_per_capita":1244.7969052224,
+    "investment_ratio":0.54,
+    "rpp":103.4,
+    "col_weight":0.83655706
   },
   {
     "city":"North Las Vegas",
@@ -774,10 +902,12 @@
     "population":287011,
     "lat":36.1989,
     "lon":-115.1175,
-    "spending_per_capita":1987,
-    "investment_per_capita":1172,
-    "cost_per_capita":815,
-    "investment_ratio":0.59
+    "spending_per_capita":1753.8316326531,
+    "investment_per_capita":1034.4693877551,
+    "cost_per_capita":719.362244898,
+    "investment_ratio":0.59,
+    "rpp":98.0,
+    "col_weight":0.8826530612
   },
   {
     "city":"Oakland",
@@ -786,10 +916,12 @@
     "population":430553,
     "lat":37.8044,
     "lon":-122.2712,
-    "spending_per_capita":4234,
-    "investment_per_capita":2202,
-    "cost_per_capita":2032,
-    "investment_ratio":0.52
+    "spending_per_capita":3252.5843694494,
+    "investment_per_capita":1691.5896980462,
+    "cost_per_capita":1560.9946714032,
+    "investment_ratio":0.52,
+    "rpp":112.6,
+    "col_weight":0.7682060391
   },
   {
     "city":"Oklahoma City",
@@ -798,10 +930,12 @@
     "population":681054,
     "lat":35.4676,
     "lon":-97.5164,
-    "spending_per_capita":2345,
-    "investment_per_capita":1384,
-    "cost_per_capita":961,
-    "investment_ratio":0.59
+    "spending_per_capita":2294.5984162896,
+    "investment_per_capita":1354.2533936652,
+    "cost_per_capita":940.3450226244,
+    "investment_ratio":0.59,
+    "rpp":88.4,
+    "col_weight":0.9785067873
   },
   {
     "city":"Omaha",
@@ -810,10 +944,12 @@
     "population":489265,
     "lat":41.2565,
     "lon":-95.9345,
-    "spending_per_capita":2876,
-    "investment_per_capita":1668,
-    "cost_per_capita":1208,
-    "investment_ratio":0.58
+    "spending_per_capita":2718.8415300546,
+    "investment_per_capita":1576.8524590164,
+    "cost_per_capita":1141.9890710383,
+    "investment_ratio":0.58,
+    "rpp":91.5,
+    "col_weight":0.9453551913
   },
   {
     "city":"Orlando",
@@ -822,10 +958,12 @@
     "population":320742,
     "lat":28.5383,
     "lon":-81.3792,
-    "spending_per_capita":2876,
-    "investment_per_capita":1668,
-    "cost_per_capita":1208,
-    "investment_ratio":0.58
+    "spending_per_capita":2472.902584493,
+    "investment_per_capita":1434.2147117296,
+    "cost_per_capita":1038.6878727634,
+    "investment_ratio":0.58,
+    "rpp":100.6,
+    "col_weight":0.8598409543
   },
   {
     "city":"Philadelphia",
@@ -834,10 +972,12 @@
     "population":1550542,
     "lat":39.9526,
     "lon":-75.1652,
-    "spending_per_capita":6789,
-    "investment_per_capita":3191,
-    "cost_per_capita":3598,
-    "investment_ratio":0.47
+    "spending_per_capita":6023.0615384615,
+    "investment_per_capita":2830.9897435897,
+    "cost_per_capita":3192.0717948718,
+    "investment_ratio":0.47,
+    "rpp":97.5,
+    "col_weight":0.8871794872
   },
   {
     "city":"Phoenix",
@@ -846,10 +986,12 @@
     "population":1650070,
     "lat":33.4484,
     "lon":-112.074,
-    "spending_per_capita":2876,
-    "investment_per_capita":1726,
-    "cost_per_capita":1150,
-    "investment_ratio":0.6
+    "spending_per_capita":2543.7014314928,
+    "investment_per_capita":1526.5746421268,
+    "cost_per_capita":1017.1267893661,
+    "investment_ratio":0.6,
+    "rpp":97.8,
+    "col_weight":0.8844580777
   },
   {
     "city":"Pittsburgh",
@@ -858,10 +1000,12 @@
     "population":302971,
     "lat":40.4406,
     "lon":-79.9959,
-    "spending_per_capita":3876,
-    "investment_per_capita":1938,
-    "cost_per_capita":1938,
-    "investment_ratio":0.5
+    "spending_per_capita":3438.7076923077,
+    "investment_per_capita":1719.3538461538,
+    "cost_per_capita":1719.3538461538,
+    "investment_ratio":0.5,
+    "rpp":97.5,
+    "col_weight":0.8871794872
   },
   {
     "city":"Plano",
@@ -870,10 +1014,12 @@
     "population":288253,
     "lat":33.0198,
     "lon":-96.6989,
-    "spending_per_capita":2567,
-    "investment_per_capita":1566,
-    "cost_per_capita":1001,
-    "investment_ratio":0.61
+    "spending_per_capita":2329.963273872,
+    "investment_per_capita":1421.3955928646,
+    "cost_per_capita":908.5676810073,
+    "investment_ratio":0.61,
+    "rpp":95.3,
+    "col_weight":0.907660021
   },
   {
     "city":"Portland",
@@ -882,10 +1028,12 @@
     "population":635067,
     "lat":45.5155,
     "lon":-122.6789,
-    "spending_per_capita":4567,
-    "investment_per_capita":2421,
-    "cost_per_capita":2146,
-    "investment_ratio":0.53
+    "spending_per_capita":3915.2180376611,
+    "investment_per_capita":2075.485629336,
+    "cost_per_capita":1839.7324083251,
+    "investment_ratio":0.53,
+    "rpp":100.9,
+    "col_weight":0.85728444
   },
   {
     "city":"Raleigh",
@@ -894,10 +1042,12 @@
     "population":482295,
     "lat":35.7796,
     "lon":-78.6382,
-    "spending_per_capita":2567,
-    "investment_per_capita":1592,
-    "cost_per_capita":975,
-    "investment_ratio":0.62
+    "spending_per_capita":2385.0214822771,
+    "investment_per_capita":1479.1407089151,
+    "cost_per_capita":905.880773362,
+    "investment_ratio":0.62,
+    "rpp":93.1,
+    "col_weight":0.9291084855
   },
   {
     "city":"Reno",
@@ -906,10 +1056,12 @@
     "population":274827,
     "lat":39.5296,
     "lon":-119.8138,
-    "spending_per_capita":2876,
-    "investment_per_capita":1639,
-    "cost_per_capita":1237,
-    "investment_ratio":0.57
+    "spending_per_capita":2538.5102040816,
+    "investment_per_capita":1446.6683673469,
+    "cost_per_capita":1091.8418367347,
+    "investment_ratio":0.57,
+    "rpp":98.0,
+    "col_weight":0.8826530612
   },
   {
     "city":"Richmond",
@@ -918,10 +1070,12 @@
     "population":226604,
     "lat":37.5407,
     "lon":-77.436,
-    "spending_per_capita":4123,
-    "investment_per_capita":2103,
-    "cost_per_capita":2020,
-    "investment_ratio":0.51
+    "spending_per_capita":3449.1247582205,
+    "investment_per_capita":1759.2794970986,
+    "cost_per_capita":1689.8452611219,
+    "investment_ratio":0.51,
+    "rpp":103.4,
+    "col_weight":0.83655706
   },
   {
     "city":"Riverside",
@@ -930,10 +1084,12 @@
     "population":314998,
     "lat":33.9533,
     "lon":-117.3962,
-    "spending_per_capita":2234,
-    "investment_per_capita":1251,
-    "cost_per_capita":983,
-    "investment_ratio":0.56
+    "spending_per_capita":1716.1722912966,
+    "investment_per_capita":961.0257548845,
+    "cost_per_capita":755.1465364121,
+    "investment_ratio":0.56,
+    "rpp":112.6,
+    "col_weight":0.7682060391
   },
   {
     "city":"Sacramento",
@@ -942,10 +1098,12 @@
     "population":524943,
     "lat":38.5816,
     "lon":-121.4944,
-    "spending_per_capita":2876,
-    "investment_per_capita":1553,
-    "cost_per_capita":1323,
-    "investment_ratio":0.54
+    "spending_per_capita":2209.3605683837,
+    "investment_per_capita":1193.0239786856,
+    "cost_per_capita":1016.336589698,
+    "investment_ratio":0.54,
+    "rpp":112.6,
+    "col_weight":0.7682060391
   },
   {
     "city":"San Antonio",
@@ -954,10 +1112,12 @@
     "population":1495295,
     "lat":29.4241,
     "lon":-98.4936,
-    "spending_per_capita":2456,
-    "investment_per_capita":1449,
-    "cost_per_capita":1007,
-    "investment_ratio":0.59
+    "spending_per_capita":2229.2130115425,
+    "investment_per_capita":1315.1993704092,
+    "cost_per_capita":914.0136411333,
+    "investment_ratio":0.59,
+    "rpp":95.3,
+    "col_weight":0.907660021
   },
   {
     "city":"San Bernardino",
@@ -966,10 +1126,12 @@
     "population":222203,
     "lat":34.1083,
     "lon":-117.2898,
-    "spending_per_capita":2123,
-    "investment_per_capita":1104,
-    "cost_per_capita":1019,
-    "investment_ratio":0.52
+    "spending_per_capita":1630.9014209591,
+    "investment_per_capita":848.0994671403,
+    "cost_per_capita":782.8019538188,
+    "investment_ratio":0.52,
+    "rpp":112.6,
+    "col_weight":0.7682060391
   },
   {
     "city":"San Diego",
@@ -978,10 +1140,12 @@
     "population":1388320,
     "lat":32.7157,
     "lon":-117.1611,
-    "spending_per_capita":3234,
-    "investment_per_capita":1843,
-    "cost_per_capita":1391,
-    "investment_ratio":0.57
+    "spending_per_capita":2484.378330373,
+    "investment_per_capita":1415.8037300178,
+    "cost_per_capita":1068.5746003552,
+    "investment_ratio":0.57,
+    "rpp":112.6,
+    "col_weight":0.7682060391
   },
   {
     "city":"San Francisco",
@@ -990,10 +1154,12 @@
     "population":808437,
     "lat":37.7749,
     "lon":-122.4194,
-    "spending_per_capita":11234,
-    "investment_per_capita":5505,
-    "cost_per_capita":5729,
-    "investment_ratio":0.49
+    "spending_per_capita":8630.026642984,
+    "investment_per_capita":4228.9742451155,
+    "cost_per_capita":4401.0523978686,
+    "investment_ratio":0.49,
+    "rpp":112.6,
+    "col_weight":0.7682060391
   },
   {
     "city":"San Jose",
@@ -1002,10 +1168,12 @@
     "population":945942,
     "lat":37.3382,
     "lon":-121.8863,
-    "spending_per_capita":3876,
-    "investment_per_capita":2171,
-    "cost_per_capita":1705,
-    "investment_ratio":0.56
+    "spending_per_capita":2977.56660746,
+    "investment_per_capita":1667.7753108348,
+    "cost_per_capita":1309.7912966252,
+    "investment_ratio":0.56,
+    "rpp":112.6,
+    "col_weight":0.7682060391
   },
   {
     "city":"Santa Ana",
@@ -1014,10 +1182,12 @@
     "population":309441,
     "lat":33.7455,
     "lon":-117.8677,
-    "spending_per_capita":2345,
-    "investment_per_capita":1290,
-    "cost_per_capita":1055,
-    "investment_ratio":0.55
+    "spending_per_capita":1801.4431616341,
+    "investment_per_capita":990.9857904085,
+    "cost_per_capita":810.4573712256,
+    "investment_ratio":0.55,
+    "rpp":112.6,
+    "col_weight":0.7682060391
   },
   {
     "city":"Scottsdale",
@@ -1026,10 +1196,12 @@
     "population":241361,
     "lat":33.4942,
     "lon":-111.9261,
-    "spending_per_capita":2876,
-    "investment_per_capita":1726,
-    "cost_per_capita":1150,
-    "investment_ratio":0.6
+    "spending_per_capita":2543.7014314928,
+    "investment_per_capita":1526.5746421268,
+    "cost_per_capita":1017.1267893661,
+    "investment_ratio":0.6,
+    "rpp":97.8,
+    "col_weight":0.8844580777
   },
   {
     "city":"Seattle",
@@ -1038,10 +1210,12 @@
     "population":755078,
     "lat":47.6062,
     "lon":-122.3321,
-    "spending_per_capita":5678,
-    "investment_per_capita":3123,
-    "cost_per_capita":2555,
-    "investment_ratio":0.55
+    "spending_per_capita":4568.8093023256,
+    "investment_per_capita":2512.9255813953,
+    "cost_per_capita":2055.8837209302,
+    "investment_ratio":0.55,
+    "rpp":107.5,
+    "col_weight":0.8046511628
   },
   {
     "city":"Spokane",
@@ -1050,10 +1224,12 @@
     "population":230160,
     "lat":47.6588,
     "lon":-117.426,
-    "spending_per_capita":2876,
-    "investment_per_capita":1611,
-    "cost_per_capita":1265,
-    "investment_ratio":0.56
+    "spending_per_capita":2314.176744186,
+    "investment_per_capita":1296.2930232558,
+    "cost_per_capita":1017.8837209302,
+    "investment_ratio":0.56,
+    "rpp":107.5,
+    "col_weight":0.8046511628
   },
   {
     "city":"St. Louis",
@@ -1062,10 +1238,12 @@
     "population":293310,
     "lat":38.627,
     "lon":-90.1994,
-    "spending_per_capita":4234,
-    "investment_per_capita":1990,
-    "cost_per_capita":2244,
-    "investment_ratio":0.47
+    "spending_per_capita":4124.3355855856,
+    "investment_per_capita":1938.4572072072,
+    "cost_per_capita":2185.8783783784,
+    "investment_ratio":0.47,
+    "rpp":88.8,
+    "col_weight":0.9740990991
   },
   {
     "city":"St. Paul",
@@ -1074,10 +1252,12 @@
     "population":307193,
     "lat":44.9537,
     "lon":-93.09,
-    "spending_per_capita":3567,
-    "investment_per_capita":1891,
-    "cost_per_capita":1676,
-    "investment_ratio":0.53
+    "spending_per_capita":3148.4234693878,
+    "investment_per_capita":1669.0969387755,
+    "cost_per_capita":1479.3265306122,
+    "investment_ratio":0.53,
+    "rpp":98.0,
+    "col_weight":0.8826530612
   },
   {
     "city":"St. Petersburg",
@@ -1086,10 +1266,12 @@
     "population":268091,
     "lat":27.7676,
     "lon":-82.6403,
-    "spending_per_capita":2876,
-    "investment_per_capita":1639,
-    "cost_per_capita":1237,
-    "investment_ratio":0.57
+    "spending_per_capita":2472.902584493,
+    "investment_per_capita":1409.2793240557,
+    "cost_per_capita":1063.6232604374,
+    "investment_ratio":0.57,
+    "rpp":100.6,
+    "col_weight":0.8598409543
   },
   {
     "city":"Stockton",
@@ -1098,10 +1280,12 @@
     "population":322120,
     "lat":37.9577,
     "lon":-121.2908,
-    "spending_per_capita":2123,
-    "investment_per_capita":1146,
-    "cost_per_capita":977,
-    "investment_ratio":0.54
+    "spending_per_capita":1630.9014209591,
+    "investment_per_capita":880.3641207815,
+    "cost_per_capita":750.5373001776,
+    "investment_ratio":0.54,
+    "rpp":112.6,
+    "col_weight":0.7682060391
   },
   {
     "city":"Tacoma",
@@ -1110,10 +1294,12 @@
     "population":221776,
     "lat":47.2529,
     "lon":-122.4443,
-    "spending_per_capita":3123,
-    "investment_per_capita":1718,
-    "cost_per_capita":1405,
-    "investment_ratio":0.55
+    "spending_per_capita":2512.9255813953,
+    "investment_per_capita":1382.3906976744,
+    "cost_per_capita":1130.5348837209,
+    "investment_ratio":0.55,
+    "rpp":107.5,
+    "col_weight":0.8046511628
   },
   {
     "city":"Tampa",
@@ -1122,10 +1308,12 @@
     "population":407599,
     "lat":27.9506,
     "lon":-82.4572,
-    "spending_per_capita":2876,
-    "investment_per_capita":1611,
-    "cost_per_capita":1265,
-    "investment_ratio":0.56
+    "spending_per_capita":2472.902584493,
+    "investment_per_capita":1385.203777336,
+    "cost_per_capita":1087.6988071571,
+    "investment_ratio":0.56,
+    "rpp":100.6,
+    "col_weight":0.8598409543
   },
   {
     "city":"Tucson",
@@ -1134,10 +1322,12 @@
     "population":546574,
     "lat":32.2226,
     "lon":-110.9747,
-    "spending_per_capita":2345,
-    "investment_per_capita":1313,
-    "cost_per_capita":1032,
-    "investment_ratio":0.56
+    "spending_per_capita":2074.054192229,
+    "investment_per_capita":1161.2934560327,
+    "cost_per_capita":912.7607361963,
+    "investment_ratio":0.56,
+    "rpp":97.8,
+    "col_weight":0.8844580777
   },
   {
     "city":"Tulsa",
@@ -1146,10 +1336,12 @@
     "population":413066,
     "lat":36.154,
     "lon":-95.9928,
-    "spending_per_capita":2456,
-    "investment_per_capita":1400,
-    "cost_per_capita":1056,
-    "investment_ratio":0.57
+    "spending_per_capita":2403.2126696833,
+    "investment_per_capita":1369.9095022624,
+    "cost_per_capita":1033.3031674208,
+    "investment_ratio":0.57,
+    "rpp":88.4,
+    "col_weight":0.9785067873
   },
   {
     "city":"Virginia Beach",
@@ -1158,10 +1350,12 @@
     "population":459470,
     "lat":36.8529,
     "lon":-75.978,
-    "spending_per_capita":3456,
-    "investment_per_capita":2039,
-    "cost_per_capita":1417,
-    "investment_ratio":0.59
+    "spending_per_capita":2891.1411992263,
+    "investment_per_capita":1705.7398452611,
+    "cost_per_capita":1185.4013539652,
+    "investment_ratio":0.59,
+    "rpp":103.4,
+    "col_weight":0.83655706
   },
   {
     "city":"Washington",
@@ -1170,10 +1364,12 @@
     "population":678972,
     "lat":38.9072,
     "lon":-77.0369,
-    "spending_per_capita":13456,
-    "investment_per_capita":6728,
-    "cost_per_capita":6728,
-    "investment_ratio":0.5
+    "spending_per_capita":9965.2739726027,
+    "investment_per_capita":4982.6369863014,
+    "cost_per_capita":4982.6369863014,
+    "investment_ratio":0.5,
+    "rpp":116.8,
+    "col_weight":0.7405821918
   },
   {
     "city":"Wichita",
@@ -1182,10 +1378,12 @@
     "population":400110,
     "lat":37.6872,
     "lon":-97.3301,
-    "spending_per_capita":2234,
-    "investment_per_capita":1296,
-    "cost_per_capita":938,
-    "investment_ratio":0.58
+    "spending_per_capita":2139.9889258029,
+    "investment_per_capita":1241.4617940199,
+    "cost_per_capita":898.5271317829,
+    "investment_ratio":0.58,
+    "rpp":90.3,
+    "col_weight":0.9579180509
   },
   {
     "city":"Winston-Salem",
@@ -1194,9 +1392,11 @@
     "population":252292,
     "lat":36.0999,
     "lon":-80.2442,
-    "spending_per_capita":2345,
-    "investment_per_capita":1360,
-    "cost_per_capita":985,
-    "investment_ratio":0.58
+    "spending_per_capita":2178.7593984962,
+    "investment_per_capita":1263.5875402793,
+    "cost_per_capita":915.171858217,
+    "investment_ratio":0.58,
+    "rpp":93.1,
+    "col_weight":0.9291084855
   }
 ]

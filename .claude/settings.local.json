@@ -17,7 +17,10 @@
       "WebFetch(domain:www.ssa.gov)",
       "WebFetch(domain:www.bea.gov)",
       "WebFetch(domain:fred.stlouisfed.org)",
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "Bash(jupyter nbconvert:*)",
+      "Bash(python3 -m jupyter:*)",
+      "Bash(.venv/bin/python:*)"
     ]
   }
 }

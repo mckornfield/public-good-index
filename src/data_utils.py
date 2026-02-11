@@ -187,6 +187,41 @@ def fetch_state_population(year: str = "2023") -> pd.DataFrame:
 
 
 # ---------------------------------------------------------------------------
+# BEA Regional Price Parities (RPP) — Cost-of-Living Normalization
+# ---------------------------------------------------------------------------
+
+# 2023 BEA Regional Price Parities (all items, states + DC)
+# National average = 100.  Source: FRED / BEA PARPP table.
+_RPP_2023 = {
+    "AL": 87.8, "AK": 105.4, "AZ": 97.8, "AR": 86.5, "CA": 112.6,
+    "CO": 104.3, "CT": 108.7, "DE": 100.0, "FL": 100.6, "GA": 92.3,
+    "HI": 119.2, "ID": 95.2, "IL": 97.0, "IN": 90.7, "IA": 89.5,
+    "KS": 90.3, "KY": 89.0, "LA": 90.0, "ME": 99.3, "MD": 109.7,
+    "MA": 110.1, "MI": 91.9, "MN": 98.0, "MS": 86.7, "MO": 88.8,
+    "MT": 95.5, "NE": 91.5, "NV": 98.0, "NH": 106.0, "NJ": 113.5,
+    "NM": 92.8, "NY": 115.9, "NC": 93.1, "ND": 91.2, "OH": 90.4,
+    "OK": 88.4, "OR": 100.9, "PA": 97.5, "RI": 100.3, "SC": 91.1,
+    "SD": 90.6, "TN": 91.2, "TX": 95.3, "UT": 97.9, "VT": 103.2,
+    "VA": 103.4, "WA": 107.5, "WV": 86.7, "WI": 93.5, "WY": 95.3,
+    "DC": 116.8,
+}
+
+
+def get_col_weights() -> pd.DataFrame:
+    """Return a DataFrame with cost-of-living weights for each state.
+
+    Columns: state, rpp, col_weight
+    col_weight = min(RPP) / state_RPP  →  cheapest state gets 1.0,
+    expensive states get < 1.0.
+    """
+    min_rpp = min(_RPP_2023.values())
+    rows = []
+    for st, rpp in _RPP_2023.items():
+        rows.append({"state": st, "rpp": rpp, "col_weight": min_rpp / rpp})
+    return pd.DataFrame(rows)
+
+
+# ---------------------------------------------------------------------------
 # Census State Government Finances
 # ---------------------------------------------------------------------------
 

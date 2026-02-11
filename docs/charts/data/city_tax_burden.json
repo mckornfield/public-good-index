@@ -6,7 +6,9 @@
     "population":564559,
     "lat":35.0844,
     "lon":-106.6504,
-    "tax_per_capita":1098
+    "tax_per_capita":1023.4590517241,
+    "rpp":92.8,
+    "col_weight":0.932112069
   },
   {
     "city":"Anaheim",
@@ -15,7 +17,9 @@
     "population":350986,
     "lat":33.8366,
     "lon":-117.9143,
-    "tax_per_capita":1234
+    "tax_per_capita":947.9662522202,
+    "rpp":112.6,
+    "col_weight":0.7682060391
   },
   {
     "city":"Arlington",
@@ -24,7 +28,9 @@
     "population":394266,
     "lat":32.7357,
     "lon":-97.1081,
-    "tax_per_capita":987
+    "tax_per_capita":895.8604407135,
+    "rpp":95.3,
+    "col_weight":0.907660021
   },
   {
     "city":"Atlanta",
@@ -33,7 +39,9 @@
     "population":510823,
     "lat":33.749,
     "lon":-84.388,
-    "tax_per_capita":2345
+    "tax_per_capita":2197.6435536295,
+    "rpp":92.3,
+    "col_weight":0.9371614301
   },
   {
     "city":"Aurora",
@@ -42,7 +50,9 @@
     "population":395282,
     "lat":39.7294,
     "lon":-104.8319,
-    "tax_per_capita":987
+    "tax_per_capita":818.5570469799,
+    "rpp":104.3,
+    "col_weight":0.8293384468
   },
   {
     "city":"Austin",
@@ -51,7 +61,9 @@
     "population":979882,
     "lat":30.2672,
     "lon":-97.7431,
-    "tax_per_capita":1467
+    "tax_per_capita":1331.537250787,
+    "rpp":95.3,
+    "col_weight":0.907660021
   },
   {
     "city":"Bakersfield",
@@ -60,7 +72,9 @@
     "population":413280,
     "lat":35.3733,
     "lon":-119.0187,
-    "tax_per_capita":765
+    "tax_per_capita":587.6776198934,
+    "rpp":112.6,
+    "col_weight":0.7682060391
   },
   {
     "city":"Baltimore",
@@ -69,7 +83,9 @@
     "population":585708,
     "lat":39.2904,
     "lon":-76.6122,
-    "tax_per_capita":3234
+    "tax_per_capita":2550.0546946217,
+    "rpp":109.7,
+    "col_weight":0.7885141294
   },
   {
     "city":"Baton Rouge",
@@ -78,7 +94,9 @@
     "population":225128,
     "lat":30.4515,
     "lon":-91.1871,
-    "tax_per_capita":1567
+    "tax_per_capita":1506.0611111111,
+    "rpp":90.0,
+    "col_weight":0.9611111111
   },
   {
     "city":"Boise",
@@ -87,7 +105,9 @@
     "population":237446,
     "lat":43.615,
     "lon":-116.2023,
-    "tax_per_capita":1098
+    "tax_per_capita":997.6575630252,
+    "rpp":95.2,
+    "col_weight":0.9086134454
   },
   {
     "city":"Boston",
@@ -96,7 +116,9 @@
     "population":654776,
     "lat":42.3601,
     "lon":-71.0589,
-    "tax_per_capita":3567
+    "tax_per_capita":2802.4114441417,
+    "rpp":110.1,
+    "col_weight":0.7856494096
   },
   {
     "city":"Chandler",
@@ -105,7 +127,9 @@
     "population":283500,
     "lat":33.3062,
     "lon":-111.8413,
-    "tax_per_capita":876
+    "tax_per_capita":774.7852760736,
+    "rpp":97.8,
+    "col_weight":0.8844580777
   },
   {
     "city":"Charlotte",
@@ -114,7 +138,9 @@
     "population":897720,
     "lat":35.2271,
     "lon":-80.8431,
-    "tax_per_capita":1187
+    "tax_per_capita":1102.8517722879,
+    "rpp":93.1,
+    "col_weight":0.9291084855
   },
   {
     "city":"Chesapeake",
@@ -123,7 +149,9 @@
     "population":254444,
     "lat":36.7682,
     "lon":-76.2875,
-    "tax_per_capita":1567
+    "tax_per_capita":1310.8849129594,
+    "rpp":103.4,
+    "col_weight":0.83655706
   },
   {
     "city":"Chicago",
@@ -132,7 +160,9 @@
     "population":2665039,
     "lat":41.8781,
     "lon":-87.6298,
-    "tax_per_capita":3145
+    "tax_per_capita":2804.5618556701,
+    "rpp":97.0,
+    "col_weight":0.8917525773
   },
   {
     "city":"Cincinnati",
@@ -141,7 +171,9 @@
     "population":311097,
     "lat":39.1031,
     "lon":-84.512,
-    "tax_per_capita":1876
+    "tax_per_capita":1795.0663716814,
+    "rpp":90.4,
+    "col_weight":0.9568584071
   },
   {
     "city":"Cleveland",
@@ -150,7 +182,9 @@
     "population":361607,
     "lat":41.4993,
     "lon":-81.6944,
-    "tax_per_capita":1654
+    "tax_per_capita":1582.6438053097,
+    "rpp":90.4,
+    "col_weight":0.9568584071
   },
   {
     "city":"Colorado Springs",
@@ -159,7 +193,9 @@
     "population":488664,
     "lat":38.8339,
     "lon":-104.8214,
-    "tax_per_capita":1123
+    "tax_per_capita":931.347075743,
+    "rpp":104.3,
+    "col_weight":0.8293384468
   },
   {
     "city":"Columbus",
@@ -168,7 +204,9 @@
     "population":905748,
     "lat":39.9612,
     "lon":-82.9988,
-    "tax_per_capita":1534
+    "tax_per_capita":1467.8207964602,
+    "rpp":90.4,
+    "col_weight":0.9568584071
   },
   {
     "city":"Corpus Christi",
@@ -177,7 +215,9 @@
     "population":317773,
     "lat":27.8006,
     "lon":-97.3964,
-    "tax_per_capita":876
+    "tax_per_capita":795.1101783841,
+    "rpp":95.3,
+    "col_weight":0.907660021
   },
   {
     "city":"Dallas",
@@ -186,7 +226,9 @@
     "population":1302092,
     "lat":32.7767,
     "lon":-96.797,
-    "tax_per_capita":1543
+    "tax_per_capita":1400.519412382,
+    "rpp":95.3,
+    "col_weight":0.907660021
   },
   {
     "city":"Denver",
@@ -195,7 +237,9 @@
     "population":713252,
     "lat":39.7392,
     "lon":-104.9903,
-    "tax_per_capita":2687
+    "tax_per_capita":2228.4324065197,
+    "rpp":104.3,
+    "col_weight":0.8293384468
   },
   {
     "city":"Des Moines",
@@ -204,7 +248,9 @@
     "population":214237,
     "lat":41.5868,
     "lon":-93.625,
-    "tax_per_capita":1567
+    "tax_per_capita":1514.4748603352,
+    "rpp":89.5,
+    "col_weight":0.9664804469
   },
   {
     "city":"Durham",
@@ -213,7 +259,9 @@
     "population":295179,
     "lat":35.994,
     "lon":-78.8986,
-    "tax_per_capita":1234
+    "tax_per_capita":1146.5198711063,
+    "rpp":93.1,
+    "col_weight":0.9291084855
   },
   {
     "city":"El Paso",
@@ -222,7 +270,9 @@
     "population":678815,
     "lat":31.7619,
     "lon":-106.485,
-    "tax_per_capita":743
+    "tax_per_capita":674.3913955929,
+    "rpp":95.3,
+    "col_weight":0.907660021
   },
   {
     "city":"Fontana",
@@ -231,7 +281,9 @@
     "population":218390,
     "lat":34.0922,
     "lon":-117.435,
-    "tax_per_capita":654
+    "tax_per_capita":502.406749556,
+    "rpp":112.6,
+    "col_weight":0.7682060391
   },
   {
     "city":"Fort Worth",
@@ -240,7 +292,9 @@
     "population":956709,
     "lat":32.7555,
     "lon":-97.3308,
-    "tax_per_capita":1098
+    "tax_per_capita":996.610703043,
+    "rpp":95.3,
+    "col_weight":0.907660021
   },
   {
     "city":"Fremont",
@@ -249,7 +303,9 @@
     "population":230504,
     "lat":37.5485,
     "lon":-121.9886,
-    "tax_per_capita":987
+    "tax_per_capita":758.2193605684,
+    "rpp":112.6,
+    "col_weight":0.7682060391
   },
   {
     "city":"Fresno",
@@ -258,7 +314,9 @@
     "population":545567,
     "lat":36.7378,
     "lon":-119.7871,
-    "tax_per_capita":987
+    "tax_per_capita":758.2193605684,
+    "rpp":112.6,
+    "col_weight":0.7682060391
   },
   {
     "city":"Garland",
@@ -267,7 +325,9 @@
     "population":246018,
     "lat":32.9126,
     "lon":-96.6389,
-    "tax_per_capita":987
+    "tax_per_capita":895.8604407135,
+    "rpp":95.3,
+    "col_weight":0.907660021
   },
   {
     "city":"Gilbert",
@@ -276,7 +336,9 @@
     "population":280892,
     "lat":33.3528,
     "lon":-111.789,
-    "tax_per_capita":765
+    "tax_per_capita":676.6104294479,
+    "rpp":97.8,
+    "col_weight":0.8844580777
   },
   {
     "city":"Glendale",
@@ -285,7 +347,9 @@
     "population":248325,
     "lat":33.5387,
     "lon":-112.186,
-    "tax_per_capita":876
+    "tax_per_capita":774.7852760736,
+    "rpp":97.8,
+    "col_weight":0.8844580777
   },
   {
     "city":"Greensboro",
@@ -294,7 +358,9 @@
     "population":301700,
     "lat":36.0726,
     "lon":-79.792,
-    "tax_per_capita":1098
+    "tax_per_capita":1020.1611170784,
+    "rpp":93.1,
+    "col_weight":0.9291084855
   },
   {
     "city":"Henderson",
@@ -303,7 +369,9 @@
     "population":331540,
     "lat":36.0395,
     "lon":-114.9817,
-    "tax_per_capita":876
+    "tax_per_capita":773.2040816327,
+    "rpp":98.0,
+    "col_weight":0.8826530612
   },
   {
     "city":"Hialeah",
@@ -312,7 +380,9 @@
     "population":223109,
     "lat":25.8576,
     "lon":-80.2781,
-    "tax_per_capita":765
+    "tax_per_capita":657.7783300199,
+    "rpp":100.6,
+    "col_weight":0.8598409543
   },
   {
     "city":"Honolulu",
@@ -321,7 +391,9 @@
     "population":345510,
     "lat":21.3069,
     "lon":-157.8583,
-    "tax_per_capita":2345
+    "tax_per_capita":1701.6988255034,
+    "rpp":119.2,
+    "col_weight":0.7256711409
   },
   {
     "city":"Houston",
@@ -330,7 +402,9 @@
     "population":2314157,
     "lat":29.7604,
     "lon":-95.3698,
-    "tax_per_capita":1187
+    "tax_per_capita":1077.3924449108,
+    "rpp":95.3,
+    "col_weight":0.907660021
   },
   {
     "city":"Indianapolis",
@@ -339,7 +413,9 @@
     "population":887642,
     "lat":39.7684,
     "lon":-86.1581,
-    "tax_per_capita":1876
+    "tax_per_capita":1789.1289966924,
+    "rpp":90.7,
+    "col_weight":0.953693495
   },
   {
     "city":"Irvine",
@@ -348,7 +424,9 @@
     "population":314603,
     "lat":33.6846,
     "lon":-117.8265,
-    "tax_per_capita":1234
+    "tax_per_capita":947.9662522202,
+    "rpp":112.6,
+    "col_weight":0.7682060391
   },
   {
     "city":"Irving",
@@ -357,7 +435,9 @@
     "population":256684,
     "lat":32.814,
     "lon":-96.9489,
-    "tax_per_capita":1345
+    "tax_per_capita":1220.8027282267,
+    "rpp":95.3,
+    "col_weight":0.907660021
   },
   {
     "city":"Jacksonville",
@@ -366,7 +446,9 @@
     "population":985843,
     "lat":30.3322,
     "lon":-81.6557,
-    "tax_per_capita":1187
+    "tax_per_capita":1020.6312127237,
+    "rpp":100.6,
+    "col_weight":0.8598409543
   },
   {
     "city":"Jersey City",
@@ -375,7 +457,9 @@
     "population":292449,
     "lat":40.7178,
     "lon":-74.0431,
-    "tax_per_capita":2876
+    "tax_per_capita":2191.8414096916,
+    "rpp":113.5,
+    "col_weight":0.7621145374
   },
   {
     "city":"Kansas City",
@@ -384,7 +468,9 @@
     "population":508090,
     "lat":39.0997,
     "lon":-94.5786,
-    "tax_per_capita":1654
+    "tax_per_capita":1611.1599099099,
+    "rpp":88.8,
+    "col_weight":0.9740990991
   },
   {
     "city":"Laredo",
@@ -393,7 +479,9 @@
     "population":261776,
     "lat":27.5036,
     "lon":-99.5076,
-    "tax_per_capita":654
+    "tax_per_capita":593.6096537251,
+    "rpp":95.3,
+    "col_weight":0.907660021
   },
   {
     "city":"Las Vegas",
@@ -402,7 +490,9 @@
     "population":660929,
     "lat":36.1699,
     "lon":-115.1398,
-    "tax_per_capita":1123
+    "tax_per_capita":991.2193877551,
+    "rpp":98.0,
+    "col_weight":0.8826530612
   },
   {
     "city":"Lexington",
@@ -411,7 +501,9 @@
     "population":322570,
     "lat":38.0406,
     "lon":-84.5037,
-    "tax_per_capita":1456
+    "tax_per_capita":1415.1011235955,
+    "rpp":89.0,
+    "col_weight":0.9719101124
   },
   {
     "city":"Lincoln",
@@ -420,7 +512,9 @@
     "population":295222,
     "lat":40.8136,
     "lon":-96.7026,
-    "tax_per_capita":1098
+    "tax_per_capita":1038.0,
+    "rpp":91.5,
+    "col_weight":0.9453551913
   },
   {
     "city":"Long Beach",
@@ -429,7 +523,9 @@
     "population":466742,
     "lat":33.7701,
     "lon":-118.1937,
-    "tax_per_capita":1456
+    "tax_per_capita":1118.5079928952,
+    "rpp":112.6,
+    "col_weight":0.7682060391
   },
   {
     "city":"Los Angeles",
@@ -438,7 +534,9 @@
     "population":3820914,
     "lat":34.0522,
     "lon":-118.2437,
-    "tax_per_capita":2214
+    "tax_per_capita":1700.8081705151,
+    "rpp":112.6,
+    "col_weight":0.7682060391
   },
   {
     "city":"Louisville",
@@ -447,7 +545,9 @@
     "population":628594,
     "lat":38.2527,
     "lon":-85.7585,
-    "tax_per_capita":1567
+    "tax_per_capita":1522.9831460674,
+    "rpp":89.0,
+    "col_weight":0.9719101124
   },
   {
     "city":"Lubbock",
@@ -456,7 +556,9 @@
     "population":266538,
     "lat":33.5779,
     "lon":-101.8552,
-    "tax_per_capita":876
+    "tax_per_capita":795.1101783841,
+    "rpp":95.3,
+    "col_weight":0.907660021
   },
   {
     "city":"Madison",
@@ -465,7 +567,9 @@
     "population":269840,
     "lat":43.0731,
     "lon":-89.4012,
-    "tax_per_capita":1876
+    "tax_per_capita":1735.550802139,
+    "rpp":93.5,
+    "col_weight":0.9251336898
   },
   {
     "city":"Memphis",
@@ -474,7 +578,9 @@
     "population":633104,
     "lat":35.1495,
     "lon":-90.049,
-    "tax_per_capita":1345
+    "tax_per_capita":1275.6853070175,
+    "rpp":91.2,
+    "col_weight":0.9484649123
   },
   {
     "city":"Mesa",
@@ -483,7 +589,9 @@
     "population":511648,
     "lat":33.4152,
     "lon":-111.8315,
-    "tax_per_capita":876
+    "tax_per_capita":774.7852760736,
+    "rpp":97.8,
+    "col_weight":0.8844580777
   },
   {
     "city":"Miami",
@@ -492,7 +600,9 @@
     "population":449514,
     "lat":25.7617,
     "lon":-80.1918,
-    "tax_per_capita":2345
+    "tax_per_capita":2016.3270377734,
+    "rpp":100.6,
+    "col_weight":0.8598409543
   },
   {
     "city":"Milwaukee",
@@ -501,7 +611,9 @@
     "population":577222,
     "lat":43.0389,
     "lon":-87.9065,
-    "tax_per_capita":1876
+    "tax_per_capita":1735.550802139,
+    "rpp":93.5,
+    "col_weight":0.9251336898
   },
   {
     "city":"Minneapolis",
@@ -510,7 +622,9 @@
     "population":429954,
     "lat":44.9778,
     "lon":-93.265,
-    "tax_per_capita":2567
+    "tax_per_capita":2265.7704081633,
+    "rpp":98.0,
+    "col_weight":0.8826530612
   },
   {
     "city":"Modesto",
@@ -519,7 +633,9 @@
     "population":218464,
     "lat":37.6391,
     "lon":-120.9969,
-    "tax_per_capita":876
+    "tax_per_capita":672.9484902309,
+    "rpp":112.6,
+    "col_weight":0.7682060391
   },
   {
     "city":"Moreno Valley",
@@ -528,7 +644,9 @@
     "population":217928,
     "lat":33.9425,
     "lon":-117.2297,
-    "tax_per_capita":567
+    "tax_per_capita":435.5728241563,
+    "rpp":112.6,
+    "col_weight":0.7682060391
   },
   {
     "city":"Nashville",
@@ -537,7 +655,9 @@
     "population":683622,
     "lat":36.1627,
     "lon":-86.7816,
-    "tax_per_capita":1923
+    "tax_per_capita":1823.8980263158,
+    "rpp":91.2,
+    "col_weight":0.9484649123
   },
   {
     "city":"New Orleans",
@@ -546,7 +666,9 @@
     "population":383997,
     "lat":29.9511,
     "lon":-90.0715,
-    "tax_per_capita":1876
+    "tax_per_capita":1803.0444444444,
+    "rpp":90.0,
+    "col_weight":0.9611111111
   },
   {
     "city":"New York",
@@ -555,7 +677,9 @@
     "population":8258035,
     "lat":40.7128,
     "lon":-74.006,
-    "tax_per_capita":5873
+    "tax_per_capita":4383.2139775669,
+    "rpp":115.9,
+    "col_weight":0.7463330457
   },
   {
     "city":"Newark",
@@ -564,7 +688,9 @@
     "population":311549,
     "lat":40.7357,
     "lon":-74.1724,
-    "tax_per_capita":2567
+    "tax_per_capita":1956.3480176211,
+    "rpp":113.5,
+    "col_weight":0.7621145374
   },
   {
     "city":"Norfolk",
@@ -573,7 +699,9 @@
     "population":238005,
     "lat":36.8508,
     "lon":-76.2859,
-    "tax_per_capita":1654
+    "tax_per_capita":1383.665377176,
+    "rpp":103.4,
+    "col_weight":0.83655706
   },
   {
     "city":"North Las Vegas",
@@ -582,7 +710,9 @@
     "population":287011,
     "lat":36.1989,
     "lon":-115.1175,
-    "tax_per_capita":765
+    "tax_per_capita":675.2295918367,
+    "rpp":98.0,
+    "col_weight":0.8826530612
   },
   {
     "city":"Oakland",
@@ -591,7 +721,9 @@
     "population":430553,
     "lat":37.8044,
     "lon":-122.2712,
-    "tax_per_capita":2123
+    "tax_per_capita":1630.9014209591,
+    "rpp":112.6,
+    "col_weight":0.7682060391
   },
   {
     "city":"Oklahoma City",
@@ -600,7 +732,9 @@
     "population":681054,
     "lat":35.4676,
     "lon":-97.5164,
-    "tax_per_capita":987
+    "tax_per_capita":965.786199095,
+    "rpp":88.4,
+    "col_weight":0.9785067873
   },
   {
     "city":"Omaha",
@@ -609,7 +743,9 @@
     "population":489265,
     "lat":41.2565,
     "lon":-95.9345,
-    "tax_per_capita":1234
+    "tax_per_capita":1166.5683060109,
+    "rpp":91.5,
+    "col_weight":0.9453551913
   },
   {
     "city":"Orlando",
@@ -618,7 +754,9 @@
     "population":320742,
     "lat":28.5383,
     "lon":-81.3792,
-    "tax_per_capita":1345
+    "tax_per_capita":1156.486083499,
+    "rpp":100.6,
+    "col_weight":0.8598409543
   },
   {
     "city":"Philadelphia",
@@ -627,7 +765,9 @@
     "population":1550542,
     "lat":39.9526,
     "lon":-75.1652,
-    "tax_per_capita":3412
+    "tax_per_capita":3027.0564102564,
+    "rpp":97.5,
+    "col_weight":0.8871794872
   },
   {
     "city":"Phoenix",
@@ -636,7 +776,9 @@
     "population":1650070,
     "lat":33.4484,
     "lon":-112.074,
-    "tax_per_capita":1356
+    "tax_per_capita":1199.3251533742,
+    "rpp":97.8,
+    "col_weight":0.8844580777
   },
   {
     "city":"Pittsburgh",
@@ -645,7 +787,9 @@
     "population":302971,
     "lat":40.4406,
     "lon":-79.9959,
-    "tax_per_capita":1987
+    "tax_per_capita":1762.8256410256,
+    "rpp":97.5,
+    "col_weight":0.8871794872
   },
   {
     "city":"Plano",
@@ -654,7 +798,9 @@
     "population":288253,
     "lat":33.0198,
     "lon":-96.6989,
-    "tax_per_capita":1234
+    "tax_per_capita":1120.0524658972,
+    "rpp":95.3,
+    "col_weight":0.907660021
   },
   {
     "city":"Portland",
@@ -663,7 +809,9 @@
     "population":635067,
     "lat":45.5155,
     "lon":-122.6789,
-    "tax_per_capita":2134
+    "tax_per_capita":1829.4449950446,
+    "rpp":100.9,
+    "col_weight":0.85728444
   },
   {
     "city":"Raleigh",
@@ -672,7 +820,9 @@
     "population":482295,
     "lat":35.7796,
     "lon":-78.6382,
-    "tax_per_capita":1098
+    "tax_per_capita":1020.1611170784,
+    "rpp":93.1,
+    "col_weight":0.9291084855
   },
   {
     "city":"Reno",
@@ -681,7 +831,9 @@
     "population":274827,
     "lat":39.5296,
     "lon":-119.8138,
-    "tax_per_capita":1234
+    "tax_per_capita":1089.193877551,
+    "rpp":98.0,
+    "col_weight":0.8826530612
   },
   {
     "city":"Richmond",
@@ -690,7 +842,9 @@
     "population":226604,
     "lat":37.5407,
     "lon":-77.436,
-    "tax_per_capita":2123
+    "tax_per_capita":1776.0106382979,
+    "rpp":103.4,
+    "col_weight":0.83655706
   },
   {
     "city":"Riverside",
@@ -699,7 +853,9 @@
     "population":314998,
     "lat":33.9533,
     "lon":-117.3962,
-    "tax_per_capita":987
+    "tax_per_capita":758.2193605684,
+    "rpp":112.6,
+    "col_weight":0.7682060391
   },
   {
     "city":"Sacramento",
@@ -708,7 +864,9 @@
     "population":524943,
     "lat":38.5816,
     "lon":-121.4944,
-    "tax_per_capita":1345
+    "tax_per_capita":1033.2371225577,
+    "rpp":112.6,
+    "col_weight":0.7682060391
   },
   {
     "city":"San Antonio",
@@ -717,7 +875,9 @@
     "population":1495295,
     "lat":29.4241,
     "lon":-98.4936,
-    "tax_per_capita":982
+    "tax_per_capita":891.3221406086,
+    "rpp":95.3,
+    "col_weight":0.907660021
   },
   {
     "city":"San Bernardino",
@@ -726,7 +886,9 @@
     "population":222203,
     "lat":34.1083,
     "lon":-117.2898,
-    "tax_per_capita":876
+    "tax_per_capita":672.9484902309,
+    "rpp":112.6,
+    "col_weight":0.7682060391
   },
   {
     "city":"San Diego",
@@ -735,7 +897,9 @@
     "population":1388320,
     "lat":32.7157,
     "lon":-117.1611,
-    "tax_per_capita":1528
+    "tax_per_capita":1173.8188277087,
+    "rpp":112.6,
+    "col_weight":0.7682060391
   },
   {
     "city":"San Francisco",
@@ -744,7 +908,9 @@
     "population":808437,
     "lat":37.7749,
     "lon":-122.4194,
-    "tax_per_capita":5124
+    "tax_per_capita":3936.2877442274,
+    "rpp":112.6,
+    "col_weight":0.7682060391
   },
   {
     "city":"San Jose",
@@ -753,7 +919,9 @@
     "population":945942,
     "lat":37.3382,
     "lon":-121.8863,
-    "tax_per_capita":1812
+    "tax_per_capita":1391.9893428064,
+    "rpp":112.6,
+    "col_weight":0.7682060391
   },
   {
     "city":"Santa Ana",
@@ -762,7 +930,9 @@
     "population":309441,
     "lat":33.7455,
     "lon":-117.8677,
-    "tax_per_capita":1098
+    "tax_per_capita":843.4902309059,
+    "rpp":112.6,
+    "col_weight":0.7682060391
   },
   {
     "city":"Scottsdale",
@@ -771,7 +941,9 @@
     "population":241361,
     "lat":33.4942,
     "lon":-111.9261,
-    "tax_per_capita":1234
+    "tax_per_capita":1091.4212678937,
+    "rpp":97.8,
+    "col_weight":0.8844580777
   },
   {
     "city":"Seattle",
@@ -780,7 +952,9 @@
     "population":755078,
     "lat":47.6062,
     "lon":-122.3321,
-    "tax_per_capita":2456
+    "tax_per_capita":1976.223255814,
+    "rpp":107.5,
+    "col_weight":0.8046511628
   },
   {
     "city":"Spokane",
@@ -789,7 +963,9 @@
     "population":230160,
     "lat":47.6588,
     "lon":-117.426,
-    "tax_per_capita":1345
+    "tax_per_capita":1082.2558139535,
+    "rpp":107.5,
+    "col_weight":0.8046511628
   },
   {
     "city":"St. Louis",
@@ -798,7 +974,9 @@
     "population":293310,
     "lat":38.627,
     "lon":-90.1994,
-    "tax_per_capita":2123
+    "tax_per_capita":2068.0123873874,
+    "rpp":88.8,
+    "col_weight":0.9740990991
   },
   {
     "city":"St. Paul",
@@ -807,7 +985,9 @@
     "population":307193,
     "lat":44.9537,
     "lon":-93.09,
-    "tax_per_capita":1876
+    "tax_per_capita":1655.8571428571,
+    "rpp":98.0,
+    "col_weight":0.8826530612
   },
   {
     "city":"St. Petersburg",
@@ -816,7 +996,9 @@
     "population":268091,
     "lat":27.7676,
     "lon":-82.6403,
-    "tax_per_capita":1345
+    "tax_per_capita":1156.486083499,
+    "rpp":100.6,
+    "col_weight":0.8598409543
   },
   {
     "city":"Stockton",
@@ -825,7 +1007,9 @@
     "population":322120,
     "lat":37.9577,
     "lon":-121.2908,
-    "tax_per_capita":876
+    "tax_per_capita":672.9484902309,
+    "rpp":112.6,
+    "col_weight":0.7682060391
   },
   {
     "city":"Tacoma",
@@ -834,7 +1018,9 @@
     "population":221776,
     "lat":47.2529,
     "lon":-122.4443,
-    "tax_per_capita":1456
+    "tax_per_capita":1171.5720930233,
+    "rpp":107.5,
+    "col_weight":0.8046511628
   },
   {
     "city":"Tampa",
@@ -843,7 +1029,9 @@
     "population":407599,
     "lat":27.9506,
     "lon":-82.4572,
-    "tax_per_capita":1234
+    "tax_per_capita":1061.0437375746,
+    "rpp":100.6,
+    "col_weight":0.8598409543
   },
   {
     "city":"Tucson",
@@ -852,7 +1040,9 @@
     "population":546574,
     "lat":32.2226,
     "lon":-110.9747,
-    "tax_per_capita":1012
+    "tax_per_capita":895.0715746421,
+    "rpp":97.8,
+    "col_weight":0.8844580777
   },
   {
     "city":"Tulsa",
@@ -861,7 +1051,9 @@
     "population":413066,
     "lat":36.154,
     "lon":-95.9928,
-    "tax_per_capita":1098
+    "tax_per_capita":1074.4004524887,
+    "rpp":88.4,
+    "col_weight":0.9785067873
   },
   {
     "city":"Virginia Beach",
@@ -870,7 +1062,9 @@
     "population":459470,
     "lat":36.8529,
     "lon":-75.978,
-    "tax_per_capita":1876
+    "tax_per_capita":1569.3810444874,
+    "rpp":103.4,
+    "col_weight":0.83655706
   },
   {
     "city":"Washington",
@@ -879,7 +1073,9 @@
     "population":678972,
     "lat":38.9072,
     "lon":-77.0369,
-    "tax_per_capita":6245
+    "tax_per_capita":4624.9357876712,
+    "rpp":116.8,
+    "col_weight":0.7405821918
   },
   {
     "city":"Wichita",
@@ -888,7 +1084,9 @@
     "population":400110,
     "lat":37.6872,
     "lon":-97.3301,
-    "tax_per_capita":1023
+    "tax_per_capita":979.950166113,
+    "rpp":90.3,
+    "col_weight":0.9579180509
   },
   {
     "city":"Winston-Salem",
@@ -897,6 +1095,8 @@
     "population":252292,
     "lat":36.0999,
     "lon":-80.2442,
-    "tax_per_capita":1098
+    "tax_per_capita":1020.1611170784,
+    "rpp":93.1,
+    "col_weight":0.9291084855
   }
 ]

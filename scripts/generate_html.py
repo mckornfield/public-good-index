@@ -64,20 +64,32 @@ def extract_outputs(nb_path: Path) -> str:
                     plotly_data = data["application/vnd.plotly.v1+json"]
                     div_id = f"plotly-{uuid.uuid4().hex[:12]}"
                     fig_data = json.dumps(plotly_data.get("data", []))
-                    fig_layout = json.dumps(plotly_data.get("layout", {}))
+                    # Merge mobile-friendly defaults into layout
+                    layout = plotly_data.get("layout", {})
+                    layout.setdefault("autosize", True)
+                    layout.setdefault("margin", {})
+                    layout["margin"].setdefault("l", 10)
+                    layout["margin"].setdefault("r", 10)
+                    layout["margin"].setdefault("t", 40)
+                    layout["margin"].setdefault("b", 10)
+                    fig_layout = json.dumps(layout)
                     parts.append(
                         f'<div id="{div_id}" class="plotly-graph-div" '
-                        f'style="width:100%;min-height:450px;"></div>\n'
+                        f'style="width:100%;"></div>\n'
                         f'<script type="text/javascript">\n'
                         f'Plotly.newPlot("{div_id}", {fig_data}, {fig_layout}, '
-                        f'{{"responsive": true}});\n'
+                        f'{{"responsive": true, "displayModeBar": false}});\n'
                         f'</script>'
                     )
 
                 # HTML output (tables, etc.)
                 elif "text/html" in data:
                     html_content = "".join(data["text/html"])
-                    parts.append(f'<div class="output-html">{html_content}</div>')
+                    # Wrap tables in a scrollable container for mobile
+                    if "<table" in html_content:
+                        parts.append(f'<div class="table-wrapper">{html_content}</div>')
+                    else:
+                        parts.append(f'<div class="output-html">{html_content}</div>')
 
                 # PNG image
                 elif "image/png" in data:
@@ -133,6 +145,9 @@ def main():
 <title>Public Good Index — Full Report</title>
 <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
 <style>
+    * {{
+        box-sizing: border-box;
+    }}
     body {{
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
         max-width: 1200px;
@@ -146,9 +161,13 @@ def main():
         color: #2c3e50;
         border-bottom: 3px solid #1abc9c;
         padding-bottom: 15px;
+        font-size: clamp(1.4rem, 4vw, 2rem);
     }}
     nav {{
-        text-align: center;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 8px 16px;
         margin: 20px 0 30px;
         padding: 15px;
         background: #fff;
@@ -156,10 +175,11 @@ def main():
         box-shadow: 0 1px 3px rgba(0,0,0,0.1);
     }}
     nav a {{
-        margin: 0 15px;
         color: #1abc9c;
         text-decoration: none;
         font-weight: 600;
+        font-size: 14px;
+        white-space: nowrap;
     }}
     nav a:hover {{
         text-decoration: underline;
@@ -168,6 +188,7 @@ def main():
         color: #2c3e50;
         border-left: 4px solid #1abc9c;
         padding-left: 12px;
+        font-size: clamp(1.1rem, 3vw, 1.5rem);
     }}
     section {{
         background: #fff;
@@ -175,10 +196,13 @@ def main():
         margin: 20px 0;
         border-radius: 8px;
         box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        overflow: hidden;
     }}
     .notebook-content img {{
         max-width: 100%;
         height: auto;
+        display: block;
+        margin: 0 auto;
     }}
     .output-text {{
         background: #f5f5f5;
@@ -187,27 +211,42 @@ def main():
         overflow-x: auto;
         font-size: 13px;
         white-space: pre-wrap;
+        word-break: break-word;
+    }}
+    /* Scrollable table wrapper */
+    .table-wrapper {{
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        margin: 10px 0;
     }}
     .notebook-content table {{
         border-collapse: collapse;
-        margin: 10px 0;
         font-size: 13px;
+        min-width: 400px;
     }}
     .notebook-content table th,
     .notebook-content table td {{
         border: 1px solid #ddd;
         padding: 6px 10px;
         text-align: right;
+        white-space: nowrap;
     }}
     .notebook-content table th {{
         background: #f0f0f0;
+        position: sticky;
+        top: 0;
+        z-index: 1;
     }}
     .output-image {{
         text-align: center;
         margin: 15px 0;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
     }}
     .output-html {{
         margin: 15px 0;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
     }}
     hr {{
         border: none;
@@ -216,6 +255,7 @@ def main():
     }}
     .plotly-graph-div {{
         margin: 15px 0;
+        min-height: 350px;
     }}
     footer {{
         text-align: center;
@@ -224,12 +264,44 @@ def main():
         margin-top: 40px;
         padding: 20px;
     }}
+    /* Mobile adjustments */
+    @media (max-width: 768px) {{
+        body {{
+            padding: 10px;
+        }}
+        section {{
+            padding: 12px;
+            margin: 10px 0;
+            border-radius: 6px;
+        }}
+        nav {{
+            padding: 10px;
+            gap: 6px 12px;
+        }}
+        nav a {{
+            font-size: 13px;
+        }}
+        .plotly-graph-div {{
+            min-height: 300px;
+        }}
+        .notebook-content table {{
+            font-size: 11px;
+        }}
+        .notebook-content table th,
+        .notebook-content table td {{
+            padding: 4px 6px;
+        }}
+        .output-text {{
+            font-size: 11px;
+            padding: 8px;
+        }}
+    }}
 </style>
 </head>
 <body>
 <h1>Public Good Index — Full Report</h1>
 <nav>
-    {" | ".join(nav_items)}
+    {"".join(nav_items)}
 </nav>
 
 {"".join(content_sections)}
